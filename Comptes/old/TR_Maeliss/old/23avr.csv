@@ -1,0 +1,6 @@
+﻿Date;Type;Statut;Montant;Détails
+30/04/2023;Débit;Echec;25,00 €;Tentative d'utilisation hors périodes autorisées ( Refusée )
+22/04/2023;Débit;Succès;25,00 €;SARL 3DLS - PLACE NAPOLEON III  BREST 29200
+15/04/2023;Débit;Echec;14,00 €;Commerçant non autorisé ( Refusée )
+14/04/2023;Débit;Succès;25,00 €;SARL MIDTOWN - 27 RUE DE BREST  PLOUZANE 29280
+06/04/2023;Crédit;Succès;94,50 €;Chargement de votre carte ( 9 titres x 10,50 € )

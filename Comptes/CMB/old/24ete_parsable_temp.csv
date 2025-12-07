@@ -1,0 +1,27 @@
+Date,Banque,Libellé,Montant,Tag,Type
+"2024""/07/""30",CMB,Salaire Arkea,2025.52€,salaire
+"2024""/07/""08",CMB,Cotisation eurocompte,-1.89€,banque
+"2024""/07/""08",CMB,Vers compte commun,-962.00€,caché
+"2024""/07/""05",CMB,Assurrance prêt,-14.72€,loyer
+"2024""/07/""05",CMB,Echeance prêt principal,-544.26€,loyer
+"2024""/07/""05",CMB,Echeance prêt taux zéro,-127.79€,loyer
+"2024""/07/""03",CMB,Cotisation eurocompte,-1.89€,banque
+"2024""/06/""28",CMB,Salaire Arkea,3075.43€,salaire
+"2024""/06/""26",CMB,Remboursement Assurance Suravenir,29.44€,banque,remboursement
+"2024""/06/""20",CMB,Vers compte commun,-1500.00€,caché
+"2024""/06/""20",CMB,Paiement enquête Univ Rennes,70.00€,autre,remboursement
+"2024""/06/""08",CMB,Vers compte commun,-1000.00€,caché
+"2024""/06/""07",CMB,Equilibre achat appartement,522.24€,autre,remboursement
+"2024""/06/""05",CMB,Assurrance prêt,-14.71€,loyer
+"2024""/06/""05",CMB,Echeance prêt principal,-383.98€,loyer
+"2024""/06/""05",CMB,Echeance prêt taux zéro,-127.79€,loyer
+"2024""/05/""30",CMB,Ti Coop,-19.37€,bouffe
+"2024""/05/""30",CMB,Allo Pizza,-14.00€,fastfood
+"2024""/05/""30",CMB,Salaire Arkea,2198.53€,salaire
+"2024""/05/""26",CMB,Apport notaire,-35630.00€,autre
+"2024""/05/""24",CMB,Virement maeliss pour apport,23630.00€,caché,remboursement
+"2024""/05/""16",CMB,Vers compte commun,-1500.00€,caché
+"2024""/05/""16",CMB,Virement PEE pour apport,8632.68€,autre,remboursement
+"2024""/05/""10",CMB,Virement Medi pour Air BNB,87.00€,vacances,remboursement
+"2024""/05/""07",CMB,Cotisation eurocompte,-1.89€,banque
+"2024""/05/""02",CMB,Vers compte commun,-1700.00€,caché

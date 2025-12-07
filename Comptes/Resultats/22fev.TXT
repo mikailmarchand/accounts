@@ -1,0 +1,224 @@
+Dépenses totales par catégories :
+            Montant
+Tag
+abonnement   -35.96
+banque      -243.87
+bouffe      -444.07
+caché          0.00
+cadeau       -15.00
+culture      -71.17
+don           -7.99
+grossesse    -29.75
+loyer       -736.00
+magic       -134.96
+matériel     -36.95
+restau      -292.95
+salaire     3475.03
+santé        -67.50
+sortie       -31.80
+transport   -350.40
+
+Total balance :
+976.6599999999999
+############################################################
+Détails par catégorie => abonnement
+
+         Date  Banque                          Libellé  Montant
+7  2022-02-24     LBP                  La poste mobile    -9.99
+30 2022-02-16     LBP                 Bouygues Telecom    -9.99
+5  2022-02-21  LBPMAE  PRELEVEMENT DE LA POSTE TELECOM    -4.99
+7  2022-02-21  LBPMAE                  ACHAT CB Deezer   -10.99
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+        Date Banque           Libellé  Montant
+2 2022-02-04    CIC     Prêt étudiant  -232.37
+3 2022-02-07    CIC  Frais banque CIC   -11.50
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+         Date  Banque                              Libellé  Montant
+3  2022-02-25     LBP                 Machine à café Arkéa    -0.90
+4  2022-02-25     LBP                 Machine à café Arkéa    -0.90
+5  2022-02-25     LBP                 Machine à café Arkéa    -0.80
+11 2022-02-22     LBP                              Ti Coop   -53.85
+13 2022-02-22     LBP                              Ti Coop    -2.32
+14 2022-02-22     LBP                 Machine à café Arkéa    -0.30
+15 2022-02-22     LBP                 Machine à café Arkéa    -0.30
+16 2022-02-21     LBP                                Géant   -46.00
+17 2022-02-21     LBP                            Carrefour   -29.71
+18 2022-02-21     LBP                          Azra Market   -18.80
+20 2022-02-21     LBP                             Brulerie   -13.80
+24 2022-02-18     LBP                 Machine à café Arkéa    -1.00
+25 2022-02-18     LBP                 Machine à café Arkéa    -1.00
+27 2022-02-17     LBP  Boulangerie : Le Moulin de l'Iroise    -3.80
+28 2022-02-17     LBP                 Machine à café Arkéa    -0.30
+29 2022-02-17     LBP                 Machine à café Arkéa    -0.30
+32 2022-02-16     LBP                 Machine à café Arkéa    -0.30
+34 2022-02-15     LBP                                Géant  -131.51
+35 2022-02-15     LBP                 Machine à café Arkéa    -0.30
+36 2022-02-15     LBP                 Machine à café Arkéa    -0.30
+39 2022-02-14     LBP                 Machine à café Arkéa    -1.20
+40 2022-02-14     LBP                 Machine à café Arkéa    -0.90
+41 2022-02-14     LBP                 Machine à café Arkéa    -0.30
+42 2022-02-14     LBP                 Machine à café Arkéa    -0.30
+43 2022-02-11     LBP                 Machine à café Arkéa    -0.30
+44 2022-02-11     LBP                 Machine à café Arkéa    -0.30
+45 2022-02-09     LBP                 Machine à café Arkéa    -0.30
+46 2022-02-09     LBP                 Machine à café Arkéa    -0.30
+48 2022-02-08     LBP                 Machine à café Arkéa    -0.30
+51 2022-02-07     LBP                            Magasin U   -45.62
+54 2022-02-07     LBP                        Maison du thé   -22.55
+57 2022-02-07     LBP                             Brulerie    -4.50
+59 2022-02-03     LBP                            Carrefour    -5.97
+4  2022-02-22  LBPMAE     ACHAT CB BRASSERIE PLOU 21.02.22    -0.75
+15 2022-02-09  LBPMAE     ACHAT CB BIOCOOP PLOUZA 08.02.22   -19.14
+20 2022-02-07  LBPMAE     ACHAT CB BOULANG IROISE 05.02.22    -3.35
+0  2022-02-25   TRMAE      CTR : Boulangerie Kichen An Aod    -2.60
+3  2022-02-18   TRMAE                   CTR : Géant Casino   -19.00
+5  2022-02-14   TRMAE                     La Brioche Dorée    -3.00
+6  2022-02-13   TRMAE            Le Tamelier de Saint Marc    -6.90
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+         Date  Banque                                      Libellé  Montant
+0  2022-02-01     CIC                       Virement Compte Commun  -1700.0
+60 2022-02-02     LBP                                Virement Mika   1700.0
+11 2022-02-14  LBPMAE             VIREMENT DE MME MARCHAND MAELISS    200.0
+22 2022-02-02  LBPMAE             VIREMENT DE MME MARCHAND MAELISS    200.0
+26 2022-02-12  LBPMAE  VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -200.0
+27 2022-02-02  LBPMAE  VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -200.0
+############################################################
+
+############################################################
+Détails par catégorie => cadeau
+
+         Date  Banque                  Libellé  Montant
+12 2022-02-22     LBP        Cagnotte Papayoux     -5.0
+10 2022-02-14  LBPMAE  ACHAT CB LEPOTCOMMUN.FR    -10.0
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+         Date Banque                Libellé  Montant
+21 2022-02-21    LBP            Achat Steam   -11.99
+53 2022-02-07    LBP        Rakuten: comics   -23.48
+55 2022-02-07    LBP                   FNAC   -12.90
+58 2022-02-04    LBP  Achat Board Game Geek   -22.80
+############################################################
+
+############################################################
+Détails par catégorie => don
+
+         Date Banque                                  Libellé  Montant
+1  2022-02-03    CIC  Paypal : Don application Circle of 5ths    -0.99
+47 2022-02-08    LBP                    Amnesty International    -7.00
+############################################################
+
+############################################################
+Détails par catégorie => grossesse
+
+         Date  Banque                           Libellé  Montant
+8  2022-02-21  LBPMAE           VIREMENT DE ALLIANZ VIE    25.94
+13 2022-02-11  LBPMAE  ACHAT CB MME CARON DANA 10.02.22   -25.94
+16 2022-02-07  LBPMAE  ACHAT CB VERTBAUDET.FR  05.02.22   -60.25
+21 2022-02-04  LBPMAE           VIREMENT DE ALLIANZ VIE     7.50
+24 2022-02-01  LBPMAE    VIREMENT DE C.P.A.M. FINISTERE    15.50
+25 2022-02-01  LBPMAE           VIREMENT DE ALLIANZ VIE     7.50
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+         Date Banque               Libellé  Montant
+6  2022-02-24    LBP  Loyer (Mme Calvarin)    -86.0
+49 2022-02-07    LBP  Loyer (Mme Calvarin)   -650.0
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+         Date Banque             Libellé  Montant
+0  2022-02-25    LBP         MKM (Magic)    -2.09
+1  2022-02-25    LBP         MKM (Magic)   -12.40
+2  2022-02-25    LBP         MKM (Magic)   -22.89
+9  2022-02-22    LBP         MKM (Magic)    -6.57
+10 2022-02-22    LBP         MKM (Magic)    -8.08
+22 2022-02-18    LBP         MKM (Magic)   -10.93
+23 2022-02-18    LBP         MKM (Magic)   -10.55
+33 2022-02-15    LBP         MKM (Magic)   -38.72
+37 2022-02-14    LBP         MKM (Magic)    -2.74
+38 2022-02-14    LBP  XSolla : MtG Arena   -19.99
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+         Date Banque                     Libellé  Montant
+52 2022-02-07    LBP                Leroy Merlin   -26.95
+56 2022-02-07    LBP  Magasin Lalibee (capucins)   -10.00
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+         Date  Banque           Libellé  Montant
+19 2022-02-21     LBP     Orijinal Pide   -13.90
+26 2022-02-17     LBP    Pizzeria Pozzi    -7.00
+31 2022-02-16     LBP             Arkéa   -40.00
+50 2022-02-07     LBP    Burger O'Local   -46.15
+6  2022-02-21  LBPMAE  ACHAT CB MIDTOWN   -20.00
+1  2022-02-23   TRMAE     CTR : O'Local   -36.10
+2  2022-02-19   TRMAE     Orijinal Pide   -19.00
+4  2022-02-16   TRMAE    Pizzeria Pozzi   -38.00
+7  2022-02-10   TRMAE  CTR : China Town   -37.80
+8  2022-02-09   TRMAE    Pizzeria Pozzi   -35.00
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+        Date  Banque                                            Libellé  Montant
+4 2022-02-28     CIC                                            Salaire  2116.50
+2 2022-02-28  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE vir sala...  1159.03
+9 2022-02-04   TRMAE   Chargement de votre carte ( 19 titres x 10,50€ )   199.50
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+        Date  Banque                           Libellé  Montant
+8 2022-02-24     LBP                      Dr DU CORAIL     -7.5
+3 2022-02-25  LBPMAE  ACHAT CB QUEMENEUR STEP 24.02.22    -60.0
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+         Date  Banque                           Libellé  Montant
+0  2022-02-28  LBPMAE  ACHAT CB CAFES RICHARD  25.02.22     -4.8
+1  2022-02-28  LBPMAE  ACHAT CB RELAY 340257SC 25.02.22     -2.3
+9  2022-02-16  LBPMAE                ACHAT CB BEAJ KAFE     -4.0
+17 2022-02-07  LBPMAE  ACHAT CB HAMILTON       05.02.22     -9.9
+18 2022-02-07  LBPMAE  ACHAT CB BRULERIE DES C 06.02.22     -6.0
+19 2022-02-07  LBPMAE  ACHAT CB BRULERIE DES C 06.02.22     -4.8
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+         Date  Banque                                            Libellé  Montant
+12 2022-02-11  LBPMAE  PRELEVEMENT DE RD BREST REF : 662989 PREL BIBU...    -3.75
+14 2022-02-10  LBPMAE                   ACHAT CB DAC SAS KERALA 08.02.22   -44.19
+23 2022-02-01  LBPMAE                   ACHAT CB GARAGE RANNOU  31.01.22  -302.46
+############################################################
+
+NOTE : Y a un +1900/-1900 qui se compensent ce mois ci que j'ai supprimé des logs
+Ils devraient être en caché, donc osef. 

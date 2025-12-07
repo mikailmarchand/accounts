@@ -1,0 +1,93 @@
+Date,Banque,Libellé,Montant,Tag,Type
+2023/01/31,LBP,Carrefour,-16.05€,bouffe
+2023/01/31,LBP,Pharmacie,-7.56€,santé
+2023/01/31,LBP,PAJE,314.24€,azenor,remboursement
+2023/01/30,LBP,MKM (Magic),-8.97€,magic
+2023/01/30,LBP,EDF,-36.96€,abonnement
+2023/01/30,LBP,Magasin U,-51.90€,bouffe
+2023/01/30,LBP,Le fournil de Pauline (Boulangerie Bellevue),-4.50€,bouffe
+2023/01/30,LBP,MKM (Magic),24.87€,magic,remboursement
+2023/01/27,LBP,Paiement Dude,-22.71€,magic
+2023/01/27,LBP,La Gentle Factory,70.00€,vêtements,remboursement
+2023/01/25,LBP,Juneo,-58.50€,azenor
+2023/01/24,LBP,La poste mobile,-9.99€,abonnement
+2023/01/24,LBP,Les petits culottés (couches),-52.25€,azenor
+2023/01/24,LBP,Amazon,-25.36€,matériel
+2023/01/24,LBP,Rejeanne,158.00€,vêtements
+2023/01/23,LBP,MKM (Magic),-13.03€,magic
+2023/01/23,LBP,Magic Corporation,-133.10€,magic
+2023/01/23,LBP,Boku,-99.00€,matériel
+2023/01/23,LBP,Hellofresh,-56.35€,bouffe
+2023/01/23,LBP,Magasin U,-52.62€,bouffe
+2023/01/23,LBP,Babybio,-34.71€,azenor
+2023/01/23,LBP,Burger King,-25.90€,restau
+2023/01/23,LBP,Le fournil de Pauline (Boulangerie Bellevue),-9.10€,bouffe
+2023/01/23,LBP,Magasin U,-6.91€,bouffe
+2023/01/20,LBP,Paiement Luke Lydia,64.90€,magic,remboursement
+2023/01/20,LBP,Virement Maeliss,500.00€,caché
+2023/01/19,LBP,Rejeanne,-158.00€,vêtements
+2023/01/19,LBP,Les 3 Brasseurs,-120.70€,restau
+2023/01/19,LBP,Machine à café Arkéa,-1.20€,bouffe
+2023/01/19,LBP,MKM (Magic),12.13€,magic,remboursement
+2023/01/18,LBP,Rejeanne,-158.00€,vêtements
+2023/01/18,LBP,Remboursement chèque cadeau Maeliss,100.00€,cadeau,remboursement
+2023/01/18,LBP,Remboursement chèque cadeau Maeliss,18.00€,cadeau,remboursement
+2023/01/18,LBP,Remboursement chèque cadeau Maeliss,8.00€,cadeau,remboursement
+2023/01/18,LBP,MKM,1.00€,magic,remboursement
+2023/01/17,LBP,Machine à café Arkéa,-1.20€,bouffe
+2023/01/17,LBP,Machine à café Arkéa,-1.00€,bouffe
+2023/01/17,LBP,MKM (Magic),23.79€,magic,remboursement
+2023/01/16,LBP,MKM (Magic),-1.00€,magic
+2023/01/16,LBP,Bouygues,-29.99€,abonnement
+2023/01/16,LBP,HelloFresh,-56.35€,bouffe
+2023/01/16,LBP,Celio,-45.98€,vêtements
+2023/01/16,LBP,Magasin U,-38.50€,bouffe
+2023/01/16,LBP,Croc Jeux,-31.50€,culture
+2023/01/16,LBP,Subway,-16.80€,restau
+2023/01/16,LBP,Carrefour,-12.01€,bouffe
+2023/01/13,LBP,CGT (Syndicat),-20.00€,abonnement
+2023/01/12,LBP,La Cave aux moines,-44.00€,restau
+2023/01/12,LBP,Kebab : Otantik kebab,-30.00€,restau
+2023/01/11,LBP,Virement aux parents maeliss pour assurrance,-52.00€,abonnement
+2023/01/11,LBP,Magasin U,-41.43€,bouffe
+2023/01/10,LBP,La Gentle Factory,-69.50€,vêtements
+2023/01/10,LBP,ShoCo,-46.35€,sortie
+2023/01/10,LBP,Librairie (Dialogue ?),-18.00€,culture
+2023/01/10,LBP,Louli des bois,-16.90€,azenor
+2023/01/10,LBP,MKM (Magic),8.56€,magic,remboursement
+2023/01/10,LBP,MKM (Magic),5.46€,magic,remboursement
+2023/01/09,LBP,Amnesty International,-7.00€,don
+2023/01/09,LBP,Morphée,-79.95€,azenor
+2023/01/09,LBP,Paypal : Netflix,-5.99€,abonnement
+2023/01/09,LBP,Retrait,-20.00€,dab
+2023/01/09,LBP,MKM,11.36€,magic,remboursement
+2023/01/06,LBP,Adhésion Mika 2023,-50.00€,evl
+2023/01/06,LBP,Adhésion Maeliss 2023,-50.00€,evl
+2023/01/06,LBP,Adhésion Manu 2023,-50.00€,evl
+2023/01/06,LBP,Adhésion Lanie 2023,-50.00€,evl
+2023/01/06,LBP,Adhésion Lanie 2022,-50.00€,evl
+2023/01/06,LBP,Paiment Plombier,-75.46€,autre
+2023/01/06,LBP,SNCF,-154.00€,transport
+2023/01/06,LBP,Asphalte,-146.00€,vêtements
+2023/01/06,LBP,Carrefour,-92.47€,bouffe
+2023/01/06,LBP,Paiement dude,53.58€,magic,remboursement
+2023/01/06,LBP,Paiment Lanie,50.00€,evl,remboursement
+2023/01/06,LBP,Virement à Manu,50.00€,evl,remboursement
+2023/01/06,LBP,Virement Maeliss,50.00€,evl
+2023/01/05,LBP,Cadeau Steph,-20.00€,cadeau
+2023/01/05,LBP,Total Energie,-74.00€,abonnement
+2023/01/05,LBP,HelloFresh,-56.35€,bouffe
+2023/01/05,LBP,CAF,182.00€,azenor,remboursement
+2023/01/04,LBP,Virement Maeliss,-500.00€,caché
+2023/01/04,LBP,Chèques vacances,-20.00€,autre
+2023/01/04,LBP,Carrefour,-25.23€,bouffe
+2023/01/04,LBP,Frais Banque,-21.00€,banque
+2023/01/03,LBP,MKM (Magic),-14.16€,magic
+2023/01/03,LBP,Magasin U,-55.82€,bouffe
+2023/01/02,LBP,Virement Mme Calvarin,-668.50€,loyer
+2023/01/02,LBP,Macdo (Morlaix),-17.80€,restau
+2023/01/02,LBP,Macdo (Morlaix),-6.20€,restau
+2023/01/02,LBP,Pharmacie (Montreuil),-3.12€,santé
+2023/01/02,LBP,Macdo (Morlaix),-2.50€,restau
+2023/01/02,LBP,Carrefour,-2.10€,bouffe
+2023/01/02,LBP,PAJE,314.24€,azenor,remboursement

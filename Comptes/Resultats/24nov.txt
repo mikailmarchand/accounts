@@ -1,0 +1,290 @@
+Dépenses totales par catégories :
+            Montant
+Tag
+abonnement    -2.11
+autre       -320.00
+azenor      -535.85
+banque        -4.90
+bouffe      -901.51
+cadeau      -139.50
+coiffeur     -69.20
+culture     -173.83
+economies   -100.00
+fastfood     -36.70
+loyer       -775.97
+magic         -3.95
+matériel    -366.87
+restau       -75.30
+salaire    2,032.85
+santé       -111.16
+sortie      -148.70
+sport        -85.99
+transport   -224.52
+vetements   -129.00
+vêtement     -87.00
+
+Total balance :
+-2259.21
+################################e############################
+Détails par catégorie => abonnement -2.1100000000000065
+
+                   Date  Banque                                            Libellé  Montant
+4   2024-11-26 00:00:00     LBP                                    LA POSTE MOBILE    -9.99
+15  2024-11-25 00:00:00     LBP                                            Netflix    -5.99
+19  2024-11-22 00:00:00     LBP                                                EDF   -76.00
+22  2024-11-20 00:00:00     LBP                                                EDF   199.76
+27  2024-11-15 00:00:00     LBP                                           Bouygues   -19.99
+33  2024-11-14 00:00:00     LBP                                      Total énergie    39.09
+34  2024-11-13 00:00:00     LBP                         Virement Philippe Marchand   -55.00
+53  2024-11-05 00:00:00     LBP                                     CGT (Syndicat)   -20.00
+23  2024-11-19 00:00:00  LBPMAE                     PRELEVEMENT DE LA POSTE MOBILE   -10.99
+49  2024-11-07 00:00:00  LBPMAE  PRELEVEMENT DE SYNDICAT DES META CGT REF : ASS...   -28.00
+60  2024-11-04 00:00:00  LBPMAE                   ACHAT CB LA DEFERLANTE  01.11.24   -15.00
+############################################################
+
+################################e############################
+Détails par catégorie => autre -320.0
+
+                   Date Banque                Libellé  Montant
+5   2024-11-26 00:00:00    LBP  Federal Finance (PEE)  -300.00
+51  2024-11-06 00:00:00    LBP       Chèques vacances   -20.00
+############################################################
+
+################################e############################
+Détails par catégorie => azenor -535.85
+
+                   Date  Banque                                            Libellé  Montant
+49  2024-11-07 00:00:00     LBP                                               PAJE   333.75
+50  2024-11-06 00:00:00     LBP                         Véronique Loriant (nounou)  -761.36
+52  2024-11-06 00:00:00     LBP                      Les petits culottés (couches)   -49.50
+56  2024-11-05 00:00:00     LBP                                                CAF    96.66
+9   2024-11-26 00:00:00  LBPMAE                   ACHAT CB PANDACRAFT     25.11.24   -30.00
+29  2024-11-15 00:00:00  LBPMAE                   ACHAT CB LALIBEE        14.11.24   -24.90
+35  2024-11-12 00:00:00  LBPMAE        VIREMENT PERMANENT POUR MME MARCHAND AZENOR   -50.00
+36  2024-11-12 00:00:00  LBPMAE  VIREMENT POUR MME MARCHAND AZENOR COMPTE FR411...   -30.00
+48  2024-11-08 00:00:00  LBPMAE                    REMISE DE CHEQUES DU 06/11/2024    30.00
+53  2024-11-06 00:00:00  LBPMAE                   ACHAT CB OKAIDI MAGASIN 05.11.24   -30.00
+59  2024-11-04 00:00:00  LBPMAE                   ACHAT CB R KID          31.10.24   -20.50
+############################################################
+
+################################e############################
+Détails par catégorie => banque -4.9
+
+            Date Banque                Libellé  Montant
+10  2024"/11/"07    CMB  Cotisation eurocompte    -4.90
+############################################################
+
+################################e############################
+Détails par catégorie => bouffe -901.51
+
+                   Date  Banque                              Libellé  Montant
+5          2024"/11/"20     CMB                 Machine à café Arkéa    -0.80
+8   2024-11-25 00:00:00     LBP                            Carrefour  -162.27
+28  2024-11-15 00:00:00     LBP  Boulangerie : Le Moulin de l'Iroise    -5.40
+30  2024-11-14 00:00:00     LBP                              Ti Coop   -41.05
+39  2024-11-12 00:00:00     LBP                           Hellofresh   -85.50
+40  2024-11-12 00:00:00     LBP                            Magasin U   -43.43
+43  2024-11-12 00:00:00     LBP                            Magasin U   -16.38
+55  2024-11-05 00:00:00     LBP                           Hellofresh   -85.50
+60  2024-11-04 00:00:00     LBP                            Magasin U   -47.95
+64  2024-11-04 00:00:00     LBP                 Machine à café Arkéa    -0.80
+8   2024-11-26 00:00:00  LBPMAE     ACHAT CB BIOCOOP        25.11.24   -44.85
+10  2024-11-26 00:00:00  LBPMAE     ACHAT CB HELIES LOIC    25.11.24    -1.30
+12  2024-11-25 00:00:00  LBPMAE     ACHAT CB HELIES LOIC    22.11.24    -6.10
+15  2024-11-22 00:00:00  LBPMAE     ACHAT CB B HARTELOIRE   21.11.24    -1.90
+17  2024-11-20 00:00:00  LBPMAE     ACHAT CB TERCOC PF      19.11.24   -20.00
+22  2024-11-20 00:00:00  LBPMAE     ACHAT CB FOURNIL BELLEV 19.11.24    -1.20
+28  2024-11-15 00:00:00  LBPMAE     ACHAT CB CARREFOUR      14.11.24   -61.51
+31  2024-11-14 00:00:00  LBPMAE     ACHAT CB BOULANG IROISE 13.11.24    -1.95
+32  2024-11-13 00:00:00  LBPMAE     ACHAT CB LA CORBEILLE D 12.11.24   -10.50
+38  2024-11-12 00:00:00  LBPMAE     ACHAT CB MAMAMIA        08.11.24   -41.00
+42  2024-11-12 00:00:00  LBPMAE     ACHAT CB MAP ITALIA     10.11.24   -10.00
+43  2024-11-12 00:00:00  LBPMAE     ACHAT CB GAEC DE LA BIS 10.11.24    -8.00
+44  2024-11-12 00:00:00  LBPMAE     ACHAT CB AU PAIN CHAUD  09.11.24    -1.25
+47  2024-11-08 00:00:00  LBPMAE     ACHAT CB AU P TIT LIPOU 07.11.24    -7.00
+51  2024-11-07 00:00:00  LBPMAE     ACHAT CB TERCOC PF      06.11.24   -10.48
+52  2024-11-06 00:00:00  LBPMAE     ACHAT CB CARREFOUR      05.11.24   -79.61
+56  2024-11-05 00:00:00  LBPMAE     ACHAT CB BIOCOOP        04.11.24   -35.58
+61  2024-11-04 00:00:00  LBPMAE     ACHAT CB TERCOC PF      31.10.24   -14.80
+62  2024-11-04 00:00:00  LBPMAE     ACHAT CB FOURNIL DE PAU 02.11.24    -5.40
+0   2024-11-08 00:00:00   TRMAE                              Super U   -25.00
+2   2024-11-02 00:00:00   TRMAE                              Super U   -25.00
+############################################################
+
+################################e############################
+Détails par catégorie => cadeau -139.5
+
+                   Date  Banque                                            Libellé  Montant
+4          2024"/11/"21     CMB                                     Virement Steph    30.00
+6          2024"/11/"20     CMB                                      Virement Medi    20.00
+36  2024-11-12 00:00:00     LBP                                Virement maman mika   -50.00
+58  2024-11-04 00:00:00     LBP                                Virement maman mika   -60.00
+3   2024-11-28 00:00:00  LBPMAE                   ACHAT CB LIBRAIRIE DIAL 27.11.24  -156.35
+4   2024-11-28 00:00:00  LBPMAE                   ACHAT CB DIALOGUES PAPE 27.11.24   -49.85
+5   2024-11-28 00:00:00  LBPMAE                   ACHAT CB LIBRAIRIE DIAL 27.11.24   -30.40
+11  2024-11-25 00:00:00  LBPMAE            ACHAT CB SA LIBRAIRIE D puzzle 23.11.24   -29.90
+26  2024-11-18 00:00:00  LBPMAE  VIREMENT INSTANTANE DE MR OU MME MARCHAND PH B...   200.00
+41  2024-11-12 00:00:00  LBPMAE                   ACHAT CB KALNA ALEXANDR 10.11.24   -13.00
+############################################################
+
+################################e############################
+Détails par catégorie => coiffeur -69.2
+
+                   Date  Banque                           Libellé  Montant
+27  2024-11-15 00:00:00  LBPMAE  ACHAT CB NUANCES BRESIL 14.11.24   -69.20
+############################################################
+
+################################e############################
+Détails par catégorie => culture -173.82999999999998
+
+                   Date  Banque                           Libellé  Montant
+6   2024-11-26 00:00:00     LBP                         Dialogues   -36.50
+12  2024-11-25 00:00:00     LBP               Paypal: marvel snap   -10.99
+14  2024-11-25 00:00:00     LBP               Paypal: marvel snap    -5.99
+21  2024-11-21 00:00:00     LBP               Paypal: marvel snap    -5.99
+24  2024-11-18 00:00:00     LBP                             Steam   -10.99
+26  2024-11-18 00:00:00     LBP               Paypal: marvel snap    -5.99
+41  2024-11-12 00:00:00     LBP                    Vinted: pikmin   -35.48
+47  2024-11-07 00:00:00     LBP             Dialogues (Librairie)   -51.90
+34  2024-11-13 00:00:00  LBPMAE  ACHAT CB LIBRAIRIE DIAL 12.11.24   -10.00
+############################################################
+
+################################e############################
+Détails par catégorie => economies -100.0
+
+                   Date Banque        Libellé  Montant
+29  2024-11-14 00:00:00    LBP  Virement Mika  -100.00
+############################################################
+
+################################e############################
+Détails par catégorie => fastfood -36.7
+
+                   Date Banque      Libellé  Montant
+3          2024"/11/"21    CMB        Macdo   -21.20
+32  2024-11-14 00:00:00    LBP  Allo Pizzas   -10.00
+45  2024-11-12 00:00:00    LBP     Roadside    -5.50
+############################################################
+
+################################e############################
+Détails par catégorie => loyer -775.97
+
+            Date Banque                          Libellé  Montant
+11  2024"/11/"05    CMB                  Assurrance prêt   -14.72
+12  2024"/11/"05    CMB          Echeance prêt principal  -544.26
+13  2024"/11/"05    CMB          Echeance prêt taux zéro  -127.79
+15  2024"/11/"01    CMB  Mensualité appel de fond Syndic   -89.20
+############################################################
+
+################################e############################
+Détails par catégorie => magic -3.950000000000017
+
+                   Date Banque                             Libellé  Montant
+7          2024"/11/"18    CMB  Paypal: remboursement secret lairs   134.01
+8          2024"/11/"18    CMB  Paypal: remboursement secret lairs     0.01
+35  2024-11-12 00:00:00    LBP                         MKM (Magic)    -3.00
+54  2024-11-05 00:00:00    LBP    Magic (Site officiel de wizards)  -134.97
+############################################################
+
+################################e############################
+Détails par catégorie => matériel -366.87000000000006
+
+                   Date  Banque                           Libellé  Montant
+0   2024-11-29 00:00:00     LBP                            Amazon    -5.99
+1   2024-11-27 00:00:00     LBP                            Amazon   -27.03
+20  2024-11-22 00:00:00     LBP                            Amazon   -72.28
+31  2024-11-14 00:00:00     LBP                            Amazon   -35.99
+44  2024-11-12 00:00:00     LBP                            Amazon    -6.99
+48  2024-11-07 00:00:00     LBP                            Amazon   -11.79
+61  2024-11-04 00:00:00     LBP                            Amazon   -15.28
+0   2024-11-29 00:00:00  LBPMAE  ACHAT CB DECATHLON      28.11.24   -55.00
+1   2024-11-29 00:00:00  LBPMAE  ACHAT CB JARDILAND      28.11.24   -38.60
+2   2024-11-29 00:00:00  LBPMAE  ACHAT CB JOUR DE FETE   28.11.24    -5.99
+37  2024-11-12 00:00:00  LBPMAE  ACHAT CB IKEA BREST     08.11.24   -91.93
+############################################################
+
+################################e############################
+Détails par catégorie => restau -75.3
+
+                   Date  Banque                                     Libellé  Montant
+0          2024"/11/"30     CMB                              Virement Lanie    14.00
+16  2024-11-21 00:00:00  LBPMAE      ACHAT CB ROSALIE MT  Xavier   20.11.24   -31.00
+24  2024-11-18 00:00:00  LBPMAE  ACHAT CB SAS ARENASHEDS La Fabrik 17.11.24   -58.30
+############################################################
+
+################################e############################
+Détails par catégorie => salaire 2032.85
+
+                   Date  Banque                                            Libellé  Montant
+1          2024"/11/"29     CMB                                      Salaire Arkea 1,809.79
+63  2024-11-04 00:00:00  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE VSL01202...     7.60
+1   2024-11-07 00:00:00   TRMAE  Chargement de votre carte ( 18 titres x 11,97 € )   215.46
+############################################################
+
+################################e############################
+Détails par catégorie => santé -111.16
+
+                   Date  Banque                           Libellé  Montant
+2          2024"/11/"28     CMB               Génération mutuelle     7.95
+9          2024"/11/"08     CMB               Génération mutuelle     7.95
+2   2024-11-27 00:00:00     LBP                      Dr DU CORAIL    -7.95
+13  2024-11-25 00:00:00     LBP                      Dr DU CORAIL    -7.95
+37  2024-11-12 00:00:00     LBP            Générations (mutuelle)   -71.10
+63  2024-11-04 00:00:00     LBP                          Doctolib    -7.50
+18  2024-11-20 00:00:00  LBPMAE  ACHAT CB PHARMACIE CENT 19.11.24   -16.66
+19  2024-11-20 00:00:00  LBPMAE  ACHAT CB DR SABLON DU C 19.11.24    -7.95
+57  2024-11-05 00:00:00  LBPMAE  ACHAT CB DR SABLON DU C 04.11.24    -7.95
+############################################################
+
+################################e############################
+Détails par catégorie => sortie -148.7
+
+                   Date  Banque                            Libellé  Montant
+9   2024-11-25 00:00:00     LBP                   Glacier capucins   -31.40
+11  2024-11-25 00:00:00     LBP                   Glacier capucins   -15.40
+25  2024-11-18 00:00:00     LBP              Gourmand mais pas que    -9.00
+62  2024-11-04 00:00:00     LBP                            Piscine   -11.00
+6   2024-11-28 00:00:00  LBPMAE   ACHAT CB BRULERIES DU L 27.11.24    -3.50
+20  2024-11-20 00:00:00  LBPMAE   ACHAT CB LES GATEUSES   19.11.24    -7.80
+21  2024-11-20 00:00:00  LBPMAE   ACHAT CB LES GATEUSES   19.11.24    -4.00
+25  2024-11-18 00:00:00  LBPMAE   ACHAT CB LES GATEUSES   16.11.24   -14.30
+30  2024-11-15 00:00:00  LBPMAE   ACHAT CB BRULERIE DES C 14.11.24    -3.50
+33  2024-11-13 00:00:00  LBPMAE   ACHAT CB LIBRAIRIE DIAL 12.11.24   -10.30
+39  2024-11-12 00:00:00  LBPMAE   ACHAT CB LS LA CASA HAV 10.11.24   -24.50
+40  2024-11-12 00:00:00  LBPMAE  ACHAT CB LE BARBECUE    10.11.24    -14.00
+############################################################
+
+################################e############################
+Détails par catégorie => sport -85.99
+
+                   Date Banque     Libellé  Montant
+14         2024"/11/"04    CMB   Basic Fit   -18.99
+59  2024-11-04 00:00:00    LBP  Pole Dance   -67.00
+############################################################
+
+################################e############################
+Détails par catégorie => transport -224.51999999999998
+
+                   Date  Banque                           Libellé  Montant
+10  2024-11-25 00:00:00     LBP                   Décathlon: vélo   -16.80
+16  2024-11-25 00:00:00     LBP                             Bibus    -1.70
+17  2024-11-25 00:00:00     LBP                             Bibus    -1.70
+23  2024-11-18 00:00:00     LBP                   Décathlon: vélo  -145.00
+42  2024-11-12 00:00:00     LBP                   Décathlon: vélo   -17.00
+13  2024-11-25 00:00:00  LBPMAE  ACHAT CB CAPU BRESTPARK 23.11.24    -3.00
+46  2024-11-08 00:00:00  LBPMAE           PRELEVEMENT DE RD BREST    -4.32
+50  2024-11-07 00:00:00  LBPMAE  ACHAT CB LES VELOS BRES 06.11.24   -35.00
+############################################################
+
+################################e############################
+Détails par catégorie => vetements -129.0
+
+                   Date Banque                             Libellé  Montant
+38  2024-11-12 00:00:00    LBP  Décathlon: chaussures manteau mika  -129.00
+############################################################
+
+################################e############################
+Détails par catégorie => vêtement -87.0
+
+                   Date  Banque                           Libellé  Montant
+55  2024-11-05 00:00:00  LBPMAE  ACHAT CB Decathlon Fran 02.11.24   -87.00
+############################################################

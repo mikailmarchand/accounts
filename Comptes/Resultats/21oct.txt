@@ -1,0 +1,198 @@
+            Montant
+Tag
+abonnement   -75.28
+autre        100.00
+banque       -40.40
+bouffe      -614.63
+caché       -150.00
+cadeau       -10.00
+culture     -576.98
+magic        -41.98
+matériel    -316.90
+perso       -470.91
+restau      -341.26
+salaire     3423.86
+santé        -68.08
+sortie      -157.65
+transport   -428.36
+
+Total balance :
+231.4300000000003
+############################################################
+Détails par catégorie => abonnement
+
+         Date  Banque                          Libellé  Montant
+2  2021-10-26     LBP                  La poste mobile   -16.99
+8  2021-10-18     LBP                 Bouygues Telecom   -11.66
+14 2021-10-14     LBP                              EDF   -32.65
+38 2021-10-04     LBP                          Netflix    -8.99
+14 2021-10-19  LBPMAE  PRELEVEMENT DE LA POSTE TELECOM    -4.99
+############################################################
+
+############################################################
+Détails par catégorie => autre
+
+        Date Banque              Libellé  Montant
+5 2021-10-17    CIC  Remboursement Dilan    100.0
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+         Date  Banque                            Libellé  Montant
+2  2021-10-06     CIC                   Frais banque CIC    -11.5
+4  2021-10-25     LBP                       Frais banque     -0.7
+34 2021-10-05     LBP                       Frais Banque    -24.6
+16 2021-10-14  LBPMAE  TENUE DE COMPTE FRAIS TRIMESTRIEL     -3.6
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+         Date  Banque                                 Libellé  Montant
+0  2021-10-28     LBP                                 Ti Coop   -29.21
+1  2021-10-28     LBP                             Intermarché   -13.19
+7  2021-10-19     LBP                                   Géant   -31.76
+9  2021-10-18     LBP                               Magasin U  -112.78
+16 2021-10-14     LBP                               Carrefour   -60.67
+23 2021-10-11     LBP                               Magasin U   -63.44
+33 2021-10-05     LBP                                 Ti Coop   -32.13
+36 2021-10-04     LBP                               Magasin U   -70.44
+3  2021-10-27  LBPMAE        ACHAT CB CARREFOUR      26.10.21   -77.27
+10 2021-10-21  LBPMAE        ACHAT CB MAGASIN U      20.10.21   -33.78
+18 2021-10-12  LBPMAE        ACHAT CB MAISON DU THE  11.10.21   -35.10
+22 2021-10-12  LBPMAE        ACHAT CB ATELIER BOULAN 11.10.21    -1.00
+28 2021-10-05  LBPMAE        ACHAT CB CLIMB UP BREST 04.10.21    -7.50
+0  2021-10-29   TRMAE            CTR : L'atelier du boulanger    -3.00
+1  2021-10-28   TRMAE                    CTR : Carrefour City    -4.01
+2  2021-10-24   TRMAE  CTR : Fournil de Pauline (Boulangerie)    -4.80
+3  2021-10-15   TRMAE  CTR : Boulangerie Tartines d'Autrefois    -9.85
+4  2021-10-14   TRMAE  CTR : Boulangerie Tartines d'Autrefois    -1.10
+5  2021-10-12   TRMAE            CTR : L'atelier du boulanger    -6.70
+6  2021-10-09   TRMAE                CTR : Fournil de Pauline   -16.90
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+         Date  Banque                           Libellé  Montant
+0  2021-10-01     CIC            Virement Compte Commun  -1950.0
+5  2021-10-25     LBP                  Virement Maeliss    200.0
+26 2021-10-07     LBP                  Virement Maeliss  -1500.0
+39 2021-10-04     LBP                     Virement Mika   1950.0
+40 2021-10-04     LBP                  Virement Maeliss    300.0
+8  2021-10-25  LBPMAE  VIREMENT DE MME MARCHAND MAELISS    200.0
+13 2021-10-20  LBPMAE  VIREMENT DE MME MARCHAND MAELISS    500.0
+27 2021-10-06  LBPMAE  VIREMENT DE MLE MARCHAND MAELISS    150.0
+############################################################
+
+############################################################
+Détails par catégorie => cadeau
+
+        Date Banque                      Libellé  Montant
+7 2021-10-20    CIC  Paiement maman cadeau dilan    -10.0
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+         Date  Banque                             Libellé  Montant
+18 2021-10-14     LBP                          Micromania   -14.99
+19 2021-10-14     LBP                        Ludik Addict    -9.00
+24 2021-10-11     LBP                          Micromania   -59.99
+12 2021-10-20  LBPMAE  "ACHAT CB PL PILIER ROUG 19.10.21"  -294.00
+19 2021-10-12  LBPMAE    ACHAT CB LIBRAIRIE DIAL 11.10.21   -19.00
+26 2021-10-07  LBPMAE            CHEQUE N  0520005 breton  -180.00
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+         Date Banque      Libellé  Montant
+21 2021-10-11    LBP  MKM (Magic)    -3.28
+31 2021-10-05    LBP  MKM (Magic)   -10.37
+41 2021-10-01    LBP  MKM (Magic)   -28.33
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+         Date  Banque                                            Libellé  Montant
+15 2021-10-14     LBP                                          Décathlon   -61.00
+27 2021-10-07     LBP                         npm.fr (matériel en ligne)   -28.95
+30 2021-10-06     LBP                                             Amazon   -34.59
+35 2021-10-04     LBP                                          Décathlon   -81.90
+37 2021-10-04     LBP                                       Leroy Merlin   -13.98
+1  2021-10-29  LBPMAE                   ACHAT CB JARDILAND      28.10.21   -69.20
+6  2021-10-25  LBPMAE  "ACHAT CB REDBUBBLE.COM  23.10.21 EUR 27.28 CA...   -27.28
+############################################################
+
+############################################################
+Détails par catégorie => perso
+
+        Date Banque              Libellé  Montant
+1 2021-10-05    CIC        Prêt étudiant  -271.61
+6 2021-10-21    LBP  Virement à Kevin B.  -199.30
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+         Date  Banque                           Libellé  Montant
+3  2021-10-25     LBP                         Deliveroo   -40.66
+10 2021-10-18     LBP             Kebab : Otantik kebab   -28.50
+11 2021-10-18     LBP                          Roadside   -25.90
+12 2021-10-18     LBP                          Roadside    -9.00
+13 2021-10-18     LBP                          Roadside    -9.00
+17 2021-10-14     LBP                           Midtown   -43.00
+20 2021-10-13     LBP                            Subway    -5.50
+28 2021-10-06     LBP                             Arkéa  -100.00
+21 2021-10-12  LBPMAE       ACHAT CB REST POINTE homard   -12.70
+24 2021-10-08  LBPMAE  ACHAT CB MIDTOWN        07.10.21   -23.00
+25 2021-10-07  LBPMAE    VIREMENT POUR ARTHUR LARGENTON   -22.00
+29 2021-10-04  LBPMAE  ACHAT CB OEUF           03.10.21   -22.00
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+        Date  Banque                                            Libellé  Montant
+8 2021-10-31     CIC                                      Salaire Arkéa  2052.49
+2 2021-10-29  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE Rembours...     1.00
+4 2021-10-26  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE vir sala...  1149.87
+7 2021-10-05   TRMAE   Chargement de votre carte ( 21 titres x 10,50€ )   220.50
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+         Date  Banque                           Libellé  Montant
+22 2021-10-11     LBP                 Harmonie mutuelle   -12.00
+5  2021-10-25  LBPMAE  ACHAT CB LE KAMELEON    23.10.21   -36.00
+17 2021-10-13  LBPMAE  ACHAT CB PHARMACIE DES  12.10.21    -5.90
+20 2021-10-12  LBPMAE  ACHAT CB PHARMACIE DES  11.10.21   -14.18
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+         Date  Banque                                            Libellé  Montant
+29 2021-10-06     LBP                                    Mystery O Clock   -95.00
+0  2021-10-29  LBPMAE                      CHEQUE N  0520009 Escape Game   -40.00
+7  2021-10-25  LBPMAE                   ACHAT CB PISCINE        24.10.21    -5.30
+23 2021-10-11  LBPMAE  ACHAT CB MAISON LA PRES cafÃ© Le Conquet 09.10.21   -17.35
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+         Date  Banque                             Libellé  Montant
+3  2021-10-07     CIC   Paypal : location vélo électrique    -3.94
+4  2021-10-15     CIC   Paypal : location vélo électrique    -1.60
+6  2021-10-19     CIC   Paypal : location vélo électrique    -3.50
+25 2021-10-11     LBP  Garage Philippe Gassot ? (pas sur)    -7.60
+32 2021-10-05     LBP            Paypal : Vélo électrique  -312.25
+9  2021-10-21  LBPMAE    ACHAT CB DAC SAS KERALA 19.10.21   -41.87
+11 2021-10-21  LBPMAE    ACHAT CB CAPUCINS AUTO  20.10.21    -1.00
+15 2021-10-19  LBPMAE    ACHAT CB SNCF INTERNET  17.10.21   -56.60
+############################################################

@@ -1,0 +1,251 @@
+Dépenses totales par catégories :
+             Montant
+Tag
+abonnement   -209.22
+azenor        277.19
+banque        -12.00
+bouffe     -1,006.31
+caché           0.00
+cfppa          -9.70
+culture       -22.15
+don            -7.00
+economie      -90.00
+evl             0.00
+fastfood     -121.80
+loyer        -668.50
+magic         -82.31
+matériel     -119.10
+restau       -164.00
+salaire     3,373.29
+santé         -30.86
+sortie        -55.80
+transport    -215.52
+
+Total balance :
+836.2100000000007
+############################################################
+Détails par catégorie => abonnement
+
+         Date  Banque                                       Libellé  Montant
+3  2023-03-30     LBP                                           EDF   -36.96
+11 2023-03-24     LBP                               La poste mobile    -9.99
+14 2023-03-21     LBP                                 Total Energie   -36.83
+21 2023-03-16     LBP                                      Bouygues   -31.49
+31 2023-03-13     LBP  Virement aux parents maeliss pour assurrance   -52.00
+48 2023-03-06     LBP                                CGT (Syndicat)   -20.00
+56 2023-03-03     LBP                                      Syndicat    20.00
+58 2023-03-02     LBP                                           EDF   -36.96
+11 2023-03-21  LBPMAE               PRELEVEMENT DE LA POSTE TELECOM    -4.99
+############################################################
+
+############################################################
+Détails par catégorie => azenor
+
+         Date  Banque                                      Libellé  Montant
+47 2023-03-06     LBP                 Virement à Manu (siege auto)  -100.00
+53 2023-03-06     LBP                                   CAF Azenor   182.00
+55 2023-03-03     LBP                                         PAJE   314.24
+7  2023-03-27  LBPMAE             ACHAT CB VERTBAUDET.FR  24.03.23   -69.05
+26 2023-03-13  LBPMAE  VIREMENT PERMANENT POUR MME MARCHAND AZENOR   -50.00
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+        Date Banque           Libellé  Montant
+0 2023-03-06    CIC  Frais banque CIC   -12.00
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+         Date  Banque                                          Libellé  Montant
+6  2023-03-28     LBP                                       HelloFresh   -68.29
+9  2023-03-27     LBP                                        Magasin U   -86.98
+13 2023-03-23     LBP                                      Intermarché   -24.44
+15 2023-03-21     LBP                                          Ti Coop   -87.81
+16 2023-03-21     LBP                                       HelloFresh   -68.29
+19 2023-03-20     LBP                                        Magasin U   -88.34
+23 2023-03-16     LBP                                          Ti Coop    -6.35
+24 2023-03-16     LBP                 Boulangerie : Fournil de Pauline    -2.00
+28 2023-03-14     LBP                                        Carrefour  -151.39
+39 2023-03-09     LBP                                       HelloFresh   -94.99
+41 2023-03-08     LBP                                          Leclerc    -2.99
+43 2023-03-07     LBP                                       HelloFresh   -68.29
+49 2023-03-06     LBP                                        Carrefour   -39.75
+51 2023-03-06     LBP                 Boulangerie : Fournil de Pauline    -5.70
+54 2023-03-03     LBP                         Le fournil des provinces    -1.15
+59 2023-03-02     LBP                                          Ti Coop   -45.14
+62 2023-03-01     LBP                                          Leclerc   -62.36
+5  2023-03-29  LBPMAE                 ACHAT CB ATELIER BOULAN 28.03.23    -1.20
+14 2023-03-20  LBPMAE                 ACHAT CB ATELIER BOULAN 17.03.23   -25.30
+15 2023-03-20  LBPMAE                 ACHAT CB BIOCOOP PLOUZA 17.03.23   -13.86
+28 2023-03-09  LBPMAE      ACHAT CB LE DIABOLO   cafÃ© stage  07.03.23    -3.60
+29 2023-03-08  LBPMAE  ACHAT CB LE FOURNIL FB sandwich stage  07.03.23    -6.00
+30 2023-03-06  LBPMAE                 ACHAT CB BIOCOOP PLOUZA 03.03.23   -32.30
+31 2023-03-06  LBPMAE                 ACHAT CB TI COOP        04.03.23   -15.89
+35 2023-03-01  LBPMAE                 ACHAT CB FOURNIL DE PAU 28.02.23    -3.90
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+         Date  Banque                                            Libellé   Montant
+3  2023-03-31     CIC                             Virement Compte Commun -2,500.00
+0  2023-03-31     LBP                                      Virement Mika  2,500.00
+5  2023-03-30     LBP                                   Virement Maeliss    700.00
+17 2023-03-21     LBP                                   Virement Maeliss    200.00
+46 2023-03-06     LBP                                   Virement Maeliss -1,500.00
+1  2023-03-30  LBPMAE     VIREMENT INSTANTANE A MR DEMIRDELEN OU MLE MAR   -700.00
+22 2023-03-15  LBPMAE                   VIREMENT DE MME MAELISS MARCHAND    300.00
+37 2023-03-21  LBPMAE    VIREMENT VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -200.00
+38 2023-03-15  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -300.00
+39 2023-03-06  LBPMAE  VIREMENT VIREMENT DE MME MAELISS MARCHAND DATE...  1,500.00
+0  2023-03-17   TRMAE                        Récupération titres périmés      1.74
+4  2023-03-01   TRMAE                                     Titres périmés     -1.74
+############################################################
+
+############################################################
+Détails par catégorie => cfppa
+
+         Date  Banque                           Libellé  Montant
+24 2023-03-14  LBPMAE  ACHAT CB BEAJ KAFE      12.03.23    -6.10
+25 2023-03-14  LBPMAE  ACHAT CB BEAJ KAFE      12.03.23    -3.60
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+         Date Banque       Libellé  Montant
+22 2023-03-16    LBP  Ludik Addict    -9.00
+26 2023-03-15    LBP  Ludik Addict   -12.60
+61 2023-03-02    LBP  Ludik Addict    -0.55
+############################################################
+
+############################################################
+Détails par catégorie => don
+
+         Date Banque                Libellé  Montant
+40 2023-03-08    LBP  Amnesty International    -7.00
+############################################################
+
+############################################################
+Détails par catégorie => economie
+
+         Date  Banque                                       Libellé  Montant
+0  2023-03-31  LBPMAE  VIREMENT PERMANENT POUR MLE MARCHAND MAELISS   -45.00
+36 2023-02-28  LBPMAE  VIREMENT PERMANENT POUR MLE MARCHAND MAELISS   -45.00
+############################################################
+
+############################################################
+Détails par catégorie => evl
+
+         Date Banque                   Libellé  Montant
+32 2023-03-13    LBP  EVL (virement interne ?)   -39.96
+34 2023-03-13    LBP           Virement à Manu   -14.40
+35 2023-03-13    LBP           Virement à Manu   -37.44
+37 2023-03-13    LBP             Virement Mika    37.44
+38 2023-03-13    LBP             Virement Mika    14.40
+45 2023-03-07    LBP             Virement Mika    39.96
+############################################################
+
+############################################################
+Détails par catégorie => fastfood
+
+         Date Banque          Libellé  Montant
+4  2023-03-30    LBP            Macdo   -30.40
+7  2023-03-28    LBP           Subway   -13.00
+25 2023-03-15    LBP            Macdo   -28.50
+50 2023-03-06    LBP           Subway   -23.50
+63 2023-03-01    LBP  Macdo Le Relecq   -26.40
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+         Date Banque                Libellé  Montant
+57 2023-03-02    LBP  Virement Mme Calvarin  -668.50
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+         Date Banque                           Libellé  Montant
+1  2023-03-28    CIC                      Paypal : MKM    -3.86
+1  2023-03-31    LBP  Magic (Site officiel de wizards)   -40.98
+2  2023-03-30    LBP                       MKM (Magic)    -2.56
+12 2023-03-23    LBP                       MKM (Magic)   -20.45
+18 2023-03-20    LBP                       MKM (Magic)    -6.50
+20 2023-03-17    LBP                       MKM (Magic)    20.89
+33 2023-03-13    LBP                       MKM (Magic)   -12.19
+36 2023-03-13    LBP                       MKM (Magic)    17.82
+42 2023-03-07    LBP                       MKM (Magic)   -36.33
+44 2023-03-07    LBP                       MKM (Magic)     1.85
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+         Date  Banque                                         Libellé  Montant
+29 2023-03-14     LBP                                          Amazon   -30.91
+60 2023-03-02     LBP                                   Bureau Vallée    -3.49
+32 2023-03-06  LBPMAE  ACHAT CB MAG VERT 686 patates jardin  03.03.23   -13.50
+33 2023-03-01  LBPMAE                ACHAT CB ADEO LEROY MER 28.02.23   -63.60
+34 2023-03-01  LBPMAE                ACHAT CB LA POSTE BOUTI 28.02.23    -7.60
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+         Date  Banque                              Libellé  Montant
+10 2023-03-27     LBP                       Jardin de Gwen   -58.00
+17 2023-03-17  LBPMAE     ACHAT CB MIDTOWN        16.03.23    -8.00
+23 2023-03-14  LBPMAE  ACHAT CB WHAT     EVL      12.03.23   -50.00
+1  2023-03-16   TRMAE                        CTR : Midtown   -25.00
+2  2023-03-09   TRMAE                        CTR : Midtown   -23.00
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+         Date  Banque                                            Libellé  Montant
+2  2023-03-31     CIC                                      Salaire Arkéa 2,407.09
+8  2023-03-27  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE VSL01202...   805.21
+19 2023-03-16  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE VSL01202...    24.49
+3  2023-03-06   TRMAE  Chargement de votre carte ( 13 titres x 10,50 € )   136.50
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+         Date  Banque                           Libellé  Montant
+8  2023-03-28     LBP                      Dr DU CORAIL    -9.00
+27 2023-03-15     LBP                      Dr DU CORAIL    -7.50
+30 2023-03-14     LBP             Pharmacie de l'iroise    -2.47
+52 2023-03-06     LBP                Pharmacie Bellevue    -4.36
+3  2023-03-30  LBPMAE    VIREMENT DE C.P.A.M. FINISTERE    42.82
+4  2023-03-29  LBPMAE  ACHAT CB PHARMACIE DES  28.03.23   -20.00
+6  2023-03-28  LBPMAE   VIREMENT DE ALLIANZ VIE ALLIANZ     7.50
+9  2023-03-24  LBPMAE  ACHAT CB IMAGERIE ZOLA  23.03.23   -65.45
+10 2023-03-23  LBPMAE   VIREMENT DE ALLIANZ VIE ALLIANZ     7.50
+12 2023-03-21  LBPMAE  ACHAT CB PHARMACIE DES  20.03.23   -21.40
+13 2023-03-21  LBPMAE  ACHAT CB DR SABLON DU C 20.03.23    -7.50
+16 2023-03-20  LBPMAE   VIREMENT DE ALLIANZ VIE ALLIANZ    15.00
+21 2023-03-15  LBPMAE    VIREMENT DE C.P.A.M. FINISTERE    34.00
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+         Date  Banque                                       Libellé  Montant
+18 2023-03-16  LBPMAE  ACHAT CB HAXONEO  OcÃ©anopolis      15.03.23   -55.80
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+         Date  Banque                                            Libellé  Montant
+2  2023-03-30  LBPMAE                   ACHAT CB NORAUTO 112    29.03.23  -156.94
+20 2023-03-15  LBPMAE                   ACHAT CB INTERMARCHE    14.03.23   -57.14
+27 2023-03-09  LBPMAE  PRELEVEMENT DE RD BREST REF : 662989 PREL BIBU...    -1.44
+############################################################

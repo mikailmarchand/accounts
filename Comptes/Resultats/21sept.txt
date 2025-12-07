@@ -1,0 +1,231 @@
+Dépenses totales par catégories :
+              Montant
+Tag                  
+abonnement     -22.97
+autre          -51.93
+banque         -12.20
+bouffe        -617.34
+caché          221.83
+culture       -253.10
+dab            -30.00
+emménagement  -971.20
+loyer        -1261.00
+magic           23.56
+matériel      -984.29
+perso         -270.21
+restau        -338.00
+salaire       3380.56
+santé          -50.05
+sortie         -85.60
+transport     -281.95
+
+Total balance :
+-1603.8899999999994
+############################################################
+Détails par catégorie => abonnement
+
+         Date   Banque                          Libellé  Montant
+9  2021-09-24      LBP                  La poste mobile    -9.99
+52 2021-09-03      LBP                          Netflix    -7.99
+15 2021-09-21  LBP_Mae  PRELEVEMENT DE LA POSTE TELECOM    -4.99
+############################################################
+
+############################################################
+Détails par catégorie => autre
+
+         Date   Banque                                            Libellé  Montant
+16 2021-09-20      LBP                        TODO : Check ce que c'est !   -45.00
+9  2021-09-24  LBP_Mae  VIREMENT POUR DUFOUR WILLIAM COMPTE FR76179060...    -6.93
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+         Date Banque           Libellé  Montant
+12 2021-09-21    LBP      Frais banque     -0.7
+1  2021-09-06    CIC  Frais banque CIC    -11.5
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+         Date   Banque                                            Libellé  Montant
+0  2021-09-30      LBP                        Boulangerie David Le Relecq    -1.20
+1  2021-09-29      LBP                        Boulangerie David Le Relecq    -5.30
+4  2021-09-27      LBP                                          Magasin U   -70.50
+6  2021-09-27      LBP                      Saveurs du potager (épicerie)   -21.52
+7  2021-09-27      LBP                                        Intermarché    -7.02
+10 2021-09-22      LBP                                          Carrefour   -15.42
+18 2021-09-20      LBP                      Saveurs du potager (épicerie)   -16.53
+19 2021-09-20      LBP                   Boulangerie : Fournil de Pauline   -14.40
+20 2021-09-20      LBP                                          Magasin U    -8.43
+23 2021-09-16      LBP                                        Intermarché   -21.40
+30 2021-09-13      LBP                                         Carpe Diem    -4.00
+31 2021-09-13      LBP                                        Intermarché    -3.41
+39 2021-09-08      LBP                                        Intermarché    -1.70
+40 2021-09-07      LBP                                              Arkéa   -70.00
+43 2021-09-07      LBP                                            Leclerc    -4.90
+44 2021-09-07      LBP                                            Leclerc   -30.00
+50 2021-09-06      LBP                                        Intermarché   -27.80
+3  2021-09-10      CTR                                        Intermarché   -19.00
+4  2021-09-07      CTR                          Boulangerie Kichen An Aod   -10.50
+1  2021-09-30  LBP_Mae                                          Carrefour  -124.47
+7  2021-09-27  LBP_Mae          ACHAT CB BRASSERIE PLOU 24.09.21 sandwich    -3.40
+10 2021-09-24  LBP_Mae    ACHAT CB L ESPERLUETTE  23.09.21 foodtruck midi   -11.40
+12 2021-09-23  LBP_Mae  ACHAT CB BRASSERIE PLOU 22.09.21 sandwich moi ...   -14.00
+13 2021-09-22  LBP_Mae                   ACHAT CB ECOMIAM        21.09.21   -15.70
+14 2021-09-22  LBP_Mae          ACHAT CB FONTAINE A PAI 21.09.21 sandwich    -5.50
+17 2021-09-17  LBP_Mae                          ACHAT CB TI COOP 16.09.21   -18.34
+23 2021-09-10  LBP_Mae                   ACHAT CB FONTAINE A PAI 09.09.21    -5.50
+25 2021-09-09  LBP_Mae                      ACHAT CB SAS KERALAN 08.09.21    -5.05
+26 2021-09-09  LBP_Mae                   ACHAT CB BRASSERIE PLOU 08.09.21    -3.90
+27 2021-09-07  LBP_Mae                          ACHAT CB TI COOP 06.09.21   -45.25
+28 2021-09-07  LBP_Mae                   ACHAT CB FONTAINE A PAI 06.09.21    -5.50
+37 2021-09-02  LBP_Mae                          ACHAT CB BIOCOOP 01.09.21    -6.30
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+         Date   Banque                                            Libellé  Montant
+8  2021-09-27      LBP                                   Virement Maeliss   400.00
+13 2021-09-21      LBP                                   Virement Maeliss   400.00
+21 2021-09-20      LBP                                   Virement Maeliss   450.00
+33 2021-09-10      LBP                                   Virement William   436.30
+34 2021-09-10      LBP                                   Virement Maeliss   400.00
+45 2021-09-06      LBP                                   Virement Maeliss  -200.00
+46 2021-09-06      LBP                                   Virement Maeliss -1500.00
+3  2021-09-29  LBP_Mae                                     VIREMENT DEBIT  -850.00
+11 2021-09-24  LBP_Mae                   VIREMENT DE MLE MARCHAND MAELISS   400.00
+16 2021-09-20  LBP_Mae             VIREMENT POUR MR DEMIRDELEN OU MLE MAR  -450.00
+24 2021-09-10  LBP_Mae  VIREMENT DE MR BOURNEUF LUCAS equilibrage colo...   535.53
+33 2021-09-06  LBP_Mae  VIREMENT DE MR DEMIRDELEN OU MLE REFERENCE : 0...   200.00
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+         Date Banque       Libellé  Montant
+36 2021-09-09    LBP       Thomann   -224.5
+42 2021-09-07    LBP  Ludik Addict    -12.6
+53 2021-09-01    LBP  Ludik Addict    -16.0
+############################################################
+
+############################################################
+Détails par catégorie => dab
+
+         Date   Banque                                            Libellé  Montant
+32 2021-09-06  LBP_Mae  CARTE X6213 04/09/21 A 11H27 RETRAIT DAB LA BA...    -30.0
+############################################################
+
+############################################################
+Détails par catégorie => emménagement
+
+         Date   Banque                                            Libellé  Montant
+35 2021-09-09      LBP                                           Troc.com   -405.0
+21 2021-09-13  LBP_Mae  ACHAT CB LA POSTE BOUTI 11.09.21 redirection c...    -36.2
+39 2021-09-01  LBP_Mae             CHEQUE N 0520006 caution nouvel appart   -530.0
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+         Date   Banque                               Libellé  Montant
+38 2021-09-08      LBP               Virement Frederic Viera   -465.0
+35 2021-09-02  LBP_Mae  CHEQUE N 0520007 loyer nouvel appart   -146.0
+38 2021-09-01  LBP_Mae  CHEQUE N 0520008 loyer nouvel appart   -650.0
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+         Date Banque      Libellé  Montant
+26 2021-09-14    LBP          MKM    26.74
+47 2021-09-06    LBP  MKM (Magic)    -3.18
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+         Date   Banque                           Libellé  Montant
+3  2021-09-27      LBP                              IKEA  -192.28
+11 2021-09-21      LBP                     Electro Dépot  -385.71
+15 2021-09-20      LBP                         CDiscount   -49.99
+29 2021-09-13      LBP                       Brico Dépot   -13.00
+0  2021-09-30  LBP_Mae                       Brico Dépot  -101.40
+4  2021-09-27  LBP_Mae  ACHAT CB BUT BREST      24.09.21  -229.96
+19 2021-09-14  LBP_Mae  CHEQUE N 0520002 plants potagers    -5.00
+31 2021-09-06  LBP_Mae  ACHAT CB LA POSTE 29922 04.09.21    -6.95
+############################################################
+
+############################################################
+Détails par catégorie => perso
+
+         Date Banque                                            Libellé  Montant
+2  2021-09-29    LBP  "VIREMENT INSTANTANE DE M. KEVIN BIARDEAU REFE...   700.00
+22 2021-09-17    LBP                                Virement à Kevin B.  -698.60
+0  2021-09-03    CIC                                      Prêt étudiant  -271.61
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+         Date Banque                      Libellé  Montant
+5  2021-09-27    LBP       Restaurant Dragon d'Or    -33.6
+17 2021-09-20    LBP  Bellevue Kebab (centre com)    -20.0
+27 2021-09-13    LBP                   China Town    -39.8
+28 2021-09-13    LBP             La crêpe flambée    -29.6
+37 2021-09-09    LBP              Steakhouse turc    -35.0
+41 2021-09-07    LBP              Macdo Le Relecq    -21.9
+49 2021-09-06    LBP                       Le FAP    -35.5
+51 2021-09-06    LBP        Kebab : Otantik kebab    -23.0
+0  2021-09-17    CTR                   China Town    -37.8
+1  2021-09-15    CTR                      O'Local    -23.8
+2  2021-09-11    CTR                    Chez Zaza    -38.0
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+        Date   Banque                                            Libellé  Montant
+5 2021-09-30      CIC                                      Salaire Arkéa  2054.24
+5 2021-09-07      CTR  Chargement de votre carte ( 12 titres x 10,50 € )   126.00
+2 2021-09-30  LBP_Mae                                         Technopole     3.20
+8 2021-09-27  LBP_Mae  VIREMENT DE ASS TECHNOPOLE BREST OISE salaire ...  1197.12
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+         Date   Banque                                            Libellé  Montant
+24 2021-09-15      LBP                                  Pharmacie Nicolas   -25.55
+25 2021-09-15      LBP                                Coiffeur : Kaméléon   -20.00
+32 2021-09-10      LBP                                  Harmonie mutuelle   -12.00
+34 2021-09-03  LBP_Mae  VIREMENT DE ALLIANZ VIE DMAL 210924326308701 A...     7.50
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+         Date   Banque                           Libellé  Montant
+14 2021-09-20      LBP                Cinéma Les Studios    -50.0
+22 2021-09-13  LBP_Mae         ACHAT CB HAXONEO 10.09.21    -13.8
+29 2021-09-06  LBP_Mae         ACHAT CB HAXONEO 03.09.21    -13.8
+30 2021-09-06  LBP_Mae  ACHAT CB CAFE DE L ANCR 03.09.21     -8.0
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+         Date   Banque                                            Libellé  Montant
+48 2021-09-06      LBP                           Réparations vélo + cours   -81.00
+2  2021-09-07      CIC                                 Paypal : vélo élec   -14.00
+3  2021-09-08      CIC                                 Paypal : vélo élec   -20.00
+4  2021-09-09      CIC                                 Paypal : vélo élec   -20.00
+5  2021-09-27  LBP_Mae                   ACHAT CB SNCF INTERNET  26.09.21   -56.00
+6  2021-09-27  LBP_Mae                          ACHAT CB essence 24.09.21   -48.71
+18 2021-09-17  LBP_Mae                            ACHAT CB BIBUS 16.09.21    -3.20
+20 2021-09-13  LBP_Mae  PRELEVEMENT DE RD BREST REF : 662989 PREL BIBU...    -3.75
+36 2021-09-02  LBP_Mae                   ACHAT CB INTERMARCHE ST 31.08.21   -35.29
+############################################################
+

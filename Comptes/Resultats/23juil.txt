@@ -1,0 +1,302 @@
+Dépenses totales par catégories :
+             Montant
+Tag
+abonnement   -176.47
+autre       1,041.00
+azenor     -1,068.78
+banque        -43.44
+bouffe       -829.15
+caché           0.00
+cadeau        -44.50
+cfppa         -24.30
+culture      -346.40
+don            -7.00
+economie      -45.00
+fastfood     -163.98
+loyer        -668.50
+magic        -220.85
+matériel     -166.07
+restau        -44.85
+salaire     3,271.65
+santé          -3.74
+sortie        -85.30
+transport    -126.55
+vetement     -128.00
+vêtements     -72.69
+
+Total balance :
+47.0799999999999
+############################################################
+Détails par catégorie => abonnement
+
+         Date  Banque                                       Libellé  Montant
+16 2023-07-25     LBP                               La poste mobile    -9.99
+32 2023-07-17     LBP                                      Bouygues   -31.49
+39 2023-07-11     LBP  Virement aux parents maeliss pour assurrance   -52.00
+54 2023-07-05     LBP                                 Total Energie   -52.00
+55 2023-07-05     LBP                                CGT (Syndicat)   -20.00
+19 2023-07-19  LBPMAE               PRELEVEMENT DE LA POSTE TELECOM   -10.99
+############################################################
+
+############################################################
+Détails par catégorie => autre
+
+         Date Banque             Libellé  Montant
+10 2023-07-28    LBP  Globales prest ???    -7.00
+25 2023-07-24    LBP              Impots 1,048.00
+############################################################
+
+############################################################
+Détails par catégorie => azenor
+
+         Date  Banque                                            Libellé   Montant
+5  2023-07-31     LBP                                       Arché de Néo    -21.83
+19 2023-07-24     LBP                           Les enfants de dialogues    -49.98
+27 2023-07-21     LBP                      Les petits culottés (couches)    -52.25
+40 2023-07-11     LBP                                               PAJE    319.07
+60 2023-07-05     LBP                                                CAF    184.81
+61 2023-07-04     LBP                      Les petits culottés (couches)    -52.25
+65 2023-07-03     LBP                         Véronique Loriant (nounou) -1,155.05
+6  2023-07-28  LBPMAE  VIREMENT INSTANTANE A VAUSELE MANU BERTRAND LA...   -100.00
+13 2023-07-24  LBPMAE                   ACHAT CB R KID          22.07.23     -9.00
+30 2023-07-11  LBPMAE        VIREMENT PERMANENT POUR MME MARCHAND AZENOR    -50.00
+32 2023-07-10  LBPMAE                   ACHAT CB BOUTIQUE LEA N 09.07.23    -24.00
+34 2023-07-10  LBPMAE                   ACHAT CB R KID          08.07.23    -11.50
+41 2023-07-05  LBPMAE          ACHAT CB LeBonCoin  poussette    04.07.23    -46.80
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+         Date  Banque                                            Libellé  Montant
+2  2023-07-07     CIC                                   Frais banque CIC   -12.24
+59 2023-07-05     LBP                                       Frais Banque   -25.50
+29 2023-07-12  LBPMAE                  TENUE DE COMPTE FRAIS TRIMESTRIEL    -4.20
+40 2023-07-05  LBPMAE  MINIMUM FORFAITAIRE TRIMESTRIEL D UTILISATION ...    -1.50
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+         Date  Banque                           Libellé  Montant
+6  2023-07-31     LBP                         Magasin U   -15.88
+11 2023-07-28     LBP                         Carrefour    -3.55
+13 2023-07-27     LBP                         Magasin U   -74.58
+20 2023-07-24     LBP                     Maison du thé   -36.25
+21 2023-07-24     LBP                          900.care   -22.50
+23 2023-07-24     LBP                          900.care   -15.60
+26 2023-07-21     LBP                         Magasin U  -122.32
+33 2023-07-17     LBP                         Magasin U   -33.13
+35 2023-07-13     LBP                           Ti Coop   -50.17
+36 2023-07-12     LBP                         Magasin U   -27.47
+45 2023-07-10     LBP                         Magasin U   -96.01
+52 2023-07-06     LBP                         Magasin U   -35.36
+53 2023-07-06     LBP                           Leclerc   -23.28
+56 2023-07-05     LBP                             Arkéa   -70.00
+58 2023-07-05     LBP                          900.care    -3.90
+7  2023-07-28  LBPMAE  ACHAT CB 3S CO          27.07.23    -2.30
+12 2023-07-25  LBPMAE  ACHAT CB BIOCOOP PLOUZA 24.07.23   -49.72
+15 2023-07-24  LBPMAE  ACHAT CB TERCOC PF      22.07.23    -6.26
+20 2023-07-19  LBPMAE  ACHAT CB ATELIER BOULAN 18.07.23    -2.40
+27 2023-07-13  LBPMAE   REMISE DE CHEQUES DU 11/07/2023    60.00
+33 2023-07-10  LBPMAE  ACHAT CB TERCOC PF      08.07.23   -17.09
+37 2023-07-10  LBPMAE  ACHAT CB FOURNIL BELLEV 08.07.23    -3.60
+0  2023-07-29   TRMAE                           Super U   -25.00
+3  2023-07-26   TRMAE                           Super U   -25.00
+4  2023-07-20   TRMAE                           Super U   -25.00
+5  2023-07-15   TRMAE                           Super U   -25.00
+6  2023-07-11   TRMAE                           Super U   -25.00
+7  2023-07-08   TRMAE                           Super U   -25.00
+8  2023-07-05   TRMAE                           Super U   -25.00
+12 2023-07-03   TRMAE                       Intermarché    -2.78
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+         Date  Banque                                            Libellé   Montant
+0  2023-07-02     CIC                             Virement Compte Commun -3,000.00
+5  2023-07-31     CIC                             Virement Compte Commun -2,000.00
+0  2023-08-01     LBP                                      Virement Mika  2,000.00
+31 2023-07-17     LBP                                   Virement Maeliss   -300.00
+41 2023-07-10     LBP                                   Virement Maeliss -1,000.00
+43 2023-07-10     LBP                                   Virement Maeliss   -200.00
+72 2023-07-03     LBP                                      Virement Mika  3,000.00
+74 2023-07-03     LBP                                   Virement Maeliss  1,000.00
+1  2023-07-31  LBPMAE                 VIREMENT POUR MME MARCHAND MAELISS   -700.00
+26 2023-07-17  LBPMAE    VIREMENT INSTANTANE DE MR DEMIRDELEN OU MLE MAR    300.00
+38 2023-07-10  LBPMAE    VIREMENT INSTANTANE DE MR DEMIRDELEN OU MLE MAR    200.00
+43 2023-07-03  LBPMAE     VIREMENT INSTANTANE A MR DEMIRDELEN OU MLE MAR -1,000.00
+47 2023-07-31  LBPMAE  VIREMENT VIREMENT DE MME MARCHAND MAELISS DATE...    700.00
+48 2023-07-08  LBPMAE  VIREMENT VIREMENT DE MR DEMIRDELEN OU MLE DATE...  1,000.00
+############################################################
+
+############################################################
+Détails par catégorie => cadeau
+
+        Date  Banque                                            Libellé  Montant
+3 2023-07-31  LBPMAE      ACHAT CB SISTERS ET CIE brunch maman 30.07.23   -34.50
+9 2023-07-27  LBPMAE  ACHAT CB MGP Leetchi cagnotte AurÃ©lie SA 26.0...   -10.00
+############################################################
+
+############################################################
+Détails par catégorie => cfppa
+
+         Date  Banque                           Libellé  Montant
+22 2023-07-17  LBPMAE  ACHAT CB BEAJ KAFE      16.07.23    -8.10
+23 2023-07-17  LBPMAE  ACHAT CB BEAJ KAFE      16.07.23    -4.80
+35 2023-07-10  LBPMAE  ACHAT CB BEAJ KAFE      09.07.23    -6.60
+36 2023-07-10  LBPMAE  ACHAT CB BEAJ KAFE      09.07.23    -4.80
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+         Date Banque                                       Libellé  Montant
+3  2023-07-31    LBP                                  Ludik Addict   -54.00
+4  2023-07-31    LBP                         Dialogues (Librairie)   -33.06
+7  2023-07-31    LBP                                     Croc Jeux   -10.00
+22 2023-07-24    LBP                               Rakuten: comics   -22.44
+28 2023-07-21    LBP                               Rakuten: comics   -16.98
+29 2023-07-20    LBP                         Dialogues (Librairie)   -29.95
+49 2023-07-06    LBP                                 Walt's Comics   -99.99
+57 2023-07-05    LBP  Asendia (transport colis):douane cadeau mika   -20.00
+62 2023-07-04    LBP                                     Dialogues   -41.98
+63 2023-07-04    LBP                                          FNAC   -18.00
+############################################################
+
+############################################################
+Détails par catégorie => don
+
+         Date Banque                Libellé  Montant
+44 2023-07-10    LBP  Amnesty International    -7.00
+############################################################
+
+############################################################
+Détails par catégorie => economie
+
+        Date  Banque                                       Libellé  Montant
+0 2023-07-31  LBPMAE  VIREMENT PERMANENT POUR MLE MARCHAND MAELISS   -45.00
+############################################################
+
+############################################################
+Détails par catégorie => fastfood
+
+         Date Banque          Libellé  Montant
+12 2023-07-28    LBP    Orijinal Pide    -2.70
+14 2023-07-26    LBP            Macdo   -36.15
+46 2023-07-10    LBP        Uber Eats   -75.48
+2  2023-07-27  TRMAE    Orijinal Pide   -25.00
+9  2023-07-04  TRMAE  Macdo Le Relecq   -24.65
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+         Date Banque                Libellé  Montant
+64 2023-07-03    LBP  Virement Mme Calvarin  -668.50
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+         Date Banque        Libellé  Montant
+1  2023-07-04    CIC  Paypal: magic   -20.99
+3  2023-07-25    CIC  Paypal: magic    -3.33
+1  2023-07-31    LBP    MKM (Magic)    -9.48
+2  2023-07-31    LBP    MKM (Magic)    -1.96
+8  2023-07-28    LBP    MKM (Magic)    -3.88
+9  2023-07-28    LBP    MKM (Magic)    -3.95
+17 2023-07-24    LBP    MKM (Magic)  -171.95
+30 2023-07-17    LBP    MKM (Magic)    -2.06
+42 2023-07-10    LBP    MKM (Magic)    -3.25
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+         Date Banque Libellé  Montant
+15 2023-07-26    LBP  Amazon   -18.08
+47 2023-07-10    LBP  Amazon   -40.40
+48 2023-07-07    LBP  Amazon   -26.18
+50 2023-07-06    LBP  Amazon   -40.51
+67 2023-07-03    LBP  Amazon   -40.90
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+         Date  Banque                           Libellé  Montant
+34 2023-07-17     LBP                        China Town    -3.10
+4  2023-07-31  LBPMAE  ACHAT CB MIDTOWN        28.07.23   -17.00
+42 2023-07-05  LBPMAE  ACHAT CB LE JARDIN D HI 04.07.23   -24.75
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+         Date  Banque                                            Libellé  Montant
+4  2023-07-31     CIC                                      Salaire Arkéa 1,979.53
+10 2023-07-26  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE  Salaire...   963.98
+11 2023-07-26  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE Remb fra...    68.22
+1  2023-07-28   TRMAE   Chargement de votre carte ( 8 titres x 10,83 € )    86.64
+10 2023-07-04   TRMAE  Chargement de votre carte ( 16 titres x 10,83 € )   173.28
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+         Date  Banque                           Libellé  Montant
+37 2023-07-12     LBP                      Dr DU CORAIL    -7.50
+38 2023-07-12     LBP                         Pharmacie    -3.63
+8  2023-07-28  LBPMAE   VIREMENT DE ALLIANZ VIE ALLIANZ     7.50
+16 2023-07-21  LBPMAE  ACHAT CB PHARMACIE DES  20.07.23   -27.61
+17 2023-07-21  LBPMAE  ACHAT CB DR SABLON DU C 20.07.23    -7.50
+18 2023-07-20  LBPMAE   VIREMENT DE ALLIANZ VIE ALLIANZ     7.50
+21 2023-07-19  LBPMAE   VIREMENT DE ALLIANZ VIE ALLIANZ    60.00
+25 2023-07-17  LBPMAE   VIREMENT DE ALLIANZ VIE ALLIANZ    20.00
+28 2023-07-12  LBPMAE  ACHAT CB QUEMENEUR STEP 11.07.23   -60.00
+39 2023-07-07  LBPMAE   VIREMENT DE ALLIANZ VIE ALLIANZ     7.50
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+         Date  Banque                                            Libellé  Montant
+18 2023-07-24     LBP                                 Cinéma Les Studios   -50.00
+24 2023-07-24     LBP                                       Les gateuses    -8.30
+5  2023-07-31  LBPMAE                   ACHAT CB LE PORT D ATTA 30.07.23   -13.50
+14 2023-07-24  LBPMAE                   ACHAT CB LES GATEUSES   22.07.23    -7.60
+24 2023-07-17  LBPMAE  ACHAT CB VENT D OUEST cafÃ© ocÃ©anopolis  14.0...    -1.70
+11 2023-07-03   TRMAE                                          Beaj Café    -4.20
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+         Date  Banque                           Libellé  Montant
+51 2023-07-06     LBP                Les vélos brestois   -40.00
+68 2023-07-03     LBP                              SNCF   -10.00
+69 2023-07-03     LBP                            Keolis    -3.60
+70 2023-07-03     LBP                             Bibus    -1.70
+71 2023-07-03     LBP                             Bibus    -1.70
+2  2023-07-31  LBPMAE  ACHAT CB DAC SAS KERALA 27.07.23   -40.33
+44 2023-07-03  LBPMAE  ACHAT CB DAC SAS KERALA 30.06.23   -25.22
+45 2023-07-03  LBPMAE  ACHAT CB DAC SAS KERALA 30.06.23    -2.00
+46 2023-07-03  LBPMAE  ACHAT CB DAC SAS KERALA 30.06.23    -2.00
+############################################################
+
+############################################################
+Détails par catégorie => vetement
+
+         Date  Banque                           Libellé  Montant
+31 2023-07-10  LBPMAE  ACHAT CB Rejeanne       09.07.23  -128.00
+############################################################
+
+############################################################
+Détails par catégorie => vêtements
+
+         Date Banque Libellé  Montant
+66 2023-07-03    LBP   Celio   -72.69
+############################################################
+

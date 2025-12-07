@@ -1,0 +1,237 @@
+Dépenses totales par catégories :
+            Montant
+Tag
+abonnement   -74.99
+autre       -350.00
+banque      -272.17
+bouffe      -514.54
+caché          0.00
+cadeau"      -10.00
+culture      -29.19
+dab          -50.00
+don           -7.00
+grossesse   -797.05
+loyer       -650.00
+magic       -191.12
+matériel     -39.95
+restau      -234.70
+salaire     3357.95
+santé         46.72
+sortie       -53.66
+transport   -502.08
+
+Total balance :
+-371.7800000000001
+############################################################
+Détails par catégorie => abonnement
+
+         Date Banque                                       Libellé  Montant
+18 2022-07-15    LBP                              Bouygues Telecom    -9.99
+22 2022-07-11    LBP  Virement aux parents maeliss pour assurrance   -52.00
+31 2022-07-06    LBP                                 Total Energie   -13.00
+############################################################
+
+############################################################
+Détails par catégorie => autre
+
+        Date Banque     Libellé  Montant
+3 2022-07-18    CIC  Pret Kevin   -350.0
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+         Date  Banque                                            Libellé  Montant
+1  2022-07-05     CIC                                      Prêt étudiant  -232.37
+2  2022-07-07     CIC                                   Frais banque CIC   -12.00
+35 2022-07-06     LBP                      Commission paiement par carte    -1.10
+37 2022-07-05     LBP                              Agios (remise ou pas)     1.50
+38 2022-07-05     LBP                              Agios (remise ou pas)    -1.50
+43 2022-07-05     LBP                                       Frais Banque   -21.00
+27 2022-07-13  LBPMAE                  TENUE DE COMPTE FRAIS TRIMESTRIEL    -4.20
+35 2022-07-05  LBPMAE  MINIMUM FORFAITAIRE TRIMESTRIEL D UTILISATION ...    -1.50
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+         Date  Banque                           Libellé  Montant
+2  2022-07-26     LBP                       Intermarché   -28.96
+20 2022-07-12     LBP                           Ti Coop   -27.46
+27 2022-07-11     LBP                             Géant   -14.68
+33 2022-07-06     LBP                             Géant   -69.19
+34 2022-07-06     LBP                             Arkéa   -50.00
+40 2022-07-05     LBP                           Ti Coop   -20.21
+41 2022-07-05     LBP                       Intermarché   -19.87
+46 2022-07-04     LBP                         Magasin U   -32.76
+6  2022-07-25  LBPMAE                ACHAT CB TERCOC PF    -5.87
+7  2022-07-22  LBPMAE              ACHAT CB INTERMARCHE   -57.22
+16 2022-07-19  LBPMAE  ACHAT CB ATELIER BOULAN 18.07.22    -2.00
+17 2022-07-18  LBPMAE  ACHAT CB BIOCOOP        15.07.22   -99.87
+19 2022-07-18  LBPMAE  ACHAT CB TERCOC PF      16.07.22   -20.79
+20 2022-07-18  LBPMAE  ACHAT CB CARREFOUR MARK 16.07.22   -15.79
+22 2022-07-18  LBPMAE  ACHAT CB FOURNIL BELLEV 16.07.22    -1.08
+26 2022-07-13  LBPMAE  ACHAT CB MAGASIN U      12.07.22   -23.85
+37 2022-07-05  LBPMAE  ACHAT CB TERCOC PF      04.07.22   -21.37
+39 2022-07-05  LBPMAE  ACHAT CB FOURNIL BELLEV 04.07.22    -2.16
+0  2022-07-30   TRMAE                  Carrefour Market    -1.41
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+         Date  Banque                                            Libellé  Montant
+4  2022-07-23     CIC                                      Virement Mika     3.46
+5  2022-07-23     CIC                                      Virement Mika     7.30
+1  2022-07-27     LBP                                   Virement Maeliss   800.00
+5  2022-07-25     LBP                                      Virement Mika    -7.30
+6  2022-07-25     LBP                                      Virement Mika    -3.46
+30 2022-07-06     LBP                                   Virement Maeliss  -500.00
+1  2022-07-27  LBPMAE     VIREMENT INSTANTANE A MR DEMIRDELEN OU MLE MAR  -800.00
+2  2022-07-27  LBPMAE  VIREMENT POUR MME MARCHAND MAELISS COMPTE FR22...  -300.00
+24 2022-07-15  LBPMAE  VIREMENT DE MME MARCHAND MAELISS REFERENCE : 0...   100.00
+25 2022-07-15  LBPMAE  VIREMENT DE MME MARCHAND MAELISS REFERENCE : 0...   100.00
+30 2022-07-11  LBPMAE  VIREMENT DE MME MARCHAND MAELISS REFERENCE : 0...   100.00
+34 2022-07-06  LBPMAE  VIREMENT DE MR DEMIRDELEN OU MLE REFERENCE : 0...   500.00
+43 2022-07-27  LBPMAE  VIREMENT VIREMENT DE MME MAELISS MARCHAND DATE...   300.00
+44 2022-07-15  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS  -100.00
+45 2022-07-14  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS  -100.00
+46 2022-07-11  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS  -100.00
+############################################################
+
+############################################################
+Détails par catégorie => cadeau"
+
+         Date  Banque                                            Libellé  Montant
+42 2022-07-01  LBPMAE  ""ACHAT CB SFPMEI LYDIA A 30.06.22 EUR        ...    -10.0
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+         Date  Banque                                            Libellé  Montant
+5  2022-07-25  LBPMAE    ACHAT CB ESPACE TABAC P mots flÃ©chÃ©s 22.07.22    -9.20
+40 2022-07-04  LBPMAE  ACHAT CB Steam Purchase Les Sims 4 vie Ã  la c...   -19.99
+############################################################
+
+############################################################
+Détails par catégorie => dab
+
+         Date Banque  Libellé  Montant
+21 2022-07-12    LBP  Retrait    -50.0
+############################################################
+
+############################################################
+Détails par catégorie => don
+
+         Date Banque                Libellé  Montant
+28 2022-07-08    LBP  Amnesty International     -7.0
+############################################################
+
+############################################################
+Détails par catégorie => grossesse
+
+         Date  Banque                           Libellé  Montant
+14 2022-07-18     LBP   Virement à Manu(table à langer)   -30.00
+25 2022-07-11     LBP                         CDiscount   -69.90
+32 2022-07-06     LBP                      Rose ou bleu  -498.62
+0  2022-07-28  LBPMAE      ACHAT CB LeBonCoin baignoire   -30.00
+9  2022-07-21  LBPMAE  ACHAT CB AUBERT         20.07.22   -19.95
+13 2022-07-20  LBPMAE  ACHAT CB PISCINE        19.07.22    -5.30
+21 2022-07-18  LBPMAE  ACHAT CB PISCINE        15.07.22    -5.30
+28 2022-07-12  LBPMAE  ACHAT CB VERTBAUDET.FR  11.07.22  -118.03
+38 2022-07-05  LBPMAE  ACHAT CB LOULI DES BOIS 04.07.22   -19.95
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+         Date Banque               Libellé  Montant
+39 2022-07-05    LBP  Loyer (Mme Calvarin)   -650.0
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+         Date Banque                              Libellé  Montant
+0  2022-07-27    LBP                          MKM (Magic)    12.14
+3  2022-07-26    LBP                          MKM (Magic)     5.61
+4  2022-07-25    LBP                          MKM (Magic)   -10.76
+7  2022-07-25    LBP                          MKM (Magic)    -7.41
+9  2022-07-21    LBP                          MKM (Magic)    -9.75
+11 2022-07-20    LBP                          MKM (Magic)    10.97
+13 2022-07-19    LBP                          MKM (Magic)     1.00
+17 2022-07-15    LBP                          MKM (Magic)   -11.88
+23 2022-07-11    LBP                          MKM (Magic)   -39.33
+24 2022-07-11    LBP  Virement Luke et Lydia(decks magic)   -78.00
+29 2022-07-07    LBP                          MKM (Magic)   -10.22
+36 2022-07-06    LBP                         MTG Goldfish   -48.03
+47 2022-07-01    LBP                          MKM (Magic)    -5.46
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+         Date  Banque                           Libellé  Montant
+12 2022-07-19     LBP                            Amazon   -19.90
+10 2022-07-21  LBPMAE  ACHAT CB ADEO LEROY MER 20.07.22   -14.70
+11 2022-07-21  LBPMAE  ACHAT CB DECATHLON      20.07.22    -4.00
+12 2022-07-21  LBPMAE  ACHAT CB JARDILAND      20.07.22    -1.35
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+         Date  Banque                                 Libellé  Montant
+10 2022-07-20     LBP                         Les 3 Brasseurs    -44.5
+15 2022-07-18     LBP                       Macdo Gare Rennes     -3.8
+42 2022-07-05     LBP             Bellevue Kebab (centre com)    -14.0
+44 2022-07-04     LBP                           Orijinal Pide    -73.9
+45 2022-07-04     LBP                          Burger O'Local    -39.9
+41 2022-07-04  LBPMAE  ACHAT CB POKEFACT  Amaury     01.07.22     -6.8
+1  2022-07-09   TRMAE                                  Subway    -13.8
+2  2022-07-02   TRMAE                           Orijinal Pide    -19.0
+3  2022-07-01   TRMAE                                 La Poke    -19.0
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+        Date  Banque                                            Libellé  Montant
+6 2022-08-01     CIC                                      Salaire Arkéa  2129.63
+4 2022-07-26  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE Salaire ...  1228.32
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+         Date  Banque                               Libellé  Montant
+26 2022-07-11     LBP                  Dr Quemeneur (Ostéo)   -60.00
+8  2022-07-22  LBPMAE      ACHAT CB PHARMACIE DES  21.07.22    -7.90
+14 2022-07-20  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ DMAL    60.00
+15 2022-07-20  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ DMAL    60.00
+23 2022-07-15  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ DMAL     2.52
+31 2022-07-08  LBPMAE      ACHAT CB PHARMACIE CENT 07.07.22    -7.90
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+         Date  Banque                                   Libellé  Montant
+0  2022-07-05     CIC                             Café Huelgoat    -6.50
+8  2022-07-25     LBP                      Majestic Brest(ciné)   -25.00
+3  2022-07-27  LBPMAE  ACHAT CB CASA HAVANA Valentin   26.07.22    -8.80
+29 2022-07-11  LBPMAE          ACHAT CB CAFE DE LA CAL 08.07.22   -11.10
+32 2022-07-08  LBPMAE          ACHAT CB CHEZ SEB       07.07.22    -2.26
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+         Date  Banque                                            Libellé  Montant
+16 2022-07-18     LBP                                     Tram Rennes CB    -1.50
+19 2022-07-15     LBP                                     Tram Rennes CB    -1.50
+18 2022-07-18  LBPMAE                   ACHAT CB CENTRE LECLERC 15.07.22   -41.45
+33 2022-07-07  LBPMAE  ACHAT CB NATHEO   changement des pneus      06...  -433.88
+36 2022-07-05  LBPMAE  PRELEVEMENT DE RD BREST REF : 662989 PREL BIBU...   -23.75
+############################################################

@@ -1,0 +1,61 @@
+Date,Banque,Libellé,Montant,Tag,Type
+2023/02/28,LBP,Virement Mika,2000.00€,caché
+2023/02/28,LBP,HelloFresh,-68.29€,bouffe
+2023/02/28,LBP,Atelier Boulangerie,-7.35€,bouffe
+2023/02/28,LBP,Subway,-3.90€,restau
+2023/02/28,LBP,MKM (Magic),3.30€,magic,remboursement
+2023/02/28,LBP,Virement Maeliss,500.00€,caché
+2023/02/27,LBP,Véronique Loriant (nounou),-125.50€,azenor
+2023/02/27,LBP,Magasin U,-89.29€,bouffe
+2023/02/27,LBP,Maison du thé,-63.20€,bouffe
+2023/02/27,LBP,Louli des bois,-48.00€,azenor
+2023/02/24,LBP,La poste mobile,-9.99€,abonnement
+2023/02/24,LBP,Amazon,-99.95€,matériel
+2023/02/24,LBP,Ulule:Fragments,-8.00€,don
+2023/02/22,LBP,Décathlon,-60.00€,matériel
+2023/02/22,LBP,IKEA,-17.95€,matériel
+2023/02/21,LBP,HelloFresh,-68.29€,bouffe
+2023/02/21,LBP,Les petits culottés (couches),-52.25€,azenor
+2023/02/21,LBP,Ti Coop,-27.58€,bouffe
+2023/02/21,LBP,Intermarché,-13.95€,bouffe
+2023/02/20,LBP,Magasin U,-46.84€,bouffe
+2023/02/20,LBP,Tartines d'Autrefois,-27.10€,bouffe
+2023/02/20,LBP,Remboursement Manu 3 Brasseurs,60.00€,restau,remboursement
+2023/02/17,LBP,Magasin U,-79.41€,bouffe
+2023/02/17,LBP,L'Impériale,-33.26€,restau
+2023/02/17,LBP,Roadside,-18.90€,restau
+2023/02/17,LBP,MKM (Magic),19.92€,magic,remboursement
+2023/02/16,LBP,Bouygues,-31.49€,abonnement
+2023/02/16,LBP,Ti Coop,-54.20€,bouffe
+2023/02/16,LBP,Dialogues (Librairie),-20.00€,culture
+2023/02/16,LBP,Réparation vélo,-20.00€,transport
+2023/02/16,LBP,Dialogues (Librairie),-13.89€,culture
+2023/02/15,LBP,Arkéa,-20.00€,bouffe
+2023/02/14,LBP,Magasin U,-76.98€,bouffe
+2023/02/13,LBP,Virement aux parents maeliss pour assurrance,-52.00€,abonnement
+2023/02/13,LBP,La poste,-7.66€,matériel
+2023/02/13,LBP,Piscine,-5.30€,sortie
+2023/02/10,LBP,Magasin U,-60.86€,bouffe
+2023/02/08,LBP,MKM (Magic),-1.96€,magic
+2023/02/08,LBP,MKM (Magic),-5.06€,magic
+2023/02/08,LBP,Amnesty International,-7.00€,don
+2023/02/08,LBP,Arkéa,-50.00€,bouffe
+2023/02/08,LBP,Paypal : Netflix,-5.99€,abonnement
+2023/02/07,LBP,Géant,-114.38€,bouffe
+2023/02/07,LBP,Xsolla,-19.99€,magic
+2023/02/06,LBP,Total Energie,-74.00€,abonnement
+2023/02/06,LBP,Chèques vacances,-20.00€,autre
+2023/02/06,LBP,CGT (Syndicat),-20.00€,abonnement
+2023/02/06,LBP,L'oriflamme,-26.00€,restau
+2023/02/06,LBP,Atelier Boulangerie,-21.60€,bouffe
+2023/02/06,LBP,Bouffe Train,-3.30€,bouffe
+2023/02/06,LBP,Bibus,-1.70€,transport
+2023/02/06,LBP,CAF,182.00€,azenor,remboursement
+2023/02/06,LBP,MKM (Magic),10.90€,magic,remboursement
+2023/02/03,LBP,Intermarché,-6.75€,bouffe
+2023/02/03,LBP,MKM (Magic),31.85€,magic,remboursement
+2023/02/02,LBP,Virement Mme Calvarin,-668.50€,loyer
+2023/02/02,LBP,Ti Coop,-69.88€,bouffe
+2023/02/02,LBP,Burger King,-24.30€,restau
+2023/02/01,LBP,Orijinal Pide,-38.80€,restau
+2023/02/01,LBP,Virement Mika,2000.00€,caché

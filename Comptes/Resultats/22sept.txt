@@ -1,0 +1,253 @@
+Dépenses totales par catégories :
+            Montant
+Tag
+abonnement  -149.93
+autre        200.00
+azenor      -104.50
+banque       -12.00
+bouffe      -851.94
+caché          0.00
+cadeau     4,340.00
+culture     -273.85
+don           -7.00
+economie     -45.00
+evl          -11.00
+impots      -138.00
+loyer       -668.50
+magic        -81.54
+matériel    -224.84
+restau      -110.15
+salaire    4,290.24
+santé       -285.68
+sortie        -5.90
+transport    462.94
+
+Total balance :
+6323.349999999999
+############################################################
+Détails par catégorie => abonnement
+
+         Date  Banque                                       Libellé  Montant
+1  2022-09-30     LBP                                           EDF   -36.96
+11 2022-09-26     LBP                               La poste mobile    -9.99
+25 2022-09-16     LBP                              Bouygues Telecom    -6.99
+33 2022-09-12     LBP  Virement aux parents maeliss pour assurrance   -52.00
+49 2022-09-05     LBP                                 Total Energie   -39.00
+10 2022-09-20  LBPMAE               PRELEVEMENT DE LA POSTE TELECOM    -4.99
+############################################################
+
+############################################################
+Détails par catégorie => autre
+
+         Date Banque         Libellé  Montant
+47 2022-09-06    LBP  Paiement Kevin   200.00
+############################################################
+
+############################################################
+Détails par catégorie => azenor
+
+         Date Banque                        Libellé  Montant
+53 2022-09-05    LBP  Les petits culottés (couches)   -52.25
+63 2022-09-01    LBP  Les petits culottés (couches)   -52.25
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+        Date Banque           Libellé  Montant
+0 2022-09-07    CIC  Frais banque CIC   -12.00
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+         Date  Banque                           Libellé  Montant
+2  2022-09-30     LBP                         Magasin U   -64.97
+5  2022-09-29     LBP                           Ti Coop   -26.46
+12 2022-09-26     LBP                         Magasin U  -105.89
+17 2022-09-22     LBP                       Intermarché   -70.60
+19 2022-09-20     LBP                     Maison du thé   -46.75
+20 2022-09-20     LBP                         Carrefour   -13.00
+22 2022-09-19     LBP                         Carrefour   -26.25
+26 2022-09-16     LBP                           Ti Coop   -64.05
+27 2022-09-16     LBP                         Magasin U   -44.40
+31 2022-09-14     LBP                         Carrefour   -35.58
+34 2022-09-12     LBP                         Carrefour   -75.75
+37 2022-09-12     LBP  Boulangerie : Fournil de Pauline    -9.40
+44 2022-09-07     LBP                         Carrefour   -49.55
+52 2022-09-05     LBP                         Magasin U   -59.96
+60 2022-09-02     LBP                         Carrefour   -15.81
+61 2022-09-02     LBP                    Sandwich mater    -7.90
+62 2022-09-01     LBP                         Carrefour   -68.81
+11 2022-09-20  LBPMAE  ACHAT CB BIOCOOP        19.09.22   -40.23
+13 2022-09-19  LBPMAE  ACHAT CB TERCOC PF      17.09.22    -7.29
+25 2022-09-08  LBPMAE  ACHAT CB TERCOC PF      07.09.22    -9.39
+27 2022-09-06  LBPMAE  ACHAT CB ATELIER BOULAN 05.09.22    -8.85
+0  2022-09-02   TRMAE      CTR : L'atelier du boulanger    -1.05
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+         Date  Banque                                            Libellé   Montant
+2  2022-09-30     CIC                             Virement Compte Commun -3,000.00
+0  2022-09-30     LBP                                      Virement Mika  3,000.00
+4  2022-09-29     LBP                                   Virement Maeliss   -477.97
+8  2022-09-29     LBP                                   Virement Maeliss    800.00
+40 2022-09-08     LBP                                   Virement Maeliss   -265.54
+43 2022-09-08     LBP                                   Virement Maeliss    800.00
+1  2022-09-29  LBPMAE                 VIREMENT POUR MME MARCHAND MAELISS   -400.00
+2  2022-09-29  LBPMAE     VIREMENT INSTANTANE A MR DEMIRDELEN OU MLE MAR   -800.00
+6  2022-09-27  LBPMAE  VIREMENT DE MME MAELISS MARCHAND OUVERTURE COM...    500.00
+9  2022-09-21  LBPMAE                   VIREMENT DE MME MARCHAND MAELISS    200.00
+19 2022-09-13  LBPMAE                 VIREMENT POUR MME MARCHAND MAELISS -4,000.00
+23 2022-09-08  LBPMAE     VIREMENT INSTANTANE A MR DEMIRDELEN OU MLE MAR   -800.00
+24 2022-09-08  LBPMAE                 VIREMENT POUR MME MARCHAND MAELISS   -500.00
+31 2022-09-29  LBPMAE  VIREMENT VIREMENT DE MME MAELISS MARCHAND DATE...    400.00
+32 2022-09-29  LBPMAE  VIREMENT VIREMENT DE MME MAELISS MARCHAND DATE...    477.97
+33 2022-09-27  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -500.00
+34 2022-09-21  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -200.00
+35 2022-09-13  LBPMAE  VIREMENT VIREMENT DE MME MAELISS MARCHAND DATE...  4,000.00
+36 2022-09-08  LBPMAE  VIREMENT VIREMENT DE MME MAELISS MARCHAND DATE...    265.54
+37 2022-09-08  LBPMAE  VIREMENT VIREMENT DE MME MAELISS MARCHAND DATE...    500.00
+############################################################
+
+############################################################
+Détails par catégorie => cadeau
+
+         Date  Banque                                            Libellé  Montant
+7  2022-09-23  LBPMAE                    REMISE DE CHEQUES DU 22/09/2022    40.00
+21 2022-09-12  LBPMAE                    VIREMENT DE M PHILIPPE MARCHAND 4,000.00
+29 2022-09-05  LBPMAE  VIREMENT INSTANTANE DE MR OU MME MARCHAND PH P...   300.00
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+         Date Banque                           Libellé  Montant
+6  2022-09-29    LBP                         Croc Jeux   -26.00
+35 2022-09-12    LBP                         Croc Jeux   -50.50
+36 2022-09-12    LBP  Paypal : Volca Sampler (Thomann)   -48.25
+50 2022-09-05    LBP             Dialogues (Librairie)  -149.10
+############################################################
+
+############################################################
+Détails par catégorie => don
+
+         Date Banque                Libellé  Montant
+41 2022-09-08    LBP  Amnesty International    -7.00
+############################################################
+
+############################################################
+Détails par catégorie => economie
+
+        Date  Banque                                       Libellé  Montant
+0 2022-09-30  LBPMAE  VIREMENT PERMANENT POUR MLE MARCHAND MAELISS   -45.00
+############################################################
+
+############################################################
+Détails par catégorie => evl
+
+         Date Banque                      Libellé  Montant
+14 2022-09-26    LBP  Hello Asso : Visite ecolieu   -11.00
+############################################################
+
+############################################################
+Détails par catégorie => impots
+
+         Date Banque Libellé  Montant
+10 2022-09-26    LBP  Impots  -138.00
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+         Date Banque                Libellé  Montant
+39 2022-09-09    LBP  Virement Mme Calvarin   668.50
+48 2022-09-05    LBP  Virement Mme Calvarin  -668.50
+57 2022-09-02    LBP  Virement Mme Calvarin  -668.50
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+         Date Banque      Libellé  Montant
+15 2022-09-22    LBP  MKM (Magic)    -7.17
+16 2022-09-22    LBP  MKM (Magic)    -3.70
+18 2022-09-21    LBP  MKM (Magic)    41.07
+21 2022-09-19    LBP  MKM (Magic)   -14.87
+23 2022-09-19    LBP  MKM (Magic)     3.77
+24 2022-09-19    LBP  MKM (Magic)     0.39
+28 2022-09-15    LBP  MKM (Magic)    -9.52
+29 2022-09-15    LBP  MKM (Magic)   -12.52
+32 2022-09-13    LBP  MKM (Magic)   -31.82
+38 2022-09-09    LBP         MtGA   -19.99
+46 2022-09-06    LBP  MKM (Magic)    -8.27
+58 2022-09-02    LBP  MKM (Magic)   -18.91
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+         Date  Banque                           Libellé  Montant
+30 2022-09-15     LBP                            Amazon   -33.93
+42 2022-09-08     LBP                            Amazon   -23.99
+45 2022-09-07     LBP                            Amazon   -36.14
+54 2022-09-05     LBP        Magasin Lalibee (capucins)   -37.80
+59 2022-09-02     LBP                            Amazon   -32.99
+65 2022-09-01     LBP                            Amazon    -5.99
+14 2022-09-16  LBPMAE  ACHAT CB LALIBEE        15.09.22   -54.00
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+         Date  Banque                           Libellé  Montant
+7  2022-09-29     LBP                            Subway   -16.80
+9  2022-09-27     LBP                          Roast It   -27.45
+13 2022-09-26     LBP                             Macdo   -35.40
+64 2022-09-01     LBP       Bellevue Kebab (centre com)   -13.00
+17 2022-09-15  LBPMAE  ACHAT CB BELLEVUE KEBAB 14.09.22   -17.50
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+        Date  Banque                                            Libellé  Montant
+1 2022-09-30     CIC                                      Salaire Arkéa 3,031.46
+5 2022-09-27  LBPMAE  VIREMENT DE ASS TECHNOPOLE Salaire 09/22 Techn... 1,258.78
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+         Date  Banque                                Libellé  Montant
+3  2022-09-30     LBP              Pharmacie des universités   -12.90
+51 2022-09-05     LBP                      Pharmacie Nicolas   -69.24
+55 2022-09-05     LBP  Chez ma pharmacienne (pharma super u)   -15.90
+56 2022-09-05     LBP                           Dr DU CORAIL    -7.50
+3  2022-09-29  LBPMAE       ACHAT CB QUEMENEUR STEP 28.09.22   -50.00
+8  2022-09-22  LBPMAE       ACHAT CB QUEMENEUR STEP 21.09.22   -60.00
+18 2022-09-14  LBPMAE       ACHAT CB PHARMACIE DES  13.09.22    -9.24
+20 2022-09-12  LBPMAE        VIREMENT DE ALLIANZ VIE ALLIANZ     7.50
+26 2022-09-07  LBPMAE       ACHAT CB PHARMACIE DES  06.09.22   -38.70
+30 2022-09-02  LBPMAE       ACHAT CB PHARMACIE DES  01.09.22   -29.70
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+         Date  Banque                           Libellé  Montant
+15 2022-09-16  LBPMAE  ACHAT CB BRULERIE DES C 15.09.22    -5.90
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+         Date  Banque                                            Libellé  Montant
+4  2022-09-29  LBPMAE                   VIREMENT DE SGC BREST aide vÃ©lo   500.00
+12 2022-09-19  LBPMAE                   ACHAT CB LECLERC VL DAC 18.09.22   -28.86
+16 2022-09-16  LBPMAE                   ACHAT CB CAPUCINS AUTO  15.09.22    -1.80
+22 2022-09-09  LBPMAE  PRELEVEMENT DE RD BREST REF : 662989 PREL BIBU...    -5.00
+28 2022-09-06  LBPMAE                   ACHAT CB CAPUCINS AUTO  05.09.22    -1.40
+############################################################

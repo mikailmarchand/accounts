@@ -1,0 +1,69 @@
+Date,Banque,Libellé,Montant,Tag,Type
+2023/08/31,LBP,PAJE,161.18€,azenor,remboursement
+2023/08/30,LBP,EDF,-58.50€,abonnement
+2023/08/30,LBP,Bureau Vallée,-38.28€,matériel
+2023/08/30,LBP,Géant,-28.08€,bouffe
+2023/08/30,LBP,Magasin U,-27.58€,bouffe
+2023/08/30,LBP,Doctolib,-7.50€,santé
+2023/08/29,LBP,Nounou (Tiffany Simon),-190.57€,azenor
+2023/08/29,LBP,HelloFresh,-68.29€,bouffe
+2023/08/29,LBP,Ti Coop,-33.89€,bouffe
+2023/08/29,LBP,Virement Maeliss,900.00€,caché
+2023/08/28,LBP,Magasin U,-135.57€,bouffe
+2023/08/28,LBP,L'arome antique,-65.80€,restau
+2023/08/25,LBP,Asphalte,89.00€,vetement
+2023/08/24,LBP,La poste mobile,-9.99€,abonnement
+2023/08/24,LBP,Pharmacie,-2.35€,santé
+2023/08/23,LBP,MKM (Magic),-4.46€,magic
+2023/08/22,LBP,Vert Baudet,-84.99€,azenor
+2023/08/22,LBP,Paypal: Netflix,-5.99€,abonnement
+2023/08/22,LBP,MKM (Magic),9.30€,magic,remboursement
+2023/08/21,LBP,Magasin U,-53.90€,bouffe
+2023/08/21,LBP,SNCF,-37.00€,transport
+2023/08/21,LBP,Subway,-31.00€,fastfood
+2023/08/21,LBP,Piscine,-10.60€,sortie
+2023/08/21,LBP,Paypal: Don wikipédia,-10.00€,don
+2023/08/21,LBP,SNCF,-5.99€,transport
+2023/08/18,LBP,Ludik Addict,-27.50€,culture
+2023/08/18,LBP,Cadeau Luke,-30.00€,cadeau
+2023/08/18,LBP,Macdo,-37.50€,fastfood
+2023/08/18,LBP,Amazon,-14.39€,culture
+2023/08/18,LBP,Retrait,-100.00€,dab
+2023/08/17,LBP,PAJE,319.07€,azenor,remboursement
+2023/08/16,LBP,Véronique Loriant (nounou),-659.20€,azenor
+2023/08/16,LBP,Bouygues,-31.49€,abonnement
+2023/08/16,LBP,Carrefour,-151.01€,bouffe
+2023/08/16,LBP,Achat Steam,-8.74€,culture
+2023/08/16,LBP,EVL (virement interne ?),50.00€,evl,remboursement
+2023/08/14,LBP,Ti Coop,-23.44€,bouffe
+2023/08/14,LBP,Commission paiement par carte,-0.46€,banque
+2023/08/14,LBP,Kickstarter,-20.11€,culture
+2023/08/14,LBP,Hello Asso : En Mode Climat,-5.00€,don
+2023/08/11,LBP,Virement Philippe Marchand: Virement permanent (assurance ?),-52.00€,abonnement
+2023/08/11,LBP,Virement Philippe Marchand: Remboursement Biocoop,-10.38€,bouffe
+2023/08/11,LBP,Virement Maeliss,-300.00€,caché
+2023/08/11,LBP,Virement Philippe Marchand: Remboursement anniversaire théo-hugo,-100.00€,cadeau
+2023/08/11,LBP,Dialogues (Librairie),-59.90€,culture
+2023/08/11,LBP,Les petits culottés (couches),-52.25€,azenor
+2023/08/11,LBP,Gamefound (Kickstarter),-7.83€,culture
+2023/08/11,LBP,Ludik Addict,-6.00€,culture
+2023/08/11,LBP,Steam (jeux),-2.86€,culture
+2023/08/10,LBP,MKM (Magic),-32.91€,magic
+2023/08/10,LBP,Magasin U,-20.65€,bouffe
+2023/08/10,LBP,Majestic Brest (ciné),-12.90€,sortie
+2023/08/08,LBP,Roadside,-5.50€,fastfood
+2023/08/07,LBP,Total Energie,-36.00€,abonnement
+2023/08/07,LBP,CGT (Syndicat),-20.00€,abonnement
+2023/08/07,LBP,Carrefour,-125.36€,bouffe
+2023/08/07,LBP,Amazon,-52.12€,culture
+2023/08/07,LBP,Arenasheds ???,-25.00€,autre
+2023/08/07,LBP,Subway,-15.40€,fastfood
+2023/08/07,LBP,Mandoo,-11.50€,restau
+2023/08/07,LBP,Brico Dépot,-11.10€,matériel
+2023/08/07,LBP,Burger King,-3.50€,fastfood
+2023/08/04,LBP,Macdo,-33.85€,fastfood
+2023/08/04,LBP,CAF,184.81€,azenor,remboursement
+2023/08/03,LBP,Macdo,-33.90€,fastfood
+2023/08/03,LBP,Amazon,-25.01€,culture
+2023/08/02,LBP,Virement Mme Calvarin,-668.50€,loyer
+2023/08/01,LBP,EDF,-118.99€,abonnement

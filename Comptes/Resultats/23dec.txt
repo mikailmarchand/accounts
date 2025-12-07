@@ -1,0 +1,277 @@
+Dépenses totales par catégories :
+            Montant
+Tag
+abonnement  -146.47
+autre       -348.79
+azenor      -995.37
+banque       -57.94
+bouffe      -841.84
+caché          0.00
+cadeau       -23.20
+cfppa        -33.80
+culture     -378.12
+don           -5.00
+economie    -100.00
+fastfood     -71.65
+loyer       -687.70
+magic       -413.57
+matériel    -134.07
+restau       -29.00
+salaire    5,864.48
+santé        -65.93
+sortie       -82.40
+transport   -368.55
+vacances    -263.91
+
+Total balance :
+817.1700000000005
+############################################################
+Détails par catégorie => abonnement
+
+                   Date  Banque                                            Libellé  Montant
+8   2023-12-28 00:00:00     LBP                                    La poste mobile    -9.99
+28  2023-12-15 00:00:00     LBP                                           Bouygues   -31.49
+37  2023-12-13 00:00:00     LBP                         Virement Philippe Marchand   -55.00
+53  2023-12-07 00:00:00     LBP                                     CGT (Syndicat)   -20.00
+58  2023-12-05 00:00:00     LBP                                      Total Energie   -19.00
+10  2023-12-19 00:00:00  LBPMAE  PRELEVEMENT DE LA POSTE TELECOM REF : IN021508...   -10.99
+############################################################
+
+############################################################
+Détails par catégorie => autre
+
+                   Date Banque                                            Libellé  Montant
+1          2023"/12/"04    CMB                                    Chèque Plombier   -84.00
+14  2023-12-26 00:00:00    LBP                                        Back Market  -184.29
+44  2023-12-11 00:00:00    LBP  "ACHAT CB GUIHO GAEL     09.12.23 CARTE NUMERO...    -5.50
+46  2023-12-11 00:00:00    LBP  "ACHAT CB ROGER          09.12.23 CARTE NUMERO...    -5.00
+65  2023-12-04 00:00:00    LBP                                     Arenasheds ???   -50.00
+69  2023-12-01 00:00:00    LBP                                   Chèques vacances   -20.00
+############################################################
+
+############################################################
+Détails par catégorie => azenor
+
+                   Date  Banque                                            Libellé  Montant
+0   2023-12-31 00:00:00     LBP                                    Nounou décembre  -656.45
+5   2023-12-29 00:00:00     LBP                      Les petits culottés (couches)   -52.25
+47  2023-12-11 00:00:00     LBP                                               PAJE   319.07
+48  2023-12-08 00:00:00     LBP                      Les petits culottés (couches)   -52.25
+52  2023-12-07 00:00:00     LBP                         Véronique Loriant (nounou)  -688.30
+60  2023-12-05 00:00:00     LBP                                                CAF   184.81
+21  2023-12-11 00:00:00  LBPMAE  VIREMENT PERMANENT POUR MME MARCHAND AZENOR CO...   -50.00
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+                  Date  Banque                                            Libellé  Montant
+3  2023-12-07 00:00:00     CIC                                   Frais banque CIC   -12.24
+0         2023"/12/"07     CMB                              Cotisation eurocompte    -2.70
+7  2023-12-22 00:00:00  LBPMAE  FOURNITURE D UNE CARTE DE DEBIT CARTE DE PAIEM...   -43.00
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+                   Date  Banque                                            Libellé  Montant
+4   2023-12-29 00:00:00     LBP                                          Magasin U   -52.48
+10  2023-12-28 00:00:00     LBP                                           900.care   -16.99
+16  2023-12-26 00:00:00     LBP                                          Carrefour    -6.93
+18  2023-12-21 00:00:00     LBP                                            Ti Coop    -5.94
+19  2023-12-20 00:00:00     LBP                                        Intermarché   -35.07
+22  2023-12-18 00:00:00     LBP                                          Magasin U   -71.75
+33  2023-12-14 00:00:00     LBP                                         Hellofresh   -68.29
+36  2023-12-14 00:00:00     LBP                                             Casino    -2.31
+39  2023-12-12 00:00:00     LBP                                              Arkéa  -120.00
+42  2023-12-11 00:00:00     LBP                                          Magasin U   -71.66
+43  2023-12-11 00:00:00     LBP                                         HelloFresh   -68.29
+59  2023-12-05 00:00:00     LBP                                              Géant   -43.18
+63  2023-12-04 00:00:00     LBP                                          Magasin U   -57.97
+66  2023-12-04 00:00:00     LBP                                            Ti Coop   -37.18
+13  2023-12-18 00:00:00  LBPMAE                   ACHAT CB TERCOC PF      16.12.23   -12.46
+16  2023-12-15 00:00:00  LBPMAE                   ACHAT CB FONTAINE A PAI 14.12.23    -5.40
+19  2023-12-12 00:00:00  LBPMAE          ACHAT CB BRASSERIE PLOU sandwich 11.12.23    -5.00
+25  2023-12-11 00:00:00  LBPMAE  VIREMENT INSTANTANE DE MR OU MME MARCHAND PH S...    10.00
+26  2023-12-08 00:00:00  LBPMAE                   ACHAT CB MAISON DU PAIN 07.12.23    -9.40
+27  2023-12-08 00:00:00  LBPMAE                   ACHAT CB L ORIFLAMME    07.12.23    -7.00
+29  2023-12-06 00:00:00  LBPMAE                   ACHAT CB LA HUCHE A PAI 05.12.23    -5.65
+30  2023-12-05 00:00:00  LBPMAE                   ACHAT CB TERCOC PF      04.12.23   -11.39
+31  2023-12-05 00:00:00  LBPMAE                   ACHAT CB FOURNIL BELLEV 04.12.23    -1.15
+33  2023-12-04 00:00:00  LBPMAE                   ACHAT CB AU SAINT ANTOI 01.12.23   -11.35
+0   2023-12-30 00:00:00   TRMAE                                            Super U   -25.00
+2   2023-12-28 00:00:00   TRMAE                                            Super U   -25.00
+4   2023-12-15 00:00:00   TRMAE                                            Super U   -25.00
+6   2023-12-08 00:00:00   TRMAE                                            Super U   -25.00
+7   2023-12-02 00:00:00   TRMAE                                            Super U   -25.00
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+                   Date Banque                 Libellé   Montant
+0   2023-12-01 00:00:00    CIC  Virement Compte Commun -2,000.00
+5   2023-12-22 00:00:00    CIC  Virement Compte Commun -4,000.00
+13  2023-12-27 00:00:00    LBP           Virement Mika  4,000.00
+70  2023-12-01 00:00:00    LBP           Virement Mika  2,000.00
+############################################################
+
+############################################################
+Détails par catégorie => cadeau
+
+                   Date  Banque                                          Libellé  Montant
+2   2023-12-03 00:00:00     CIC                              Remboursement Dilan    55.00
+54  2023-12-07 00:00:00     LBP                          Curiosités de Dialogues   -31.90
+57  2023-12-07 00:00:00     LBP                            Remboursement cadeaux   183.00
+2   2023-12-27 00:00:00  LBPMAE                     CHEQUE N  0520020 NoÃḋl Medi   -30.00
+18  2023-12-12 00:00:00  LBPMAE  ACHAT CB MGP Leetchi SA pot de dÃ©part 11.12.23   -10.00
+32  2023-12-04 00:00:00  LBPMAE                 ACHAT CB LIBRAIRIE DIAL 01.12.23  -189.30
+############################################################
+
+############################################################
+Détails par catégorie => cfppa
+
+                   Date  Banque                           Libellé  Montant
+14  2023-12-18 00:00:00  LBPMAE  ACHAT CB BEAJ KAFE      16.12.23    -9.10
+15  2023-12-18 00:00:00  LBPMAE  ACHAT CB BEAJ KAFE      16.12.23    -2.80
+20  2023-12-12 00:00:00  LBPMAE  ACHAT CB BEAJ KAFE      11.12.23    -3.60
+23  2023-12-11 00:00:00  LBPMAE  ACHAT CB BEAJ KAFE      10.12.23    -5.10
+24  2023-12-11 00:00:00  LBPMAE  ACHAT CB BEAJ KAFE      10.12.23    -4.30
+34  2023-12-04 00:00:00  LBPMAE  ACHAT CB BEAJ KAFE      03.12.23    -5.30
+35  2023-12-04 00:00:00  LBPMAE  ACHAT CB BEAJ KAFE      03.12.23    -3.60
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+                   Date Banque                  Libellé  Montant
+29  2023-12-15 00:00:00    LBP  Gamefound (Kickstarter)  -319.12
+55  2023-12-07 00:00:00    LBP               Music Star   -30.00
+56  2023-12-07 00:00:00    LBP                Croc Jeux   -20.00
+68  2023-12-04 00:00:00    LBP                     FNAC    -9.00
+############################################################
+
+############################################################
+Détails par catégorie => don
+
+                   Date Banque                      Libellé  Montant
+45  2023-12-11 00:00:00    LBP  Hello Asso : En Mode Climat    -5.00
+############################################################
+
+############################################################
+Détails par catégorie => economie
+
+                   Date Banque             Libellé  Montant
+30  2023-12-14 00:00:00    LBP  Virement LDDS Mika  -100.00
+############################################################
+
+############################################################
+Détails par catégorie => fastfood
+
+                   Date Banque            Libellé  Montant
+24  2023-12-18 00:00:00    LBP         Baba Kebab   -33.30
+34  2023-12-14 00:00:00    LBP  Le Djerba (kebab)    -6.00
+49  2023-12-08 00:00:00    LBP              Macdo   -26.85
+1   2023-12-29 00:00:00  TRMAE           Roadside    -5.50
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+                   Date Banque                Libellé  Montant
+51  2023-12-08 00:00:00    LBP  Virement Mme Calvarin   687.70
+61  2023-12-04 00:00:00    LBP  Virement Mme Calvarin  -687.70
+62  2023-12-04 00:00:00    LBP  Virement Mme Calvarin  -687.70
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+                   Date Banque                                Libellé  Montant
+1   2023-12-01 00:00:00    CIC  Paypal: Magic remboursement Guillaume    74.00
+1   2023-12-30 00:00:00    LBP                                    MKM   -10.00
+2   2023-12-29 00:00:00    LBP                                    MKM   -25.00
+20  2023-12-18 00:00:00    LBP                            MKM (Magic)   -10.00
+21  2023-12-18 00:00:00    LBP                            MKM (Magic)   -30.00
+27  2023-12-15 00:00:00    LBP                            MKM (Magic)   -23.00
+38  2023-12-12 00:00:00    LBP                            MKM (Magic)  -180.00
+41  2023-12-11 00:00:00    LBP                            MKM (Magic)  -209.57
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+                   Date  Banque                                 Libellé  Montant
+6   2023-12-29 00:00:00     LBP                            Loop Earplug   -46.70
+23  2023-12-18 00:00:00     LBP                                  Amazon   -47.99
+40  2023-12-12 00:00:00     LBP                                  Amazon   -26.39
+12  2023-12-18 00:00:00  LBPMAE  ACHAT CB GES PAPETERIE Agenda 16.12.23   -12.99
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+                   Date  Banque                           Libellé  Montant
+11  2023-12-18 00:00:00  LBPMAE  ACHAT CB MIDTOWN        15.12.23   -29.00
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+                   Date  Banque                                            Libellé  Montant
+4   2023-12-21 00:00:00     CIC                                      Salaire Arkéa 3,983.62
+3   2023-12-27 00:00:00  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE VSL01202... 1,251.70
+9   2023-12-22 00:00:00  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE VSL01202...    15.52
+37  2023-12-29 00:00:00  LBPMAE                INTERETS ACQUIS DECOMPTE D'INTERETS   472.85
+3   2023-12-23 00:00:00   TRMAE   Chargement de votre carte ( 7 titres x 10,83 € )    75.81
+5   2023-12-09 00:00:00   TRMAE   Chargement de votre carte ( 6 titres x 10,83 € )    64.98
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+                   Date  Banque                                            Libellé  Montant
+12  2023-12-27 00:00:00     LBP                                          Pharmacie    -9.52
+31  2023-12-14 00:00:00     LBP                             Jennifer Crettex (psy)   -60.00
+35  2023-12-14 00:00:00     LBP                                          Pharmacie    -4.36
+36  2023-12-01 00:00:00  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ DMAL 231133226...     7.95
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+                   Date  Banque                                            Libellé  Montant
+25  2023-12-18 00:00:00     LBP                                Comiteo (CE) : ciné   -27.72
+26  2023-12-18 00:00:00     LBP                                Comiteo (CE) : ciné   -11.48
+50  2023-12-08 00:00:00     LBP                                            Ty Kall    -7.20
+17  2023-12-14 00:00:00  LBPMAE  ACHAT CB LW-BILLETWEB NoÃḋl Ã  TrÃ©varez  13.1...   -36.00
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+                   Date  Banque                           Libellé  Montant
+3   2023-12-29 00:00:00     LBP                              SNCF   -80.00
+7   2023-12-29 00:00:00     LBP                              SNCF   -42.00
+32  2023-12-14 00:00:00     LBP                Les vélos brestois   -79.00
+64  2023-12-04 00:00:00     LBP                              SNCF   -55.00
+67  2023-12-04 00:00:00     LBP                              SNCF   -28.00
+0   2023-12-28 00:00:00  LBPMAE  ACHAT CB MAGASIN U      27.12.23   -46.82
+8   2023-12-22 00:00:00  LBPMAE  ACHAT CB MAGASIN U      21.12.23   -36.13
+28  2023-12-08 00:00:00  LBPMAE  ACHAT CB RD ANGERS IRIG 06.12.23    -1.60
+############################################################
+
+############################################################
+Détails par catégorie => vacances
+
+                   Date  Banque                                            Libellé  Montant
+9   2023-12-28 00:00:00     LBP                                              Macdo   -26.65
+11  2023-12-28 00:00:00     LBP                                              Macdo    -4.20
+15  2023-12-26 00:00:00     LBP                                    Macdo (Morlaix)   -41.50
+17  2023-12-26 00:00:00     LBP                                    Macdo (Morlaix)    -6.80
+1   2023-12-28 00:00:00  LBPMAE                   ACHAT CB MC DONALD S    27.12.23   -11.60
+4   2023-12-26 00:00:00  LBPMAE            ACHAT CB CHANT CLAIRE  crÃẂpes 23.12.23   -11.00
+5   2023-12-26 00:00:00  LBPMAE              ACHAT CB BRESSIN PHILIP pain 23.12.23    -6.50
+6   2023-12-26 00:00:00  LBPMAE  ACHAT CB BRASSERIE LE C cafÃ© Grand Maine 22.1...    -1.50
+22  2023-12-11 00:00:00  LBPMAE                   ACHAT CB AIRBNB   HMBCX 09.12.23  -154.16
+############################################################

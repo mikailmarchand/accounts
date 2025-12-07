@@ -1,0 +1,293 @@
+Dépenses totales par catégories :
+            Montant
+Tag
+abonnement  -193.96
+autre        -20.00
+azenor      -512.13
+banque       -14.94
+bouffe      -910.84
+caché          0.00
+cfppa       -160.05
+culture      -95.35
+dab         -100.00
+economie    -145.00
+evl         -100.00
+fastfood    -107.23
+loyer       -687.70
+magic          0.00
+matériel    -410.46
+salaire    3,082.73
+santé         15.29
+sortie      -167.45
+transport   -430.63
+vacances     -32.50
+vetements   -127.00
+
+Total balance :
+-1117.2199999999998
+############################################################
+Détails par catégorie => abonnement
+
+                   Date  Banque                                            Libellé  Montant
+10  2024-02-26 00:00:00     LBP                                    La poste mobile    -9.99
+37  2024-02-14 00:00:00     LBP                                           Bouygues   -32.99
+40  2024-02-13 00:00:00     LBP                         Virement Philippe Marchand   -55.00
+57  2024-02-05 00:00:00     LBP                          Virement Olivane Tilly:d+    -2.99
+59  2024-02-05 00:00:00     LBP                                     CGT (Syndicat)   -20.00
+60  2024-02-05 00:00:00     LBP                                      Total Energie   -19.00
+19  2024-02-22 00:00:00  LBPMAE                             ACHAT CB LA DEFERLANTE   -15.00
+25  2024-02-20 00:00:00  LBPMAE                PRELEVEMENT DE LA POSTE TELECOM REF   -10.99
+43  2024-02-08 00:00:00  LBPMAE  PRELEVEMENT DE SYNDICAT DES META CGT REF : ASS...   -28.00
+############################################################
+
+############################################################
+Détails par catégorie => autre
+
+                   Date Banque           Libellé  Montant
+74  2024-02-01 00:00:00    LBP  Chèques vacances   -20.00
+############################################################
+
+############################################################
+Détails par catégorie => azenor
+
+                   Date  Banque                                      Libellé  Montant
+51  2024-02-09 00:00:00     LBP                Les petits culottés (couches)   -52.25
+56  2024-02-06 00:00:00     LBP                                         PAJE   319.07
+58  2024-02-05 00:00:00     LBP                   Véronique Loriant (nounou)  -693.11
+64  2024-02-05 00:00:00     LBP                                 Rose ou bleu   -44.97
+68  2024-02-05 00:00:00     LBP                                          CAF    92.40
+34  2024-02-12 00:00:00  LBPMAE  VIREMENT PERMANENT POUR MME MARCHAND AZENOR   -50.00
+48  2024-02-05 00:00:00  LBPMAE   ACHAT CB TOURCOING   Vertbaudet   03.02.24   -71.47
+49  2024-02-05 00:00:00  LBPMAE             ACHAT CB R KID          02.02.24   -11.80
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+                  Date Banque                Libellé  Montant
+1  2024-02-07 00:00:00    CIC       Frais banque CIC   -12.24
+0         2024"/02/"07    CMB  Cotisation eurocompte    -2.70
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+                   Date  Banque                                       Libellé  Montant
+5   2024-02-28 00:00:00     LBP                          Tartines d'Autrefois    -9.05
+8   2024-02-27 00:00:00     LBP                                     Magasin U   -63.83
+12  2024-02-26 00:00:00     LBP                                       Babybio   -42.33
+14  2024-02-26 00:00:00     LBP                              La brioche dorée   -13.30
+16  2024-02-23 00:00:00     LBP                                     Magasin U   -74.30
+21  2024-02-22 00:00:00     LBP                          Machine à café Arkéa    -1.20
+22  2024-02-22 00:00:00     LBP                          Machine à café Arkéa    -1.00
+23  2024-02-22 00:00:00     LBP                          Machine à café Arkéa    -0.35
+25  2024-02-20 00:00:00     LBP                                         Arkéa  -100.00
+26  2024-02-20 00:00:00     LBP                                       Ti Coop   -30.35
+27  2024-02-20 00:00:00     LBP                                       Ti Coop    -6.74
+28  2024-02-20 00:00:00     LBP                                       Ti Coop    -2.70
+29  2024-02-20 00:00:00     LBP                          Machine à café Arkéa    -1.20
+30  2024-02-20 00:00:00     LBP                          Machine à café Arkéa    -1.00
+32  2024-02-19 00:00:00     LBP                                     Magasin U   -91.23
+39  2024-02-14 00:00:00     LBP  Le fournil de Pauline (Boulangerie Bellevue)    -3.69
+46  2024-02-12 00:00:00     LBP                                     Magasin U   -72.85
+47  2024-02-12 00:00:00     LBP  Le fournil de Pauline (Boulangerie Bellevue)    -3.85
+61  2024-02-05 00:00:00     LBP                                       Babybio   -69.32
+62  2024-02-05 00:00:00     LBP                                     Magasin U   -64.12
+75  2024-02-01 00:00:00     LBP                                    Hellofresh   -68.29
+9   2024-02-26 00:00:00  LBPMAE              ACHAT CB LE FOUR DE BAB 24.02.24   -15.66
+14  2024-02-23 00:00:00  LBPMAE              ACHAT CB HELLOFRESH     23.02.24   -34.99
+16  2024-02-23 00:00:00  LBPMAE              ACHAT CB FONTAINE A PAI 22.02.24    -2.45
+17  2024-02-22 00:00:00  LBPMAE                     CHEQUE N  0520023 boucher   -41.50
+18  2024-02-22 00:00:00  LBPMAE                            ACHAT CB TERCOC PF   -15.68
+31  2024-02-13 00:00:00  LBPMAE    VIREMENT INSTANTANE A MARIE ROBERT Oranges   -12.89
+39  2024-02-09 00:00:00  LBPMAE              ACHAT CB TERCOC PF      08.02.24   -15.77
+42  2024-02-09 00:00:00  LBPMAE              ACHAT CB FOURNIL BELLEV 08.02.24    -1.20
+0   2024-02-22 00:00:00   TRMAE                                       Super U   -25.00
+2   2024-02-03 00:00:00   TRMAE                                       Super U   -25.00
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+                   Date  Banque                                            Libellé   Montant
+0   2024-02-04 00:00:00     CIC                             Virement Compte Commun -2,000.00
+4   2024-02-28 00:00:00     CIC                             Virement Compte Commun   -500.00
+6   2024-02-28 00:00:00     LBP                                      Virement Mika    500.00
+42  2024-02-13 00:00:00     LBP                                   Virement Maeliss   -200.00
+67  2024-02-05 00:00:00     LBP                                      Virement Mika  2,000.00
+69  2024-02-05 00:00:00     LBP                                   Virement Maeliss    693.11
+70  2024-02-05 00:00:00     LBP                                   Virement Maeliss    350.00
+13  2024-02-26 00:00:00  LBPMAE  VIREMENT DE MME MARCHAND MAELISS DEFAULT REFER...    100.00
+33  2024-02-13 00:00:00  LBPMAE    VIREMENT INSTANTANE DE MR DEMIRDELEN OU MLE MAR    200.00
+47  2024-02-05 00:00:00  LBPMAE     VIREMENT INSTANTANE A MR DEMIRDELEN OU MLE MAR   -350.00
+51  2024-02-26 00:00:00  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -100.00
+52  2024-02-04 00:00:00  LBPMAE    VIREMENT VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -693.11
+############################################################
+
+############################################################
+Détails par catégorie => cfppa
+
+                   Date  Banque                                            Libellé  Montant
+2   2024-02-28 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      27.02.24    -6.80
+3   2024-02-28 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      27.02.24    -4.30
+7   2024-02-27 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      26.02.24    -3.60
+10  2024-02-26 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      25.02.24    -6.80
+11  2024-02-26 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      25.02.24    -3.80
+12  2024-02-26 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      25.02.24    -3.60
+22  2024-02-21 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      20.02.24    -7.50
+23  2024-02-21 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      20.02.24    -4.30
+24  2024-02-21 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      20.02.24    -3.60
+26  2024-02-20 00:00:00  LBPMAE                                 ACHAT CB BEAJ KAFE    -4.30
+28  2024-02-19 00:00:00  LBPMAE                   ACHAT CB POPOTE DES 2 P 16.02.24   -21.40
+29  2024-02-19 00:00:00  LBPMAE                   ACHAT CB MAXICOFFEE GC  16.02.24    -2.30
+30  2024-02-16 00:00:00  LBPMAE  VIREMENT INSTANTANE DE PICOT MARIE FPE7c2f3956...    10.00
+32  2024-02-13 00:00:00  LBPMAE                    ACHAT CB REGIE CFPPA    12.02.2   -21.40
+35  2024-02-12 00:00:00  LBPMAE                   ACHAT CB TOTAL MKT FR   11.02.24   -50.05
+36  2024-02-12 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      10.02.24    -9.10
+37  2024-02-12 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      10.02.24    -3.60
+40  2024-02-09 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      08.02.24    -7.50
+41  2024-02-09 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      08.02.24    -2.50
+46  2024-02-06 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      05.02.24    -3.60
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+                   Date Banque                  Libellé  Montant
+13  2024-02-26 00:00:00    LBP    Dialogues (Librairie)   -26.84
+17  2024-02-23 00:00:00    LBP  Gamefound (Kickstarter)   -47.70
+35  2024-02-15 00:00:00    LBP         Le Bon Coin : JV     5.00
+49  2024-02-12 00:00:00    LBP         Le Bon Coin : JV     7.00
+50  2024-02-09 00:00:00    LBP        Virement Luke: AP   -25.82
+65  2024-02-05 00:00:00    LBP             Steam (jeux)   -21.99
+72  2024-02-02 00:00:00    LBP         Le Bon Coin : JV    15.00
+############################################################
+
+############################################################
+Détails par catégorie => dab
+
+                   Date Banque  Libellé  Montant
+77  2024-02-01 00:00:00    LBP  Retrait  -100.00
+############################################################
+
+############################################################
+Détails par catégorie => economie
+
+                   Date  Banque                                       Libellé  Montant
+18  2024-02-22 00:00:00     LBP                            Virement Mika LDDS  -100.00
+0   2024-02-29 00:00:00  LBPMAE  VIREMENT PERMANENT POUR MLE MARCHAND MAELISS   -45.00
+############################################################
+
+############################################################
+Détails par catégorie => evl
+
+                   Date Banque              Libellé  Montant
+7   2024-02-27 00:00:00    LBP  Virement Cotisation   -50.00
+20  2024-02-22 00:00:00    LBP  Virement Cotisation   -50.00
+24  2024-02-22 00:00:00    LBP      Virement à Manu    50.00
+34  2024-02-19 00:00:00    LBP        Paiment Lanie    50.00
+36  2024-02-14 00:00:00    LBP  Virement Cotisation  -100.00
+############################################################
+
+############################################################
+Détails par catégorie => fastfood
+
+                   Date Banque            Libellé  Montant
+0   2024-02-29 00:00:00    LBP          Deliveroo   -52.13
+15  2024-02-26 00:00:00    LBP  Le Djerba (kebab)    -8.00
+53  2024-02-08 00:00:00    LBP      Orijinal Pide   -41.60
+66  2024-02-05 00:00:00    LBP           Roadside    -5.50
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+                   Date Banque                Libellé  Montant
+71  2024-02-02 00:00:00    LBP  Virement Mme Calvarin  -687.70
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+                   Date Banque                  Libellé  Montant
+2   2024-02-12 00:00:00    CIC  Remboursement Guillaume    40.00
+3   2024-02-13 00:00:00    CIC              Vente boite    29.90
+41  2024-02-13 00:00:00    LBP              MKM (Magic)   -25.50
+44  2024-02-13 00:00:00    LBP            Mondial Relay    -4.40
+45  2024-02-12 00:00:00    LBP              MKM (Magic)   -40.00
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+                   Date  Banque                           Libellé  Montant
+4   2024-02-28 00:00:00     LBP                            Amazon   -10.56
+9   2024-02-27 00:00:00     LBP              Paypal: Loop earplug   -39.90
+38  2024-02-14 00:00:00     LBP                          La poste    -8.10
+43  2024-02-13 00:00:00     LBP                            Amazon   -42.91
+54  2024-02-06 00:00:00     LBP                         Boulanger  -249.99
+38  2024-02-09 00:00:00  LBPMAE  ACHAT CB DECATHLON      08.02.24   -59.00
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+                  Date  Banque                                            Libellé  Montant
+5  2024-02-29 00:00:00     CIC                                      Salaire Arkéa 2,114.66
+4  2024-02-28 00:00:00  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE VSL01202...   838.11
+1  2024-02-07 00:00:00   TRMAE  Chargement de votre carte ( 12 titres x 10,83 € )   129.96
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+                   Date  Banque                                            Libellé  Montant
+1   2024-02-29 00:00:00     LBP                                 Pharmacie Bellevue    -2.35
+2   2024-02-29 00:00:00     LBP                                 Pharmacie Bellevue    -1.69
+19  2024-02-22 00:00:00     LBP                             Jennifer Crettex (psy)   -60.00
+33  2024-02-19 00:00:00     LBP                                          Pharmacie    -3.16
+5   2024-02-28 00:00:00  LBPMAE  VIREMENT DE C.P.A.M. FINISTERE 240580018272 24...    14.58
+8   2024-02-27 00:00:00  LBPMAE  VIREMENT DE C.P.A.M. FINISTERE 240570013400 24...     6.72
+15  2024-02-23 00:00:00  LBPMAE                   ACHAT CB DR LAURA BRIOT 22.02.24   -29.30
+20  2024-02-21 00:00:00  LBPMAE                   ACHAT CB QUEMENEUR STEP 20.02.24   -60.00
+21  2024-02-21 00:00:00  LBPMAE                   ACHAT CB GALL SARAH     20.02.24   -37.46
+27  2024-02-20 00:00:00  LBPMAE               VIREMENT DE ALLIANZ VIE ALLIANZ DMAL   180.00
+44  2024-02-08 00:00:00  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ DMAL 240203627...     7.95
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+                   Date  Banque                           Libellé  Montant
+3   2024-02-28 00:00:00     LBP                   Mystery O Clock   -95.00
+63  2024-02-05 00:00:00     LBP                  La Catrina (bar)   -50.70
+6   2024-02-27 00:00:00  LBPMAE  ACHAT CB CASA HAVANA    26.02.24   -15.75
+50  2024-02-05 00:00:00  LBPMAE  ACHAT CB LE TORTUGA     02.02.24    -6.00
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+                   Date  Banque                                            Libellé  Montant
+11  2024-02-26 00:00:00     LBP                                 Les vélos brestois  -112.00
+48  2024-02-12 00:00:00     LBP  "ACHAT CB RD BREST       09.02.24 CARTE NUMERO...    -1.70
+52  2024-02-09 00:00:00     LBP  "ACHAT CB RD BREST       08.02.24 CARTE NUMERO...    -1.70
+55  2024-02-06 00:00:00     LBP  Paiement en plusieurs fois via Oney : vélo mae...  -249.75
+1   2024-02-28 00:00:00  LBPMAE                   ACHAT CB DAC SAS KERALA 26.02.24   -58.28
+45  2024-02-07 00:00:00  LBPMAE  PRELEVEMENT DE RD BREST REF : 662989 PREL BIBU...    -7.20
+############################################################
+
+############################################################
+Détails par catégorie => vacances
+
+                   Date Banque                   Libellé  Montant
+73  2024-02-01 00:00:00    LBP             Paiement Dude   -25.00
+76  2024-02-01 00:00:00    LBP  Bluebird coffee (Rennes)    -7.50
+############################################################
+
+############################################################
+Détails par catégorie => vetements
+
+                   Date Banque   Libellé  Montant
+31  2024-02-19 00:00:00    LBP  Asphalte  -127.00
+############################################################

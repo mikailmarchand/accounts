@@ -1,0 +1,97 @@
+Date,Banque,Libellé,Montant,Tag,Type
+2022/05/31,LBP,Magasin U,-12.26€,bouffe
+2022/05/31,LBP,Virement Maeliss,300.00€,caché
+2022/05/30,LBP,EDF,-38.00€,abonnement
+2022/05/30,LBP,Klarstein,-45.99€,matériel
+2022/05/30,LBP,Magasin U,-27.94€,bouffe
+2022/05/30,LBP,Magasin U,-14.66€,bouffe
+2022/05/30,LBP,Achat Steam,-1.49€,culture
+2022/05/25,LBP,Croc Jeux,-24.50€,culture
+2022/05/25,LBP,Magasin U,-12.34€,bouffe
+2022/05/25,LBP,Virement Maeliss,100.00€,caché
+2022/05/24,LBP,La poste mobile,-17.29€,abonnement
+2022/05/24,LBP,La poste,-4.15€,matériel
+2022/05/23,LBP,MKM (Magic),-5.93€,magic
+2022/05/23,LBP,Carrefour,-8.10€,bouffe
+2022/05/23,LBP,Bellevue Kebab (centre com),-6.50€,restau
+2022/05/19,LBP,Amazon,-17.90€,matériel
+2022/05/19,LBP,Leetchi,-10.00€,cadeau
+2022/05/17,LBP,Dialogues (Librairie),-66.25€,culture
+2022/05/17,LBP,Ti Coop,-34.40€,bouffe
+2022/05/17,LBP,Hello Asso : Visite écovillage,-16.00€,autre
+2022/05/17,LBP,Carrefour,-6.93€,bouffe
+2022/05/17,LBP,Virement Maeliss,300.00€,caché
+2022/05/16,LBP,MKM (Magic),-45.00€,magic
+2022/05/16,LBP,MKM (Magic),-6.26€,magic
+2022/05/16,LBP,MKM (Magic),-50.30€,magic
+2022/05/16,LBP,Bouygues Telecom,-9.99€,abonnement
+2022/05/16,LBP,Carrefour,-96.35€,bouffe
+2022/05/16,LBP,"""ACHAT CB DISNEY STORE D 13.05.22 EUR         50,00 CARTE NO  717  """,-50.00€,vacances
+2022/05/16,LBP,"""ACHAT CB BAR RUA        13.05.22 EUR         41,75 CARTE NO  717  """,-41.75€,vacances
+2022/05/16,LBP,"""ACHAT CB BAI PONT AVEN  14.05.22 CARTE NUMERO                717  """,-33.63€,vacances
+2022/05/16,LBP,"""ACHAT CB DALL  ITALIA P 13.05.22 EUR         20,40 CARTE NO  717  """,-20.40€,vacances
+2022/05/16,LBP,"""ACHAT CB KAPH           13.05.22 EUR          9,90 CARTE NO  717  """,-9.90€,vacances
+2022/05/16,LBP,Starbucks,-7.10€,vacances
+2022/05/16,LBP,"""ACHAT CB MCDONALDS 7105 14.05.22 EUR          6,40 CARTE NO  717  """,-6.40€,vacances
+2022/05/16,LBP,Virement Mika,100.00€,caché
+2022/05/13,LBP,"""ACHAT CB CIRCLE K NEVIN 12.05.22 EUR         25,23 CARTE NO  717  """,-25.23€,vacances
+2022/05/13,LBP,"""ACHAT CB MCDONALDS7013  12.05.22 EUR         22,50 CARTE NO  717  """,-22.50€,vacances
+2022/05/13,LBP,"""ACHAT CB GIFTS FROM HOW 12.05.22 EUR         20,00 CARTE NO  717  """,-20.00€,vacances
+2022/05/13,LBP,"""ACHAT CB TESCO STORE 35 12.05.22 EUR         14,35 CARTE NO  717  """,-14.35€,vacances
+2022/05/13,LBP,"""ACHAT CB MCDONALDS7013  12.05.22 EUR          2,10 CARTE NO  717  """,-2.10€,vacances
+2022/05/13,LBP,Virement Maeliss,200.00€,caché
+2022/05/12,LBP,"""ACHAT CB APPLEGREEN GAL 11.05.22 EUR         37,73 CARTE NO  717  """,-37.73€,vacances
+2022/05/12,LBP,"""ACHAT CB MCDONALDS 7046 11.05.22 EUR         22,45 CARTE NO  717  """,-22.45€,vacances
+2022/05/12,LBP,"""ACHAT CB MATT S SANDWIC 11.05.22 EUR         18,25 CARTE NO  717  """,-18.25€,vacances
+2022/05/12,LBP,"""ACHAT CB CUNNINGHAM BUT 11.05.22 EUR         15,50 CARTE NO  717  """,-15.50€,vacances
+2022/05/12,LBP,"""ACHAT CB EUROLINK MOTOR 11.05.22 EUR          3,00 CARTE NO  717  """,-3.00€,vacances
+2022/05/11,LBP,Virement aux parents maeliss pour assurrance,-52.00€,abonnement
+2022/05/11,LBP,"""ACHAT CB GRIFFINS BAR   10.05.22 EUR         36,80 CARTE NO  717  """,-36.80€,vacances
+2022/05/11,LBP,"""ACHAT CB MURTY RABBITTS 10.05.22 EUR         31,00 CARTE NO  717  """,-31.00€,vacances
+2022/05/11,LBP,"""ACHAT CB ARAN ISLANDS K 10.05.22 EUR         29,90 CARTE NO  717  """,-29.90€,vacances
+2022/05/11,LBP,CB SUMUP,-21.40€,vacances
+2022/05/11,LBP,"""ACHAT CB MURTY RABBITTS 10.05.22 EUR          8,50 CARTE NO  717  """,-8.50€,vacances
+2022/05/10,LBP,"""ACHAT CB AN PUCAN       09.05.22 EUR         37,95 CARTE NO  717  """,-37.95€,vacances
+2022/05/10,LBP,"""ACHAT CB GALWAY GIFTS A 09.05.22 EUR         21,80 CARTE NO  717  """,-21.80€,vacances
+2022/05/10,LBP,"""ACHAT CB The Secret Gar 09.05.22 EUR         14,40 CARTE NO  717  """,-14.40€,vacances
+2022/05/10,LBP,"""ACHAT CB Hynes Yard Car 09.05.22 EUR         14,00 CARTE NO  717  """,-14.00€,vacances
+2022/05/10,LBP,"""ACHAT CB RAINBOW GIFTS  09.05.22 EUR          9,90 CARTE NO  717  """,-9.90€,vacances
+2022/05/09,LBP,Amnesty International,-7.00€,don
+2022/05/09,LBP,"""ACHAT CB APPLEGREEN GAL 07.05.22 EUR         49,18 CARTE NO  717  """,-49.18€,vacances
+2022/05/09,LBP,"""ACHAT CB THE FISH BOX 0 06.05.22 EUR         44,50 CARTE NO  717  """,-44.50€,vacances
+2022/05/09,LBP,"""ACHAT CB LA CUCINA      07.05.22 EUR         42,50 CARTE NO  717  """,-42.50€,vacances
+2022/05/09,LBP,"""ACHAT CB TESCO STORE 35 07.05.22 EUR         31,40 CARTE NO  717  """,-31.40€,vacances
+2022/05/09,LBP,"""ACHAT CB THE DINER      06.05.22 EUR         25,10 CARTE NO  717  """,-25.10€,vacances
+2022/05/09,LBP,"""ACHAT CB LIDL IRELAND   06.05.22 EUR         11,58 CARTE NO  717  """,-11.58€,vacances
+2022/05/09,LBP,"""ACHAT CB DESIGNS OF IRE 07.05.22 EUR         10,95 CARTE NO  717  """,-10.95€,vacances
+2022/05/09,LBP,"""ACHAT CB CITY CENTRE    07.05.22 EUR         10,80 CARTE NO  717  """,-10.80€,vacances
+2022/05/09,LBP,"""ACHAT CB CAFFE NERO 723 07.05.22 EUR          8,40 CARTE NO  717  """,-8.40€,vacances
+2022/05/09,LBP,"""ACHAT CB Murphys Ice Cr 06.05.22 EUR          8,40 CARTE NO  717  """,-8.40€,vacances
+2022/05/09,LBP,"""ACHAT CB PASCAL COFFEE  07.05.22 EUR          7,00 CARTE NO  717  """,-7.00€,vacances
+2022/05/06,LBP,"""ACHAT CB THE DINGLE PUB 04.05.22 EUR         53,50 CARTE NO  717  """,-53.50€,vacances
+2022/05/06,LBP,"""ACHAT CB Dannos Restaur 05.05.22 EUR         44,35 CARTE NO  717  """,-44.35€,vacances
+2022/05/05,LBP,Loyer (Mme Calvarin),-650.00€,loyer
+2022/05/05,LBP,Total Energie,-13.00€,abonnement
+2022/05/05,LBP,"""ACHAT CB THE FISH BOX 0 04.05.22 EUR         35,50 CARTE NO  717  """,-35.50€,vacances
+2022/05/05,LBP,Virement d'Ito,32.60€,magic,remboursement
+2022/05/04,LBP,"""ACHAT CB SPAR KILLORGLI 03.05.22 EUR         56,20 CARTE NO  717  """,-56.20€,vacances
+2022/05/04,LBP,"""ACHAT CB TATLER JACK    03.05.22 EUR         34,40 CARTE NO  717  """,-34.40€,vacances
+2022/05/04,LBP,"""ACHAT CB MUG AND BEAN   03.05.22 EUR         27,40 CARTE NO  717  """,-27.40€,vacances
+2022/05/04,LBP,"""ACHAT CB GOING GREEN, K 03.05.22 EUR          3,75 CARTE NO  717  """,-3.75€,vacances
+2022/05/04,LBP,"""ACHAT CB WWW.PARKINGPAY 03.05.22 EUR          2,00 CARTE NO  717  """,-2.00€,vacances
+2022/05/03,LBP,"""ACHAT CB MURPHYS        02.05.22 EUR         33,10 CARTE NO  717  """,-33.10€,vacances
+2022/05/03,LBP,"""ACHAT CB THE SHIRE      02.05.22 EUR         31,00 CARTE NO  717  """,-31.00€,vacances
+2022/05/03,LBP,"""ACHAT CB Murphys Ice Cr 02.05.22 EUR          6,70 CARTE NO  717  """,-6.70€,vacances
+2022/05/03,LBP,"""ACHAT CB LADIES VIEW IN 02.05.22 EUR          3,25 CARTE NO  717  """,-3.25€,vacances
+2022/05/02,LBP,EDF,-38.00€,abonnement
+2022/05/02,LBP,"""RETRAIT ULSTER BANK   / 30.04.22 EUR         80,00 CARTE NO  717  """,-80.00€,vacances
+2022/05/02,LBP,"""ACHAT CB The Auld Trian 30.04.22 EUR         43,40 CARTE NO  717  """,-43.40€,vacances
+2022/05/02,LBP,"""ACHAT CB MUTUAL ENTERPR 30.04.22 EUR         27,00 CARTE NO  717  """,-27.00€,vacances
+2022/05/02,LBP,"""ACHAT CB TESCO STORE 35 30.04.22 EUR         17,52 CARTE NO  717  """,-17.52€,vacances
+2022/05/02,LBP,"""ACHAT CB BAI PONT AVEN  30.04.22 CARTE NUMERO                717  """,-16.31€,vacances
+2022/05/02,LBP,"""ACHAT CB BAI PONT AVEN  29.04.22 CARTE NUMERO                717  """,-14.94€,vacances
+2022/05/02,LBP,Pharmacie universitaire,-9.80€,santé
+2022/05/02,LBP,"""ACHAT CB SWOON          30.04.22 EUR          5,95 CARTE NO  717  """,-5.95€,vacances
+2022/05/02,LBP,"""ACHAT CB JUMP JUICE BAR 30.04.22 EUR          4,55 CARTE NO  717  """,-4.55€,vacances
+2022/05/02,LBP,Virement Mika,1400.00€,caché
+2022/05/02,LBP,Virement Maeliss,500.00€,caché

@@ -1,0 +1,65 @@
+Date,Banque,Libellé,Montant,Tag,Type
+2023/03/31,LBP,Virement Mika,2500.00€,caché
+2023/03/31,LBP,Magic (Site officiel de wizards),-40.98€,magic
+2023/03/30,LBP,MKM (Magic),-2.56€,magic
+2023/03/30,LBP,EDF,-36.96€,abonnement
+2023/03/30,LBP,Macdo,-30.40€,fastfood
+2023/03/30,LBP,Virement Maeliss,700.00€,caché
+2023/03/28,LBP,HelloFresh,-68.29€,bouffe
+2023/03/28,LBP,Subway,-13.00€,fastfood
+2023/03/28,LBP,Dr DU CORAIL,-9.00€,santé
+2023/03/27,LBP,Magasin U,-86.98€,bouffe
+2023/03/27,LBP,Jardin de Gwen,-58.00€,restau
+2023/03/24,LBP,La poste mobile,-9.99€,abonnement
+2023/03/23,LBP,MKM (Magic),-20.45€,magic
+2023/03/23,LBP,Intermarché,-24.44€,bouffe
+2023/03/21,LBP,Total Energie,-36.83€,abonnement
+2023/03/21,LBP,Ti Coop,-87.81€,bouffe
+2023/03/21,LBP,HelloFresh,-68.29€,bouffe
+2023/03/21,LBP,Virement Maeliss,200.00€,caché
+2023/03/20,LBP,MKM (Magic),-6.50€,magic
+2023/03/20,LBP,Magasin U,-88.34€,bouffe
+2023/03/17,LBP,MKM (Magic),20.89€,magic,remboursement
+2023/03/16,LBP,Bouygues,-31.49€,abonnement
+2023/03/16,LBP,Ludik Addict,-9.00€,culture
+2023/03/16,LBP,Ti Coop,-6.35€,bouffe
+2023/03/16,LBP,Boulangerie : Fournil de Pauline,-2.00€,bouffe
+2023/03/15,LBP,Macdo,-28.50€,fastfood
+2023/03/15,LBP,Ludik Addict,-12.60€,culture
+2023/03/15,LBP,Dr DU CORAIL,-7.50€,santé
+2023/03/14,LBP,Carrefour,-151.39€,bouffe
+2023/03/14,LBP,Amazon,-30.91€,matériel
+2023/03/14,LBP,Pharmacie de l'iroise,-2.47€,santé
+2023/03/13,LBP,Virement aux parents maeliss pour assurrance,-52.00€,abonnement
+2023/03/13,LBP,EVL (virement interne ?),-39.96€,evl
+2023/03/13,LBP,MKM (Magic),-12.19€,magic
+2023/03/13,LBP,Virement à Manu,-14.40€,evl
+2023/03/13,LBP,Virement à Manu,-37.44€,evl
+2023/03/13,LBP,MKM (Magic),17.82€,magic,remboursement
+2023/03/13,LBP,Virement Mika,37.44€,evl,remboursement
+2023/03/13,LBP,Virement Mika,14.40€,evl,remboursement
+2023/03/09,LBP,HelloFresh,-94.99€,bouffe
+2023/03/08,LBP,Amnesty International,-7.00€,don
+2023/03/08,LBP,Leclerc,-2.99€,bouffe
+2023/03/07,LBP,MKM (Magic),-36.33€,magic
+2023/03/07,LBP,HelloFresh,-68.29€,bouffe
+2023/03/07,LBP,MKM (Magic),1.85€,magic,remboursement
+2023/03/07,LBP,Virement Mika,39.96€,evl,remboursement
+2023/03/06,LBP,Virement Maeliss,-1500.00€,caché
+2023/03/06,LBP,Virement à Manu (siege auto),-100.00€,azenor
+2023/03/06,LBP,CGT (Syndicat),-20.00€,abonnement
+2023/03/06,LBP,Carrefour,-39.75€,bouffe
+2023/03/06,LBP,Subway,-23.50€,fastfood
+2023/03/06,LBP,Boulangerie : Fournil de Pauline,-5.70€,bouffe
+2023/03/06,LBP,Pharmacie Bellevue,-4.36€,santé
+2023/03/06,LBP,CAF Azenor,182.00€,azenor,remboursement
+2023/03/03,LBP,Le fournil des provinces,-1.15€,bouffe
+2023/03/03,LBP,PAJE,314.24€,azenor,remboursement
+2023/03/03,LBP,Syndicat,20.00€,abonnement,remboursement
+2023/03/02,LBP,Virement Mme Calvarin,-668.50€,loyer
+2023/03/02,LBP,EDF,-36.96€,abonnement
+2023/03/02,LBP,Ti Coop,-45.14€,bouffe
+2023/03/02,LBP,Bureau Vallée,-3.49€,matériel
+2023/03/02,LBP,Ludik Addict,-0.55€,culture
+2023/03/01,LBP,Leclerc,-62.36€,bouffe
+2023/03/01,LBP,Macdo Le Relecq,-26.40€,fastfood

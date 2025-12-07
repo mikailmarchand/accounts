@@ -1,0 +1,288 @@
+Dépenses totales par catégories :
+            Montant
+Tag
+abonnement  -254.58
+autre        -53.60
+azenor      -405.46
+banque       -14.94
+bouffe      -866.43
+caché          0.00
+cadeau        75.10
+cfppa       -875.28
+culture      -76.67
+don          -17.35
+economie    -145.00
+evl           29.20
+loyer       -687.70
+magic       -189.09
+matériel    -202.88
+restau       -42.10 => total : -98,1
+resto        -56.00
+salaire    3,211.33
+santé        -49.46
+transport   -222.91
+vêtements    -55.98
+
+Total balance :
+-899.8000000000002
+############################################################
+Détails par catégorie => abonnement
+
+                   Date  Banque                                            Libellé  Montant
+0   2023-11-30 00:00:00     LBP                                                EDF   -71.00
+9   2023-11-24 00:00:00     LBP                                    La poste mobile   -10.11
+28  2023-11-14 00:00:00     LBP                                           Bouygues   -31.49
+31  2023-11-13 00:00:00     LBP                         Virement Philippe Marchand   -55.00
+37  2023-11-13 00:00:00     LBP                                    Paypal: Netflix    -8.99
+53  2023-11-06 00:00:00     LBP                                     CGT (Syndicat)   -20.00
+54  2023-11-06 00:00:00     LBP                                      Total Energie   -19.00
+17  2023-11-21 00:00:00  LBPMAE                    PRELEVEMENT DE LA POSTE TELECOM   -10.99
+33  2023-11-08 00:00:00  LBPMAE  PRELEVEMENT DE SYNDICAT DES META CGT REF : ASS...   -28.00
+############################################################
+
+############################################################
+Détails par catégorie => autre
+
+                   Date Banque                      Libellé  Montant
+7   2023-11-27 00:00:00    LBP               Arenasheds ???   -25.00
+39  2023-11-13 00:00:00    LBP  Laverie Bellevue (Langevin)    -5.00
+40  2023-11-13 00:00:00    LBP  Laverie Bellevue (Langevin)    -1.20
+41  2023-11-13 00:00:00    LBP  Laverie Bellevue (Langevin)    -1.20
+42  2023-11-13 00:00:00    LBP  Laverie Bellevue (Langevin)    -1.20
+65  2023-11-02 00:00:00    LBP             Chèques vacances   -20.00
+############################################################
+
+############################################################
+Détails par catégorie => azenor
+
+                   Date  Banque                                      Libellé  Montant
+34  2023-11-13 00:00:00     LBP                                      Babybio  -114.54
+50  2023-11-07 00:00:00     LBP                                         PAJE   319.69
+51  2023-11-06 00:00:00     LBP                   Véronique Loriant (nounou)  -693.17
+59  2023-11-06 00:00:00     LBP                                          CAF   184.81
+63  2023-11-03 00:00:00     LBP                Les petits culottés (couches)   -52.25
+28  2023-11-13 00:00:00  LBPMAE  VIREMENT PERMANENT POUR MME MARCHAND AZENOR   -50.00
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+                  Date Banque                Libellé  Montant
+2  2023-11-06 00:00:00    CIC       Frais banque CIC   -12.24
+1         2023"/11/"07    CMB  Cotisation eurocompte    -2.70
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+                   Date  Banque                                       Libellé  Montant
+3   2023-11-29 00:00:00     LBP                                      900.care    -3.50
+6   2023-11-27 00:00:00     LBP                                     Magasin U   -90.21
+10  2023-11-24 00:00:00     LBP                                      900.care   -35.20
+11  2023-11-24 00:00:00     LBP                                      900.care   -18.50
+20  2023-11-20 00:00:00     LBP                                     Magasin U   -71.01
+21  2023-11-20 00:00:00     LBP                              Au Saint Antoine    -4.90
+24  2023-11-15 00:00:00     LBP                                     Magasin U   -27.00
+25  2023-11-15 00:00:00     LBP  Le fournil de Pauline (Boulangerie Bellevue)    -1.20
+30  2023-11-14 00:00:00     LBP                                       Ti Coop   -10.23
+35  2023-11-13 00:00:00     LBP                                         Géant  -113.50
+45  2023-11-08 00:00:00     LBP                          Machine à café Arkéa    -0.90
+46  2023-11-08 00:00:00     LBP                          Machine à café Arkéa    -0.90
+47  2023-11-07 00:00:00     LBP                                         Arkéa   -50.00
+49  2023-11-07 00:00:00     LBP                                 Maison du thé   -14.00
+55  2023-11-06 00:00:00     LBP                                    Hellofresh   -68.29
+57  2023-11-06 00:00:00     LBP                                    Hellofresh   -11.96
+67  2023-11-02 00:00:00     LBP                                     Magasin U   -87.22
+3   2023-11-29 00:00:00  LBPMAE              ACHAT CB MAGASIN U      28.11.23   -37.89
+6   2023-11-27 00:00:00  LBPMAE              ACHAT CB TERCOC PF      24.11.23    -8.98
+19  2023-11-20 00:00:00  LBPMAE              ACHAT CB MAISON DU THE  18.11.23   -35.90
+26  2023-11-14 00:00:00  LBPMAE              ACHAT CB TERCOC PF      13.11.23    -9.68
+32  2023-11-10 00:00:00  LBPMAE              ACHAT CB BIOCOOP PLOUZA 09.11.23   -28.42
+38  2023-11-07 00:00:00  LBPMAE              ACHAT CB BIOCOOP        06.11.23   -27.26
+44  2023-11-02 00:00:00  LBPMAE              ACHAT CB TERCOC PF      31.10.23   -10.23
+0   2023-11-24 00:00:00   TRMAE                                       Super U   -25.00
+2   2023-11-18 00:00:00   TRMAE                                       Super U   -25.00
+3   2023-11-14 00:00:00   TRMAE                                       Super U   -25.00
+4   2023-11-07 00:00:00   TRMAE                                   Intermarché   -24.55
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+                   Date  Banque                                            Libellé   Montant
+0   2023-11-04 00:00:00     CIC                             Virement Compte Commun -2,000.00
+2          2023"/11/"04     CMB                                      Compte Commun    170.00
+2   2023-11-30 00:00:00     LBP                                   Virement Maeliss    600.00
+8   2023-11-27 00:00:00     LBP                                   Virement Maeliss  6,000.00
+32  2023-11-13 00:00:00     LBP                                   Virement Maeliss   -500.00
+33  2023-11-13 00:00:00     LBP                                   Virement Maeliss   -100.00
+52  2023-11-06 00:00:00     LBP                                      Virement Mika   -170.00
+58  2023-11-06 00:00:00     LBP                                      Virement Mika  2,000.00
+60  2023-11-06 00:00:00     LBP                                   Virement Maeliss    700.00
+69  2023-11-02 00:00:00     LBP                                   Virement Maeliss    700.00
+1   2023-11-30 00:00:00  LBPMAE     VIREMENT INSTANTANE A MR DEMIRDELEN OU MLE MAR   -600.00
+15  2023-11-23 00:00:00  LBPMAE  VIREMENT DE MME MARCHAND MAELISS DEFAULT REFER...    150.00
+23  2023-11-20 00:00:00  LBPMAE  VIREMENT DE MME MARCHAND MAELISS DEFAULT REFER...    899.85
+30  2023-11-13 00:00:00  LBPMAE    VIREMENT INSTANTANE DE MR DEMIRDELEN OU MLE MAR    100.00
+43  2023-11-02 00:00:00  LBPMAE     VIREMENT INSTANTANE A MR DEMIRDELEN OU MLE MAR   -700.00
+47  2023-11-27 00:00:00  LBPMAE    VIREMENT VIREMENT POUR MR DEMIRDELEN OU MLE MAR -6,000.00
+48  2023-11-23 00:00:00  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -150.00
+49  2023-11-18 00:00:00  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -899.85
+50  2023-11-12 00:00:00  LBPMAE  VIREMENT VIREMENT DE MR DEMIRDELEN OU MLE DATE...    500.00
+51  2023-11-05 00:00:00  LBPMAE    VIREMENT VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -700.00
+############################################################
+
+############################################################
+Détails par catégorie => cadeau
+
+                   Date  Banque                                            Libellé  Montant
+3   2023-11-15 00:00:00     CIC                                      Paiement Medi   105.00
+5   2023-11-27 00:00:00  LBPMAE                   ACHAT CB Jeux Ravensbur 23.11.23   -19.40
+10  2023-11-24 00:00:00  LBPMAE                   ACHAT CB THOMANN DE     23.11.23  -125.00
+25  2023-11-15 00:00:00  LBPMAE  VIREMENT INSTANTANE DE MR OU MME MARCHAND PH B...   150.00
+29  2023-11-13 00:00:00  LBPMAE                   ACHAT CB LE-GLENN.COM   11.11.23   -35.50
+############################################################
+
+############################################################
+Détails par catégorie => cfppa
+
+                   Date  Banque                                            Libellé  Montant
+7   2023-11-27 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      24.11.23    -4.30
+8   2023-11-27 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      24.11.23    -4.30
+18  2023-11-20 00:00:00  LBPMAE  VIREMENT POUR EPLEA RENNES LE RHEU COMPTE FR76...  -899.85
+20  2023-11-20 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      19.11.23    -8.40
+21  2023-11-20 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      19.11.23    -4.30
+22  2023-11-20 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      19.11.23    -3.80
+24  2023-11-16 00:00:00  LBPMAE                    REMISE DE CHEQUES DU 14/11/2023    62.77
+36  2023-11-08 00:00:00  LBPMAE  VIREMENT INSTANTANE DE PICOT MARIE FPEbbc8d4f9...    13.00
+39  2023-11-07 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      06.11.23    -3.60
+40  2023-11-06 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      05.11.23    -7.00
+41  2023-11-06 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      05.11.23    -3.60
+45  2023-11-02 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      01.11.23    -8.10
+46  2023-11-02 00:00:00  LBPMAE                   ACHAT CB BEAJ KAFE      01.11.23    -3.80
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+                   Date Banque                Libellé  Montant
+0          2023"/11/"30    CMB    Temple du jeu Brest   -40.50
+48  2023-11-07 00:00:00    LBP  Dialogues (Librairie)   -14.60
+68  2023-11-02 00:00:00    LBP            Achat Steam   -21.57
+############################################################
+
+############################################################
+Détails par catégorie => don
+
+                   Date  Banque                                        Libellé  Montant
+43  2023-11-09 00:00:00     LBP                Hello Asso : Don En Mode Climat    -5.00
+12  2023-11-24 00:00:00  LBPMAE  ACHAT CB LW-HELLOASSO Tela Botanica  23.11.23   -12.35
+############################################################
+
+############################################################
+Détails par catégorie => economie
+
+                   Date  Banque                                       Libellé  Montant
+27  2023-11-14 00:00:00     LBP                            Virement LDDS Mika  -100.00
+0   2023-11-30 00:00:00  LBPMAE  VIREMENT PERMANENT POUR MLE MARCHAND MAELISS   -45.00
+############################################################
+
+############################################################
+Détails par catégorie => evl
+
+                   Date  Banque                                     Libellé  Montant
+61  2023-11-06 00:00:00     LBP                               Virement Mika    79.20
+4   2023-11-27 00:00:00  LBPMAE  ACHAT CB ARENASHEDS Brunch EVL    26.11.23   -50.00
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+                   Date Banque                Libellé  Montant
+64  2023-11-02 00:00:00    LBP  Virement Mme Calvarin  -687.70
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+                   Date Banque            Libellé  Montant
+1   2023-11-06 00:00:00    CIC       Paypal : MKM   -15.99
+5   2023-11-27 00:00:00    LBP        MKM (Magic)    -6.27
+13  2023-11-22 00:00:00    LBP        MKM (Magic)    -5.56
+17  2023-11-21 00:00:00    LBP        MKM (Magic)     2.75
+18  2023-11-20 00:00:00    LBP        MKM (Magic)   -35.51
+19  2023-11-20 00:00:00    LBP        MKM (Magic)    -2.75
+22  2023-11-17 00:00:00    LBP        MKM (Magic)    -0.40
+26  2023-11-14 00:00:00    LBP        MKM (Magic)   -11.99
+44  2023-11-09 00:00:00    LBP        MKM (Magic)    42.83
+66  2023-11-02 00:00:00    LBP  Magic Corporation  -156.20
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+                   Date  Banque                                  Libellé  Montant
+15  2023-11-22 00:00:00     LBP                           Sostrene Grene    -2.02
+16  2023-11-21 00:00:00     LBP                                   Amazon  -139.90
+29  2023-11-14 00:00:00     LBP                                   Amazon   -45.07
+38  2023-11-13 00:00:00     LBP                                   Amazon    -6.99
+27  2023-11-14 00:00:00  LBPMAE  ACHAT CB LEROY MERLIN raquette 11.11.23    -8.90
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+                   Date Banque      Libellé  Montant
+56  2023-11-06 00:00:00    LBP  Bella Mamma   -42.10
+############################################################
+
+############################################################
+Détails par catégorie => resto
+
+                   Date Banque          Libellé  Montant
+36  2023-11-13 00:00:00    LBP  Au pty lyonnais   -56.00
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+                  Date  Banque                                            Libellé  Montant
+4  2023-11-30 00:00:00     CIC                                      Salaire Arkéa 2,126.07
+9  2023-11-27 00:00:00  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE VSL01202...   998.62
+5  2023-11-07 00:00:00   TRMAE    Chargement de votre carte ( 8 titres x 10,83€ )    86.64
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+                   Date  Banque                               Libellé  Montant
+12  2023-11-23 00:00:00     LBP                Jennifer Crettex (psy)   -60.00
+14  2023-11-22 00:00:00     LBP                             Pharmacie    -6.71
+23  2023-11-17 00:00:00     LBP                          Dr DU CORAIL   -17.40
+62  2023-11-03 00:00:00     LBP                Jennifer Crettex (psy)   -60.00
+11  2023-11-24 00:00:00  LBPMAE      ACHAT CB PHARMACIE DES  23.11.23   -12.51
+13  2023-11-24 00:00:00  LBPMAE      ACHAT CB DR SABLON DU C 23.11.23    -7.95
+14  2023-11-24 00:00:00  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ DMAL     7.95
+16  2023-11-22 00:00:00  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ DMAL    40.00
+34  2023-11-08 00:00:00  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ DMAL    60.00
+35  2023-11-08 00:00:00  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ DMAL    50.00
+37  2023-11-07 00:00:00  LBPMAE      ACHAT CB QUEMENEUR STEP 06.11.23   -40.00
+1   2023-11-21 00:00:00   TRMAE              Pharmacie Magali Nicolas    -2.84
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+                   Date  Banque                                            Libellé  Montant
+1   2023-11-30 00:00:00     LBP                            Vaude boutique en ligne  -120.00
+2   2023-11-30 00:00:00  LBPMAE                   ACHAT CB LECLERC DAC    29.11.23   -54.29
+31  2023-11-10 00:00:00  LBPMAE  PRELEVEMENT DE RD BREST REF : 662989 PREL BIBU...    -4.03
+42  2023-11-03 00:00:00  LBPMAE                   ACHAT CB MAGASIN U      02.11.23   -44.59
+############################################################
+
+############################################################
+Détails par catégorie => vêtements
+
+                  Date Banque Libellé  Montant
+4  2023-11-28 00:00:00    LBP   Celio   -55.98
+############################################################

@@ -1,0 +1,67 @@
+Date,Banque,Libellé,Montant,Tag,Type
+2022/09/30,LBP,Virement Mika,3000.00€,caché
+2022/09/30,LBP,EDF,-36.96€,abonnement
+2022/09/30,LBP,Magasin U,-64.97€,bouffe
+2022/09/30,LBP,Pharmacie des universités,-12.90€,santé
+2022/09/29,LBP,Virement Maeliss,-477.97€,caché
+2022/09/29,LBP,Ti Coop,-26.46€,bouffe
+2022/09/29,LBP,Croc Jeux,-26.00€,culture
+2022/09/29,LBP,Subway,-16.80€,restau
+2022/09/29,LBP,Virement Maeliss,800.00€,caché
+2022/09/27,LBP,Roast It,-27.45€,restau
+2022/09/26,LBP,Impots,-138.00€,impots
+2022/09/26,LBP,La poste mobile,-9.99€,abonnement
+2022/09/26,LBP,Magasin U,-105.89€,bouffe
+2022/09/26,LBP,Macdo,-35.40€,restau
+2022/09/26,LBP,Hello Asso : Visite ecolieu,-11.00€,evl
+2022/09/22,LBP,MKM (Magic),-7.17€,magic
+2022/09/22,LBP,MKM (Magic),-3.70€,magic
+2022/09/22,LBP,Intermarché,-70.60€,bouffe
+2022/09/21,LBP,MKM (Magic),41.07€,magic,remboursement
+2022/09/20,LBP,Maison du thé,-46.75€,bouffe
+2022/09/20,LBP,Carrefour,-13.00€,bouffe
+2022/09/19,LBP,MKM (Magic),-14.87€,magic
+2022/09/19,LBP,Carrefour,-26.25€,bouffe
+2022/09/19,LBP,MKM (Magic),3.77€,magic,remboursement
+2022/09/19,LBP,MKM (Magic),0.39€,magic,remboursement
+2022/09/16,LBP,Bouygues Telecom,-6.99€,abonnement
+2022/09/16,LBP,Ti Coop,-64.05€,bouffe
+2022/09/16,LBP,Magasin U,-44.40€,bouffe
+2022/09/15,LBP,MKM (Magic),-9.52€,magic
+2022/09/15,LBP,MKM (Magic),-12.52€,magic
+2022/09/15,LBP,Amazon,-33.93€,matériel
+2022/09/14,LBP,Carrefour,-35.58€,bouffe
+2022/09/13,LBP,MKM (Magic),-31.82€,magic
+2022/09/12,LBP,Virement aux parents maeliss pour assurrance,-52.00€,abonnement
+2022/09/12,LBP,Carrefour,-75.75€,bouffe
+2022/09/12,LBP,Croc Jeux,-50.50€,culture
+2022/09/12,LBP,Paypal : Volca Sampler (Thomann),-48.25€,culture
+2022/09/12,LBP,Boulangerie : Fournil de Pauline,-9.40€,bouffe
+2022/09/09,LBP,MtGA,-19.99€,magic
+2022/09/09,LBP,Virement Mme Calvarin,668.50€,loyer,remboursement
+2022/09/08,LBP,Virement Maeliss,-265.54€,caché
+2022/09/08,LBP,Amnesty International,-7.00€,don
+2022/09/08,LBP,Amazon,-23.99€,matériel
+2022/09/08,LBP,Virement Maeliss,800.00€,caché
+2022/09/07,LBP,Carrefour,-49.55€,bouffe
+2022/09/07,LBP,Amazon,-36.14€,matériel
+2022/09/06,LBP,MKM (Magic),-8.27€,magic
+2022/09/06,LBP,Paiement Kevin,200.00€,autre,remboursement
+2022/09/05,LBP,Virement Mme Calvarin,-668.50€,loyer
+2022/09/05,LBP,Total Energie,-39.00€,abonnement
+2022/09/05,LBP,Dialogues (Librairie),-149.10€,culture
+2022/09/05,LBP,Pharmacie Nicolas,-69.24€,santé
+2022/09/05,LBP,Magasin U,-59.96€,bouffe
+2022/09/05,LBP,Les petits culottés (couches),-52.25€,azenor
+2022/09/05,LBP,Magasin Lalibee (capucins),-37.80€,matériel
+2022/09/05,LBP,Chez ma pharmacienne (pharma super u),-15.90€,santé
+2022/09/05,LBP,Dr DU CORAIL,-7.50€,santé
+2022/09/02,LBP,Virement Mme Calvarin,-668.50€,loyer
+2022/09/02,LBP,MKM (Magic),-18.91€,magic
+2022/09/02,LBP,Amazon,-32.99€,matériel
+2022/09/02,LBP,Carrefour,-15.81€,bouffe
+2022/09/02,LBP,Sandwich mater,-7.90€,bouffe
+2022/09/01,LBP,Carrefour,-68.81€,bouffe
+2022/09/01,LBP,Les petits culottés (couches),-52.25€,azenor
+2022/09/01,LBP,Bellevue Kebab (centre com),-13.00€,restau
+2022/09/01,LBP,Amazon,-5.99€,matériel

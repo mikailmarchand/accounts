@@ -1,0 +1,226 @@
+Dépenses totales par catégories :
+             Montant
+Tag
+abonnement   -216.96
+azenor        194.35
+banque        -13.05
+bouffe     -1,039.79
+cadeau         40.00
+culture      -221.74
+economies    -200.00
+fastfood      -85.40
+loyer        -761.66
+magic        -306.87
+matériel     -206.61
+salaire     3,337.78
+santé        -209.17
+snap          -33.97
+sortie         -4.50
+sport        -139.99
+transport    -102.74
+vêtements    -119.96
+
+Total balance :
+-90.27999999999975
+################################e############################
+Détails par catégorie => abonnement -216.96
+
+                   Date  Banque                         Libellé  Montant
+7   2025-03-25 00:00:00     LBP                 LA POSTE MOBILE    -9.99
+12  2025-03-24 00:00:00     LBP                             EDF   -76.00
+19  2025-03-18 00:00:00     LBP                         Disney+    -1.99
+27  2025-03-14 00:00:00     LBP                        Bouygues   -32.99
+32  2025-03-13 00:00:00     LBP      Virement Philippe Marchand   -65.00
+41  2025-03-10 00:00:00     LBP                  CGT (Syndicat)   -20.00
+13  2025-03-19 00:00:00  LBPMAE  PRELEVEMENT DE LA POSTE MOBILE   -10.99
+############################################################
+
+################################e############################
+Détails par catégorie => azenor 194.35
+
+                   Date  Banque                                      Libellé  Montant
+43  2025-03-10 00:00:00     LBP                Les petits culottés (couches)   -49.50
+54  2025-03-04 00:00:00     LBP                                         PAJE   333.75
+3   2025-03-31 00:00:00  LBPMAE             ACHAT CB Pandacraft     28.03.25   -24.00
+4   2025-03-31 00:00:00  LBPMAE             ACHAT CB LES ENFANTS    29.03.25   -15.90
+20  2025-03-11 00:00:00  LBPMAE  VIREMENT PERMANENT POUR MME MARCHAND AZENOR   -50.00
+############################################################
+
+################################e############################
+Détails par catégorie => banque -13.05
+
+                  Date  Banque                           Libellé  Montant
+4         2025"/03/"07     CMB             Cotisation eurocompte     2.16
+7         2025"/03/"07     CMB             Cotisation eurocompte    -7.21
+0  2025-03-31 00:00:00  LBPMAE  FRAIS IRREGULARITES ET INCIDENTS    -8.00
+############################################################
+
+################################e############################
+Détails par catégorie => bouffe -1039.7900000000002
+
+                   Date  Banque                                            Libellé  Montant
+0   2025-03-31 00:00:00     LBP                                          Carrefour  -172.28
+5   2025-03-26 00:00:00     LBP                                        Intermarché   -25.39
+6   2025-03-26 00:00:00     LBP                               Machine à café Arkéa    -0.80
+8   2025-03-25 00:00:00     LBP                                         Hellofresh   -72.09
+10  2025-03-25 00:00:00     LBP                                          Magasin U    -2.52
+13  2025-03-24 00:00:00     LBP                                          Magasin U   -51.46
+17  2025-03-19 00:00:00     LBP                                        Intermarché   -20.90
+18  2025-03-18 00:00:00     LBP                                         Hellofresh   -85.50
+22  2025-03-17 00:00:00     LBP                                          Magasin U   -85.19
+28  2025-03-14 00:00:00     LBP                                        Intermarché   -29.42
+29  2025-03-14 00:00:00     LBP                               Machine à café Arkéa    -0.35
+30  2025-03-14 00:00:00     LBP                               Machine à café Arkéa    -0.35
+31  2025-03-14 00:00:00     LBP                               Machine à café Arkéa    -0.35
+39  2025-03-11 00:00:00     LBP                                        Intermarché   -42.89
+42  2025-03-10 00:00:00     LBP                                          Magasin U   -67.16
+46  2025-03-10 00:00:00     LBP                   Boulangerie : Fournil de Pauline    -2.60
+48  2025-03-06 00:00:00     LBP                                            Ti Coop   -25.94
+52  2025-03-04 00:00:00     LBP                                          Magasin U   -47.88
+55  2025-03-03 00:00:00     LBP                                          Magasin U   -72.08
+1   2025-03-31 00:00:00  LBPMAE                   ACHAT CB BIOCOOP        28.03.25   -78.16
+7   2025-03-31 00:00:00  LBPMAE                   ACHAT CB AUGUSTIN BREST 29.03.25    -3.45
+9   2025-03-27 00:00:00  LBPMAE                   ACHAT CB PAIN PANTE     26.03.25    -7.00
+11  2025-03-24 00:00:00  LBPMAE                   ACHAT CB PASSION FROMAG 22.03.25   -17.68
+15  2025-03-17 00:00:00  LBPMAE  VIREMENT INSTANTANE A MR OU MME MARCHAND PH Sa...   -27.50
+18  2025-03-17 00:00:00  LBPMAE                   ACHAT CB BIOCOOP        15.03.25   -55.19
+22  2025-03-10 00:00:00  LBPMAE                   ACHAT CB HELIES LOIC    07.03.25    -5.15
+23  2025-03-10 00:00:00  LBPMAE                   ACHAT CB PAIN PANTE     08.03.25    -2.60
+26  2025-03-05 00:00:00  LBPMAE                   ACHAT CB PAIN PANTE     04.03.25    -6.70
+29  2025-03-03 00:00:00  LBPMAE                   ACHAT CB TERCOC PF      01.03.25   -19.21
+30  2025-03-03 00:00:00  LBPMAE                   ACHAT CB LAUBERGE NAPOL 01.03.25   -12.00
+############################################################
+
+################################e############################
+Détails par catégorie => cadeau 40.0
+
+                   Date  Banque                          Libellé  Montant
+27  2025-03-04 00:00:00  LBPMAE  REMISE DE CHEQUES DU 01/03/2025    40.00
+############################################################
+
+################################e############################
+Détails par catégorie => culture -221.74
+
+                   Date  Banque                           Libellé  Montant
+0          2025"/03/"31     CMB                     Paypal: steam   -16.99
+5          2025"/03/"18     CMB                    Paypal: playin    -9.54
+23  2025-03-17 00:00:00     LBP                         Philibert   -24.75
+33  2025-03-13 00:00:00     LBP             Dialogues (Librairie)   -67.45
+35  2025-03-12 00:00:00     LBP                         Dialogues   -40.01
+47  2025-03-07 00:00:00     LBP         Le Bon Coin: vente avatar    12.00
+10  2025-03-24 00:00:00  LBPMAE  ACHAT CB ITAB           23.03.25   -75.00
+############################################################
+
+################################e############################
+Détails par catégorie => economies -200.0
+
+                   Date Banque        Libellé  Montant
+20  2025-03-17 00:00:00    LBP  Virement Mika  -100.00
+26  2025-03-14 00:00:00    LBP  Virement Mika  -100.00
+############################################################
+
+################################e############################
+Détails par catégorie => fastfood -85.4
+
+                   Date  Banque                           Libellé  Montant
+14  2025-03-24 00:00:00     LBP                 Le Djerba (kebab)   -13.00
+49  2025-03-06 00:00:00     LBP                       Allo Pizzas   -15.00
+50  2025-03-06 00:00:00     LBP                       Papy Donuts    -6.00
+14  2025-03-18 00:00:00  LBPMAE  ACHAT CB BURGER KING EU 17.03.25   -51.40
+############################################################
+
+################################e############################
+Détails par catégorie => loyer -761.6600000000001
+
+                   Date  Banque                                            Libellé  Montant
+9          2025"/03/"05     CMB                           Forever : Assurance prêt   -17.97
+10         2025"/03/"05     CMB                               Assurance habitation   -14.72
+11         2025"/03/"05     CMB                            Echeance prêt principal  -496.79
+12         2025"/03/"05     CMB                            Echeance prêt taux zéro  -123.62
+13         2025"/03/"01     CMB                    Mensualité appel de fond Syndic   -89.20
+25  2025-03-05 00:00:00  LBPMAE  PRELEVEMENT DE FOREVER REF : PCTFP000000454L00...   -19.36
+############################################################
+
+################################e############################
+Détails par catégorie => magic -306.87
+
+                   Date Banque      Libellé  Montant
+11  2025-03-24 00:00:00    LBP  MKM (Magic)  -100.00
+15  2025-03-21 00:00:00    LBP  MKM (Magic)    -6.97
+16  2025-03-19 00:00:00    LBP  Magic Bazar  -199.90
+############################################################
+
+################################e############################
+Détails par catégorie => matériel -206.60999999999999
+
+                   Date Banque               Libellé  Montant
+4   2025-03-26 00:00:00    LBP          Seb/Moulinex   -54.98
+9   2025-03-25 00:00:00    LBP                Amazon   -54.24
+34  2025-03-13 00:00:00    LBP                Amazon   -39.44
+44  2025-03-10 00:00:00    LBP  Nature et Découverte   -24.95
+56  2025-03-03 00:00:00    LBP           Tenga store   -33.00
+############################################################
+
+################################e############################
+Détails par catégorie => salaire 3337.78
+
+                   Date  Banque                                            Libellé  Montant
+2          2025"/03/"28     CMB                                      Salaire Arkea 2,388.30
+31  2025-03-03 00:00:00  LBPMAE  VIREMENT DE POLE EMPLOI BRETAGNE 25057505946 2...   949.48
+############################################################
+
+################################e############################
+Détails par catégorie => santé -209.17000000000002
+
+                   Date  Banque                           Libellé  Montant
+6          2025"/03/"14     CMB               Mutuelle Génération     9.00
+8          2025"/03/"06     CMB               Mutuelle Génération     7.95
+36  2025-03-11 00:00:00     LBP                 Pharmacie Nicolas   -80.42
+38  2025-03-11 00:00:00     LBP               Floa Pay : oreiller   -49.66
+40  2025-03-10 00:00:00     LBP            Générations (mutuelle)   -76.54
+45  2025-03-10 00:00:00     LBP                      Dr DU CORAIL    -9.00
+5   2025-03-31 00:00:00  LBPMAE  ACHAT CB DR SABLON DU C 28.03.25   -10.50
+############################################################
+
+################################e############################
+Détails par catégorie => snap -33.97
+
+                   Date Banque              Libellé  Montant
+2   2025-03-31 00:00:00    LBP  Marvel snap nuverse   -16.99
+51  2025-03-05 00:00:00    LBP  Marvel snap nuverse   -10.99
+53  2025-03-04 00:00:00    LBP  Marvel snap nuverse    -5.99
+############################################################
+
+################################e############################
+Détails par catégorie => sortie -4.5
+
+                   Date  Banque                           Libellé  Montant
+12  2025-03-24 00:00:00  LBPMAE  ACHAT CB BLE NOIR       23.03.25    -4.50
+############################################################
+
+################################e############################
+Détails par catégorie => sport -139.99
+
+                   Date  Banque                           Libellé  Montant
+3          2025"/03/"24     CMB                         Basic Fit   -19.99
+37  2025-03-11 00:00:00     LBP                           Piscine   -53.00
+28  2025-03-03 00:00:00  LBPMAE  ACHAT CB EVERSPORTS  LE 01.03.25   -67.00
+############################################################
+
+################################e############################
+Détails par catégorie => transport -102.74
+
+                   Date  Banque                                            Libellé  Montant
+2   2025-03-31 00:00:00  LBPMAE                   ACHAT CB MAGASIN U      28.03.25   -43.88
+21  2025-03-10 00:00:00  LBPMAE                   ACHAT CB MAGASIN U      07.03.25   -55.98
+24  2025-03-06 00:00:00  LBPMAE  PRELEVEMENT DE RD BREST REF : 4092354 RD BREST...    -2.88
+############################################################
+
+################################e############################
+Détails par catégorie => vêtements -119.96000000000001
+
+                   Date  Banque                           Libellé  Montant
+1   2025-03-31 00:00:00     LBP                             Jules   -59.99
+6   2025-03-31 00:00:00  LBPMAE  ACHAT CB ASSOC RECYCLER 28.03.25    -4.00
+17  2025-03-17 00:00:00  LBPMAE  ACHAT CB Decathlon Fran 15.03.25   -55.97
+############################################################

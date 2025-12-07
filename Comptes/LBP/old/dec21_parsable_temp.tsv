@@ -1,0 +1,42 @@
+Date,Banque,Libellé,Montant,Tag,Type
+2021/12/31,LBP,French Pub,-42.50€,restau
+2021/12/31,LBP,Horodateur,-0.50€,sortie
+2021/12/30,LBP,EDF,-38.00€,abonnement
+2021/12/30,LBP,Cinéma Gaumont Angers,-26.20€,sortie
+2021/12/29,LBP,Leclerc,-11.63€,bouffe
+2021/12/28,LBP,Pharmacie,-3.89€,santé
+2021/12/27,LBP,Rakuten,-25.41€,culture
+2021/12/27,LBP,Macdo,-7.20€,restau
+2021/12/27,LBP,Pharmacie,-6.07€,santé
+2021/12/24,LBP,La poste mobile,-9.99€,abonnement
+2021/12/24,LBP,Intermarché,-8.81€,bouffe
+2021/12/22,LBP,Virement Mika,1950.00€,caché
+2021/12/21,LBP,Géant,-72.64€,bouffe
+2021/12/21,LBP,Cultura,-15.00€,culture
+2021/12/20,LBP,Magasin U,-60.91€,bouffe
+2021/12/20,LBP,Pharmacie Nicolas,-34.39€,santé
+2021/12/20,LBP,Amazon,-10.00€,matériel
+2021/12/20,LBP,Casino,-5.24€,bouffe
+2021/12/17,LBP,Amazon,-229.00€,matériel
+2021/12/17,LBP,Librairie Dialogues,-25.96€,culture
+2021/12/16,LBP,Bouygues Telecom,-9.99€,abonnement
+2021/12/16,LBP,Carrefour,-1.83€,bouffe
+2021/12/15,LBP,Retrait,-40.00€,dab
+2021/12/14,LBP,Ti Coop,-51.06€,bouffe
+2021/12/14,LBP,Ti Coop,-5.30€,bouffe
+2021/12/14,LBP,Ti Coop,-4.10€,bouffe
+2021/12/13,LBP,Réparation vélo,-23.00€,transport
+2021/12/13,LBP,FNAC,-16.94€,culture
+2021/12/13,LBP,La Tomate,-7.50€,restau
+2021/12/10,LBP,Intermarché,-8.78€,bouffe
+2021/12/08,LBP,Paiement Steph,-55.00€,cadeau
+2021/12/08,LBP,Amnesty International,-7.00€,don
+2021/12/06,LBP,Loyer (Mme Calvarin),-650.00€,loyer
+2021/12/06,LBP,Virement Maeliss,-1000.00€,caché
+2021/12/06,LBP,Klarstein,-159.99€,matériel
+2021/12/06,LBP,Federal Finance (PEE),-100.00€,autre
+2021/12/03,LBP,Paiement vélo,-312.25€,transport
+2021/12/03,LBP,Virement Mika,1900.00€,caché
+2021/12/01,LBP,Netflix,-13.49€,abonnement
+2021/12/01,LBP,Disney+,-8.99€,abonnement
+2021/12/01,LBP,Virement Maeliss,1100.00€,caché

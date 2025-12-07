@@ -1,0 +1,262 @@
+Dépenses totales par catégories :
+             Montant
+Tag
+abonnement   -252.96
+autre         -20.00
+azenor     -1,169.96
+banque         -5.04
+bouffe     -1,030.79
+cadeau        -15.00
+coiffeur      -44.00
+culture      -252.15
+economies    -100.00
+fastfood     -167.70
+loyer        -785.15
+matériel     -390.59
+restau        -48.10
+salaire     2,930.00
+santé        -107.56
+snap          -50.97
+sortie        -48.61
+sport         -86.99
+transport    -626.45
+vêtements    -172.36
+
+Total balance :
+-2444.38
+################################e############################
+Détails par catégorie => abonnement -252.96
+
+                   Date  Banque                                            Libellé  Montant
+2   2025-02-25 00:00:00     LBP                                    LA POSTE MOBILE    -9.99
+7   2025-02-24 00:00:00     LBP                                                EDF   -76.00
+18  2025-02-18 00:00:00     LBP                                            Disney+    -1.99
+20  2025-02-17 00:00:00     LBP                                     CGT (Syndicat)   -20.00
+23  2025-02-14 00:00:00     LBP                                           Bouygues   -32.99
+24  2025-02-13 00:00:00     LBP                         Virement Philippe Marchand   -55.00
+9   2025-02-19 00:00:00  LBPMAE  PRELEVEMENT DE LA POSTE MOBILE REF : IN0248087...   -10.99
+31  2025-02-07 00:00:00  LBPMAE  PRELEVEMENT DE SYNDICAT DES META CGT REF : ASS...   -31.00
+36  2025-02-04 00:00:00  LBPMAE                   ACHAT CB LA DEFERLANTE  04.02.25   -15.00
+############################################################
+
+################################e############################
+Détails par catégorie => autre -20.0
+
+                   Date Banque           Libellé  Montant
+50  2025-02-03 00:00:00    LBP  Chèques vacances   -20.00
+############################################################
+
+################################e############################
+Détails par catégorie => azenor -1169.96
+
+                   Date  Banque                                      Libellé  Montant
+42  2025-02-07 00:00:00     LBP                                         PAJE   333.75
+49  2025-02-03 00:00:00     LBP                   Véronique Loriant (nounou)  -697.26
+5   2025-02-26 00:00:00  LBPMAE             ACHAT CB PRESSE BELLEVU 25.02.25    -3.95
+16  2025-02-17 00:00:00  LBPMAE             ACHAT CB PANDACRAFT     16.02.25   -36.00
+22  2025-02-13 00:00:00  LBPMAE             ACHAT CB L ARBRE AUX SO 12.02.25   -10.50
+23  2025-02-11 00:00:00  LBPMAE  VIREMENT PERMANENT POUR MME MARCHAND AZENOR   -50.00
+28  2025-02-10 00:00:00  LBPMAE             ACHAT CB ASSOC RECYCLER 07.02.25    -3.00
+44  2025-02-28 00:00:00  LBPMAE                              Virement nounou  -703.00
+############################################################
+
+################################e############################
+Détails par catégorie => banque -5.04
+
+           Date Banque                Libellé  Montant
+4  2025"/02/"07    CMB  Cotisation eurocompte    -5.04
+############################################################
+
+################################e############################
+Détails par catégorie => bouffe -1030.79
+
+                   Date  Banque                           Libellé  Montant
+3   2025-02-25 00:00:00     LBP                             Arkéa  -100.00
+5   2025-02-25 00:00:00     LBP                           Ti Coop   -37.24
+6   2025-02-25 00:00:00     LBP                       Intermarché   -36.95
+8   2025-02-24 00:00:00     LBP                         Carrefour  -251.41
+14  2025-02-21 00:00:00     LBP                       Intermarché    -5.91
+15  2025-02-21 00:00:00     LBP              Machine à café Arkéa    -0.90
+17  2025-02-18 00:00:00     LBP                       Intermarché   -30.69
+26  2025-02-12 00:00:00     LBP                       Intermarché   -19.12
+27  2025-02-12 00:00:00     LBP              Tartines d'Autrefois    -3.90
+29  2025-02-11 00:00:00     LBP                        Hellofresh   -96.72
+30  2025-02-11 00:00:00     LBP                         Magasin U   -21.91
+40  2025-02-07 00:00:00     LBP                         Magasin U   -17.37
+45  2025-02-06 00:00:00     LBP                           Ti Coop    -9.00
+48  2025-02-04 00:00:00     LBP                        Hellofresh   -96.72
+53  2025-02-03 00:00:00     LBP                         Magasin U   -18.98
+8   2025-02-20 00:00:00  LBPMAE  ACHAT CB BIOCOOP        19.02.25   -32.42
+12  2025-02-19 00:00:00  LBPMAE  ACHAT CB TERCOC PF      18.02.25    -9.69
+19  2025-02-14 00:00:00  LBPMAE  ACHAT CB MAGASIN U      13.02.25   -35.25
+27  2025-02-10 00:00:00  LBPMAE  ACHAT CB FOURNIL-SS CON 08.02.25    -4.10
+34  2025-02-07 00:00:00  LBPMAE  ACHAT CB TERCOC PF      06.02.25   -20.46
+35  2025-02-06 00:00:00  LBPMAE  ACHAT CB DELICES DE LAN 05.02.25    -4.15
+42  2025-02-03 00:00:00  LBPMAE  ACHAT CB TARTINES D AUT 31.01.25    -9.29
+0   2025-02-11 00:00:00   TRMAE                       Intermarché   -18.48
+1   2025-02-06 00:00:00   TRMAE                           Super U   -23.26
+4   2025-01-31 00:00:00   TRMAE                           Super U   -25.00
+5   2025-01-28 00:00:00   TRMAE                       Intermarché   -25.00
+6   2025-01-23 00:00:00   TRMAE                           Super U   -25.00
+7   2025-01-21 00:00:00   TRMAE                           Super U    -8.92
+8   2025-01-18 00:00:00   TRMAE  Fournil de Pauline (Boulangerie)   -17.95
+9   2025-01-17 00:00:00   TRMAE                           Super U   -25.00
+############################################################
+
+################################e############################
+Détails par catégorie => cadeau -15.0
+
+                   Date Banque                       Libellé  Montant
+44  2025-02-06 00:00:00    LBP  Leetchi: cadeau de naissance   -15.00
+############################################################
+
+################################e############################
+Détails par catégorie => coiffeur -44.0
+
+                  Date  Banque                           Libellé  Montant
+3  2025-02-26 00:00:00  LBPMAE  ACHAT CB NUANCES BRESIL 25.02.25   -44.00
+############################################################
+
+################################e############################
+Détails par catégorie => culture -252.15
+
+                   Date  Banque                           Libellé  Montant
+3          2025"/02/"18     CMB                   Paypal: Rakuten   -27.23
+11  2025-02-24 00:00:00     LBP                            Vinted   -11.83
+12  2025-02-24 00:00:00     LBP                            Vinted     8.95
+16  2025-02-20 00:00:00     LBP                      Ludik Addict   -99.70
+35  2025-02-10 00:00:00     LBP                            Vinted    -8.95
+51  2025-02-03 00:00:00     LBP         Paiement figurines marvel   -43.45
+52  2025-02-03 00:00:00     LBP                         Dialogues   -37.51
+54  2025-02-03 00:00:00     LBP                            Vinted   -10.93
+41  2025-02-03 00:00:00  LBPMAE  ACHAT CB LA PETITE LIBR 01.02.25   -21.50
+############################################################
+
+################################e############################
+Détails par catégorie => economies -100.0
+
+                   Date Banque        Libellé  Montant
+19  2025-02-17 00:00:00    LBP  Virement Mika  -100.00
+############################################################
+
+################################e############################
+Détails par catégorie => fastfood -167.7
+
+                   Date  Banque                           Libellé  Montant
+6          2025"/02/"05     CMB     Virement Léna Gruas (Ti Coop)     8.00
+9   2025-02-24 00:00:00     LBP                             Macdo   -32.65
+25  2025-02-13 00:00:00     LBP                     Orijinal Pide   -20.40
+34  2025-02-10 00:00:00     LBP                 Macdo Gare Rennes   -10.90
+36  2025-02-10 00:00:00     LBP                 Macdo Gare Rennes    -4.55
+39  2025-02-07 00:00:00     LBP                 Macdo Gare Rennes   -19.15
+46  2025-02-05 00:00:00     LBP                             Macdo    -6.65
+15  2025-02-17 00:00:00  LBPMAE  ACHAT CB ATELIER BOUCHE 14.02.25   -38.50
+2   2025-02-05 00:00:00   TRMAE                        Allo Pizza   -18.00
+3   2025-02-04 00:00:00   TRMAE                             Macdo   -24.90
+############################################################
+
+################################e############################
+Détails par catégorie => loyer -785.15
+
+                   Date  Banque                                            Libellé  Montant
+5          2025"/02/"07     CMB                           Forever : Assurance prêt   -17.97
+7          2025"/02/"05     CMB                               Assurance habitation   -14.72
+9          2025"/02/"05     CMB                            Echeance prêt principal  -518.38
+10         2025"/02/"05     CMB                            Echeance prêt taux zéro  -125.52
+12         2025"/02/"01     CMB                    Mensualité appel de fond Syndic   -89.20
+32  2025-02-07 00:00:00  LBPMAE  PRELEVEMENT DE FOREVER REF : PCTFP000000442L00...   -19.36
+############################################################
+
+################################e############################
+Détails par catégorie => matériel -390.59
+
+                   Date  Banque                                            Libellé  Montant
+1   2025-02-26 00:00:00     LBP                                             Amazon   -35.07
+4   2025-02-25 00:00:00     LBP                                      Passage désir   -37.48
+13  2025-02-21 00:00:00     LBP                                             Amazon   -36.14
+22  2025-02-14 00:00:00     LBP                                      Virement Mika  -100.00
+38  2025-02-07 00:00:00     LBP                                             Amazon   -21.60
+10  2025-02-19 00:00:00  LBPMAE                   ACHAT CB ADEO LEROY MER 18.02.25   -28.96
+14  2025-02-18 00:00:00  LBPMAE                   ACHAT CB ADEO LEROY MER 17.02.25   -76.65
+18  2025-02-17 00:00:00  LBPMAE  VIREMENT DE LBC France SAS leboncoin payout RE...    45.00
+25  2025-02-10 00:00:00  LBPMAE                   ACHAT CB ADEO LEROY MER 07.02.25    -8.99
+39  2025-02-03 00:00:00  LBPMAE  ACHAT CB LES AILES POUR Passage du dÃ©sir 02.0...   -90.70
+############################################################
+
+################################e############################
+Détails par catégorie => restau -48.1
+
+                   Date  Banque                                  Libellé  Montant
+4   2025-02-26 00:00:00  LBPMAE         ACHAT CB MEMESTRA       25.02.25   -26.50
+21  2025-02-13 00:00:00  LBPMAE  ACHAT CB EURL 2H  Estelle      12.02.25   -21.60
+############################################################
+
+################################e############################
+Détails par catégorie => salaire 2930.0
+
+                   Date  Banque                                            Libellé  Montant
+1          2025"/02/"27     CMB                                      Salaire Arkea 1,878.79
+43  2025-02-03 00:00:00  LBPMAE  VIREMENT DE POLE EMPLOI BRETAGNE 25028504353 2... 1,051.21
+############################################################
+
+################################e############################
+Détails par catégorie => santé -107.56
+
+                   Date  Banque                           Libellé  Montant
+8          2025"/02/"05     CMB               Mutuelle Génération     7.50
+11         2025"/02/"04     CMB               Mutuelle Génération    17.35
+28  2025-02-11 00:00:00     LBP            Générations (mutuelle)   -76.54
+31  2025-02-10 00:00:00     LBP                 Paiement oreiller   -49.68
+13  2025-02-19 00:00:00  LBPMAE  ACHAT CB PHCIE GUIVARCH 18.02.25    -6.19
+############################################################
+
+################################e############################
+Détails par catégorie => snap -50.97
+
+                   Date Banque              Libellé  Montant
+10  2025-02-24 00:00:00    LBP  Marvel snap nuverse   -22.99
+32  2025-02-10 00:00:00    LBP  Marvel snap nuverse   -16.99
+33  2025-02-10 00:00:00    LBP  Marvel snap nuverse   -10.99
+############################################################
+
+################################e############################
+Détails par catégorie => sortie -48.61
+
+                   Date  Banque                           Libellé  Montant
+21  2025-02-17 00:00:00     LBP                           Piscine    -5.50
+0   2025-02-27 00:00:00  LBPMAE                ACHAT CB BEAJ KAFE    -9.48
+1   2025-02-27 00:00:00  LBPMAE                ACHAT CB BEAJ KAFE    -7.65
+2   2025-02-27 00:00:00  LBPMAE                ACHAT CB BEAJ KAFE    -4.08
+17  2025-02-17 00:00:00  LBPMAE  ACHAT CB PISCINE        15.02.25    -5.50
+26  2025-02-10 00:00:00  LBPMAE  ACHAT CB LE PTIT LIPOUZ 08.02.25    -7.00
+29  2025-02-10 00:00:00  LBPMAE  ACHAT CB MAXICOFFEE OUE 07.02.25    -1.00
+37  2025-02-04 00:00:00  LBPMAE  ACHAT CB GABYSAM        03.02.25    -8.40
+############################################################
+
+################################e############################
+Détails par catégorie => sport -86.99
+
+                   Date  Banque                           Libellé  Montant
+2          2025"/02/"24     CMB                         Basic Fit   -19.99
+40  2025-02-03 00:00:00  LBPMAE  ACHAT CB EVERSPORTS  LE 01.02.25   -67.00
+############################################################
+
+################################e############################
+Détails par catégorie => transport -626.45
+
+                   Date  Banque                                            Libellé  Montant
+37  2025-02-10 00:00:00     LBP                                       Métro Rennes    -1.70
+41  2025-02-07 00:00:00     LBP                                       Métro Rennes    -1.70
+24  2025-02-11 00:00:00  LBPMAE                   ACHAT CB NATHEO         10.02.25  -171.30
+33  2025-02-07 00:00:00  LBPMAE  PRELEVEMENT DE RD BREST REF : 4077918 RD BREST...    -7.20
+38  2025-02-03 00:00:00  LBPMAE                   ACHAT CB NATHEO         31.01.25  -444.55
+############################################################
+
+################################e############################
+Détails par catégorie => vêtements -172.36
+
+                   Date  Banque                           Libellé  Montant
+7   2025-02-24 00:00:00  LBPMAE  ACHAT CB DECATHLON      21.02.25  -144.96
+11  2025-02-19 00:00:00  LBPMAE  ACHAT CB ASSOC RECYCLER 18.02.25   -15.00
+20  2025-02-14 00:00:00  LBPMAE  ACHAT CB ASSOC RECYCLER 13.02.25   -12.40
+############################################################

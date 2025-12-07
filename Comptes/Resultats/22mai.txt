@@ -1,0 +1,221 @@
+Dépenses totales par catégories :
+            Montant
+Tag
+abonnement  -173.27
+autre        -16.00
+banque      -243.87
+bouffe      -437.07
+caché          0.00
+cadeau        15.00
+culture     -138.42
+don           -7.00
+economie     -45.00
+loyer       -650.00
+magic        -42.29
+matériel     -81.04
+restau       -42.20
+salaire     3270.39
+santé         82.76
+transport    -60.20
+vacances   -1416.65
+
+Total balance :
+15.13999999999993
+############################################################
+Détails par catégorie => abonnement
+
+         Date  Banque                                       Libellé  Montant
+2  2022-05-30     LBP                                           EDF   -38.00
+10 2022-05-24     LBP                               La poste mobile   -17.29
+25 2022-05-16     LBP                              Bouygues Telecom    -9.99
+46 2022-05-11     LBP  Virement aux parents maeliss pour assurrance   -52.00
+72 2022-05-05     LBP                                 Total Energie   -13.00
+84 2022-05-02     LBP                                           EDF   -38.00
+16 2022-05-19  LBPMAE               PRELEVEMENT DE LA POSTE TELECOM    -4.99
+############################################################
+
+############################################################
+Détails par catégorie => autre
+
+         Date Banque                         Libellé  Montant
+19 2022-05-17    LBP  Hello Asso : Visite écovillage    -16.0
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+        Date Banque           Libellé  Montant
+2 2022-05-05    CIC     Prêt étudiant  -232.37
+3 2022-05-06    CIC  Frais banque CIC   -11.50
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+         Date  Banque                           Libellé  Montant
+1  2022-05-02     CIC           PAIEMENT CB 2804 RUNGIS   -61.00
+0  2022-05-31     LBP                         Magasin U   -12.26
+4  2022-05-30     LBP                         Magasin U   -27.94
+5  2022-05-30     LBP                         Magasin U   -14.66
+8  2022-05-25     LBP                         Magasin U   -12.34
+13 2022-05-23     LBP                         Carrefour    -8.10
+18 2022-05-17     LBP                           Ti Coop   -34.40
+20 2022-05-17     LBP                         Carrefour    -6.93
+26 2022-05-16     LBP                         Carrefour   -96.35
+2  2022-05-31  LBPMAE  ACHAT CB ATELIER BOULAN 30.05.22    -2.00
+11 2022-05-23  LBPMAE  ACHAT CB GEANT     CG30 21.05.22   -62.15
+12 2022-05-23  LBPMAE  ACHAT CB BIOCOOP PLOUZA 20.05.22   -62.11
+18 2022-05-17  LBPMAE  ACHAT CB ATELIER BOULAN 16.05.22    -2.00
+0  2022-05-30   TRMAE                           Super U    -7.37
+1  2022-05-27   TRMAE                           Super U    -8.46
+2  2022-05-24   TRMAE                           Super U   -19.00
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+         Date  Banque                                            Libellé  Montant
+0  2022-05-02     CIC                             Virement Compte Commun  -1400.0
+4  2022-05-15     CIC                             Virement Compte Commun   -100.0
+1  2022-05-31     LBP                                   Virement Maeliss    300.0
+9  2022-05-25     LBP                                   Virement Maeliss    100.0
+21 2022-05-17     LBP                                   Virement Maeliss    300.0
+34 2022-05-16     LBP                                      Virement Mika    100.0
+40 2022-05-13     LBP                                   Virement Maeliss    200.0
+94 2022-05-02     LBP                                      Virement Mika   1400.0
+95 2022-05-02     LBP                                   Virement Maeliss    500.0
+0  2022-05-31  LBPMAE                 VIREMENT POUR MME MARCHAND MAELISS   -700.0
+1  2022-05-31  LBPMAE             VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -300.0
+10 2022-05-25  LBPMAE                   VIREMENT DE MME MARCHAND MAELISS    100.0
+28 2022-05-02  LBPMAE             VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -500.0
+32 2022-05-30  LBPMAE  VIREMENT VIREMENT DE MME MARCHAND MAELISS DATE...    700.0
+33 2022-05-25  LBPMAE    VIREMENT VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -100.0
+34 2022-05-25  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -100.0
+35 2022-05-17  LBPMAE    VIREMENT VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -300.0
+36 2022-05-13  LBPMAE    VIREMENT VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -200.0
+############################################################
+
+############################################################
+Détails par catégorie => cadeau
+
+         Date  Banque                         Libellé  Montant
+5  2022-05-17     CIC     VIR SEPA COUSSEAU CATHERINE    -25.0
+16 2022-05-19     LBP                         Leetchi    -10.0
+20 2022-05-16  LBPMAE  VIREMENT DE MR OU MME MARCHAND     50.0
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+         Date  Banque                           Libellé  Montant
+6  2022-05-30     LBP                       Achat Steam    -1.49
+7  2022-05-25     LBP                         Croc Jeux   -24.50
+17 2022-05-17     LBP             Dialogues (Librairie)   -66.25
+7  2022-05-27  LBPMAE  ACHAT CB STEAMGAMES.COM 25.05.22   -46.18
+############################################################
+
+############################################################
+Détails par catégorie => don
+
+         Date Banque                Libellé  Montant
+57 2022-05-09    LBP  Amnesty International     -7.0
+############################################################
+
+############################################################
+Détails par catégorie => economie
+
+         Date  Banque                                       Libellé  Montant
+27 2022-05-02  LBPMAE  VIREMENT PERMANENT POUR MLE MARCHAND MAELISS    -45.0
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+         Date Banque               Libellé  Montant
+71 2022-05-05    LBP  Loyer (Mme Calvarin)   -650.0
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+         Date Banque                        Libellé  Montant
+7  2022-05-31    CIC  Remboursement Guillaume Magic    32.60
+12 2022-05-23    LBP                    MKM (Magic)    -5.93
+22 2022-05-16    LBP                    MKM (Magic)   -45.00
+23 2022-05-16    LBP                    MKM (Magic)    -6.26
+24 2022-05-16    LBP                    MKM (Magic)   -50.30
+74 2022-05-05    LBP                 Virement d'Ito    32.60
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+         Date  Banque                           Libellé  Montant
+3  2022-05-30     LBP                         Klarstein   -45.99
+11 2022-05-24     LBP                          La poste    -4.15
+15 2022-05-19     LBP                            Amazon   -17.90
+14 2022-05-23  LBPMAE  ACHAT CB ADEO LEROY MER 21.05.22   -13.00
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+         Date  Banque                           Libellé  Montant
+14 2022-05-23     LBP       Bellevue Kebab (centre com)     -6.5
+3  2022-05-30  LBPMAE  ACHAT CB 324466SC       29.05.22     -7.1
+4  2022-05-30  LBPMAE  ACHAT CB OLIVIER STEHLY 27.05.22     -6.4
+5  2022-05-30  LBPMAE  ACHAT CB 324466SC       27.05.22     -5.2
+8  2022-05-27  LBPMAE  ACHAT CB MIDTOWN        25.05.22    -17.0
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+         Date  Banque                                           Libellé  Montant
+6  2022-05-31     CIC                                     Salaire Arkéa  1812.56
+9  2022-05-27  LBPMAE             VIREMENT DE ASS TECHNOPOLE BREST OISE  1190.53
+24 2022-05-09  LBPMAE                    VIREMENT DE C.P.A.M. FINISTERE   130.80
+3  2022-05-05   TRMAE  Chargement de votre carte ( 13 titres x 10,50€ )   136.50
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+         Date  Banque                          Libellé  Montant
+91 2022-05-02     LBP          Pharmacie universitaire    -9.80
+15 2022-05-23  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ    60.00
+17 2022-05-17  LBPMAE          ACHAT CB QUEMENEUR STEP   -60.00
+19 2022-05-16  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ     7.50
+21 2022-05-11  LBPMAE   VIREMENT DE C.P.A.M. FINISTERE    17.50
+25 2022-05-05  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ    30.00
+26 2022-05-03  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ     7.50
+31 2022-05-02  LBPMAE  VIREMENT DE ALLIANZ VIE ALLIANZ    30.06
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+         Date  Banque                           Libellé  Montant
+6  2022-05-30  LBPMAE  ACHAT CB RATP           29.05.22     -1.9
+13 2022-05-23  LBPMAE  ACHAT CB DAC SAS KERALA 20.05.22    -50.8
+22 2022-05-10  LBPMAE           PRELEVEMENT DE RD BREST     -7.5
+############################################################
+
+############################################################
+Détails par catégorie => vacances
+
+         Date  Banque                                            Libellé  Montant
+27 2022-05-16     LBP  "ACHAT CB DISNEY STORE D 13.05.22 EUR         ...   -50.00
+28 2022-05-16     LBP  "ACHAT CB BAR RUA        13.05.22 EUR         ...   -41.75
+29 2022-05-16     LBP  "ACHAT CB BAI PONT AVEN  14.05.22 CARTE NUMERO...   -33.63
+30 2022-05-16     LBP  "ACHAT CB DALL  ITALIA P 13.05.22 EUR         ...   -20.40
+31 2022-05-16     LBP  "ACHAT CB KAPH           13.05.22 EUR         ...    -9.90
+..        ...     ...                                                ...      ...
+92 2022-05-02     LBP  "ACHAT CB SWOON          30.04.22 EUR         ...    -5.95
+93 2022-05-02     LBP  "ACHAT CB JUMP JUICE BAR 30.04.22 EUR         ...    -4.55
+23 2022-05-10  LBPMAE   ACHAT CB The Secret Gar 09.05.22 EUR chaussettes   -10.00
+29 2022-05-02  LBPMAE           ACHAT CB LECLERC VL DAC 29.04.22 essence   -30.18
+30 2022-05-02  LBPMAE  ACHAT CB Q PARK GRAND P 30.04.22 EUR parking Cork    -9.90
+
+[61 rows x 4 columns]
+############################################################

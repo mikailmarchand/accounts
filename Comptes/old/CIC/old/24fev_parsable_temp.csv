@@ -1,0 +1,7 @@
+Date,Banque,Libellé,Montant,Tag,Type
+2024/02/04,CIC,Virement Compte Commun,-2000.00€,caché
+2024/02/07,CIC,Frais banque CIC,-12.24€,banque
+2024/02/12,CIC,Remboursement Guillaume,40.00€,magic,remboursement
+2024/02/13,CIC,Vente boite,29.90€,magic,remboursement
+2024/02/28,CIC,Virement Compte Commun,-500.00€,caché
+2024/02/29,CIC,Salaire Arkéa,2114.66€,salaire

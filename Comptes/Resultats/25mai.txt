@@ -1,0 +1,241 @@
+Dépenses totales par catégories :
+             Montant
+Tag
+abonnement   -415.85
+autre          -9.50
+azenor       -249.02
+banque         -5.04
+bouffe     -1,076.65
+cadeau       -141.80
+culture      -179.36
+economies    -200.00
+fastfood      -77.70
+loyer        -770.79
+matériel     -126.50
+salaire     3,203.87
+santé         -94.15
+snap          -44.96
+sortie       -126.00
+sport        -130.98
+transport     -97.50
+
+Total balance :
+-541.9300000000005
+################################e############################
+Détails par catégorie => abonnement -415.85
+
+                   Date  Banque                                            Libellé  Montant
+5   2025-05-26 00:00:00     LBP                                    LA POSTE MOBILE    -9.99
+9   2025-05-22 00:00:00     LBP                                              Engie  -152.89
+10  2025-05-22 00:00:00     LBP                                                EDF   -76.00
+12  2025-05-19 00:00:00     LBP                                            Disney+    -1.99
+16  2025-05-14 00:00:00     LBP                                           Bouygues   -32.99
+17  2025-05-13 00:00:00     LBP                         Virement Philippe Marchand   -65.00
+24  2025-05-12 00:00:00     LBP                                     CGT (Syndicat)   -20.00
+15  2025-05-21 00:00:00  LBPMAE  PRELEVEMENT DE LA POSTE MOBILE REF : IN1072948...   -10.99
+41  2025-05-07 00:00:00  LBPMAE  PRELEVEMENT DE SYNDICAT DES META CGT REF : ASS...   -31.00
+49  2025-05-02 00:00:00  LBPMAE                   ACHAT CB LA DEFERLANTE  01.05.25   -15.00
+############################################################
+
+################################e############################
+Détails par catégorie => autre -9.5
+
+                   Date Banque                       Libellé  Montant
+35  2025-05-07 00:00:00    LBP  CB SUMUP (réparation vélo ?)    -9.50
+############################################################
+
+################################e############################
+Détails par catégorie => azenor -249.02000000000004
+
+                   Date  Banque                                            Libellé  Montant
+3   2025-05-28 00:00:00     LBP                      Les petits culottés (couches)   -49.50
+29  2025-05-12 00:00:00     LBP                                               PAJE   343.09
+33  2025-05-07 00:00:00     LBP                         Véronique Loriant (nounou)  -412.11
+45  2025-05-02 00:00:00     LBP                      Les petits culottés (couches)   -49.50
+35  2025-05-12 00:00:00  LBPMAE  VIREMENT PERMANENT POUR MME MARCHAND AZENOR CO...   -50.00
+47  2025-05-02 00:00:00  LBPMAE                   ACHAT CB R KID          30.04.25   -31.00
+############################################################
+
+################################e############################
+Détails par catégorie => banque -5.04
+
+            Date Banque                Libellé  Montant
+13  2025"/05/"07    CMB  Cotisation eurocompte    -5.04
+############################################################
+
+################################e############################
+Détails par catégorie => bouffe -1076.65
+
+                   Date  Banque                                            Libellé  Montant
+9          2025"/05/"20     CMB                                         Self Arkéa  -100.00
+0   2025-05-30 00:00:00     LBP                                            Ti Coop   -52.70
+1   2025-05-30 00:00:00     LBP                                            Ti Coop   -33.46
+4   2025-05-28 00:00:00     LBP                                        Intermarché   -21.53
+6   2025-05-26 00:00:00     LBP                                          Magasin U   -65.82
+7   2025-05-26 00:00:00     LBP                                        Intermarché   -29.37
+11  2025-05-20 00:00:00     LBP                                         Hellofresh   -72.09
+18  2025-05-13 00:00:00     LBP                                         Hellofresh   -81.89
+25  2025-05-12 00:00:00     LBP                                          Carrefour   -85.37
+31  2025-05-09 00:00:00     LBP                                          Magasin U    -6.74
+36  2025-05-07 00:00:00     LBP                                        Intermarché    -8.76
+37  2025-05-06 00:00:00     LBP                                        Intermarché   -22.86
+38  2025-05-05 00:00:00     LBP                                          Magasin U  -111.45
+40  2025-05-05 00:00:00     LBP                                           900.care   -39.96
+42  2025-05-05 00:00:00     LBP                                          Magasin U    -7.20
+44  2025-05-02 00:00:00     LBP                                            Ti Coop   -67.49
+47  2025-05-02 00:00:00     LBP                                          Magasin U   -15.08
+48  2025-05-02 00:00:00     LBP                                            Ti Coop    -2.03
+2   2025-05-30 00:00:00  LBPMAE                   ACHAT CB PAIN PANTE     28.05.25    -2.60
+3   2025-05-30 00:00:00  LBPMAE  VIREMENT INSTANTANE DE M LUCAS BOURNEUF PAIEME...    65.00
+4   2025-05-28 00:00:00  LBPMAE                   ACHAT CB BIOCOOP        27.05.25   -37.22
+6   2025-05-27 00:00:00  LBPMAE                   ACHAT CB FOURNIL DE PAU 26.05.25    -1.30
+7   2025-05-26 00:00:00  LBPMAE                   ACHAT CB MAISON DU THE  23.05.25   -37.40
+13  2025-05-26 00:00:00  LBPMAE                   ACHAT CB FOURNIL DE PAU 24.05.25    -2.60
+16  2025-05-21 00:00:00  LBPMAE                   ACHAT CB INTERMARCHE    20.05.25   -29.81
+18  2025-05-20 00:00:00  LBPMAE                   ACHAT CB KERICCI        19.05.25   -39.60
+20  2025-05-20 00:00:00  LBPMAE                   ACHAT CB MOULIN DE COAT 19.05.25    -8.20
+24  2025-05-19 00:00:00  LBPMAE                   ACHAT CB MAGASIN U      16.05.25   -38.78
+29  2025-05-19 00:00:00  LBPMAE                   ACHAT CB FONTAINE A PAI 16.05.25    -4.15
+30  2025-05-15 00:00:00  LBPMAE                   ACHAT CB PAIN PANTE     14.05.25    -3.30
+32  2025-05-14 00:00:00  LBPMAE                   ACHAT CB PAIN PANTE     13.05.25    -3.80
+36  2025-05-12 00:00:00  LBPMAE                   ACHAT CB TERCOC PF      09.05.25   -29.36
+37  2025-05-12 00:00:00  LBPMAE                   ACHAT CB BERGERIE ABERS 09.05.25    -5.00
+38  2025-05-12 00:00:00  LBPMAE                   ACHAT CB PAIN PANTE     09.05.25    -2.60
+43  2025-05-06 00:00:00  LBPMAE                   ACHAT CB PAIN PANTE     05.05.25    -4.10
+45  2025-05-05 00:00:00  LBPMAE                   ACHAT CB BIOCOOP        02.05.25   -44.81
+48  2025-05-02 00:00:00  LBPMAE                   ACHAT CB TERCOC PF      30.04.25   -22.02
+50  2025-05-02 00:00:00  LBPMAE                   ACHAT CB FOURNIL BELLEV 30.04.25    -1.20
+############################################################
+
+################################e############################
+Détails par catégorie => cadeau -141.8
+
+                   Date  Banque                                            Libellé  Montant
+1          2025"/05/"29     CMB                                             PayPal   -84.80
+21  2025-05-19 00:00:00  LBPMAE                                  ACHAT CB 16.05.25   -90.00
+33  2025-05-14 00:00:00  LBPMAE  VIREMENT INSTANTANE DE MR OU MME MARCHAND PH B...    75.00
+44  2025-05-05 00:00:00  LBPMAE                     CHEQUE N  0520032 Mariage Dude   -42.00
+############################################################
+
+################################e############################
+Détails par catégorie => culture -179.35999999999999
+
+                   Date  Banque                                Libellé  Montant
+3          2025"/05/"28     CMB                        Xsolla Untapped    -0.86
+4          2025"/05/"28     CMB                        Xsolla Untapped     0.86
+5          2025"/05/"26     CMB                                 Vinted    20.29
+6          2025"/05/"24     CMB                                 Vinted   -20.29
+11         2025"/05/"16     CMB                                 Playin    -9.54
+8   2025-05-26 00:00:00     LBP                                 Vinted   -25.04
+20  2025-05-13 00:00:00     LBP                              Dialogues   -40.70
+41  2025-05-05 00:00:00     LBP                                 Vinted   -21.74
+8   2025-05-26 00:00:00  LBPMAE  ACHAT CB LIBRAIRIE DIAL Mika 23.05.25   -32.49
+9   2025-05-26 00:00:00  LBPMAE       ACHAT CB SA LIBRAIRIE D 24.05.25   -29.00
+25  2025-05-19 00:00:00  LBPMAE       ACHAT CB LES ENFANTS    16.05.25   -20.85
+############################################################
+
+################################e############################
+Détails par catégorie => economies -200.0
+
+                   Date Banque        Libellé  Montant
+13  2025-05-15 00:00:00    LBP  Virement Mika  -100.00
+14  2025-05-14 00:00:00    LBP  Virement Mika  -100.00
+############################################################
+
+################################e############################
+Détails par catégorie => fastfood -77.69999999999999
+
+                   Date Banque      Libellé  Montant
+2   2025-05-30 00:00:00    LBP  Allo Pizzas   -25.00
+26  2025-05-12 00:00:00    LBP        Macdo   -39.60
+30  2025-05-09 00:00:00    LBP       Subway   -13.10
+############################################################
+
+################################e############################
+Détails par catégorie => loyer -770.7900000000001
+
+                   Date  Banque                                            Libellé  Montant
+14         2025"/05/"07     CMB                           Forever : Assurance prêt   -27.10
+16         2025"/05/"05     CMB                               Assurance habitation   -14.72
+18         2025"/05/"05     CMB                            Echeance prêt principal  -496.79
+19         2025"/05/"05     CMB                            Echeance prêt taux zéro  -123.62
+21         2025"/05/"01     CMB                    Mensualité appel de fond Syndic   -89.20
+42  2025-05-07 00:00:00  LBPMAE  PRELEVEMENT DE FOREVER REF : PCTFP000000479L00...   -19.36
+############################################################
+
+################################e############################
+Détails par catégorie => matériel -126.5
+
+                   Date  Banque                           Libellé  Montant
+19  2025-05-13 00:00:00     LBP                            Amazon   -41.78
+39  2025-05-05 00:00:00     LBP                            Amazon   -70.72
+19  2025-05-20 00:00:00  LBPMAE  ACHAT CB ADEO LEROY MER 19.05.25   -14.00
+############################################################
+
+################################e############################
+Détails par catégorie => salaire 3203.87
+
+                   Date  Banque                          Libellé  Montant
+0          2025"/05/"30     CMB                    Salaire Arkea 1,970.87
+14  2025-05-26 00:00:00  LBPMAE  REMISE DE CHEQUES DU 23/05/2025 1,233.00
+############################################################
+
+################################e############################
+Détails par catégorie => santé -94.15
+
+                   Date  Banque                                Libellé  Montant
+7          2025"/05/"23     CMB                    Mutuelle Génération    23.73
+8          2025"/05/"22     CMB                    Mutuelle Génération     9.00
+15         2025"/05/"06     CMB                    Mutuelle Génération    18.00
+23  2025-05-12 00:00:00     LBP                 Générations (mutuelle)   -76.54
+22  2025-05-19 00:00:00  LBPMAE  ACHAT CB DR LAURA BRIOT Mika 16.05.25   -59.34
+27  2025-05-19 00:00:00  LBPMAE       ACHAT CB DR SABLON DU C 16.05.25    -9.00
+############################################################
+
+################################e############################
+Détails par catégorie => snap -44.96
+
+                   Date Banque                  Libellé  Montant
+2          2025"/05/"28    CMB  SNAP : boutique nuverse   -10.99
+21  2025-05-13 00:00:00    LBP      Marvel snap nuverse   -16.99
+22  2025-05-13 00:00:00    LBP      Marvel snap nuverse    -5.99
+34  2025-05-07 00:00:00    LBP      Marvel snap nuverse   -10.99
+############################################################
+
+################################e############################
+Détails par catégorie => sortie -126.0
+
+                   Date  Banque                           Libellé  Montant
+12         2025"/05/"15     CMB                           Comiteo   -31.10
+27  2025-05-12 00:00:00     LBP                       La Gray Box   -10.00
+0   2025-05-30 00:00:00  LBPMAE  ACHAT CB ASSO PLACE GUE 29.05.25   -14.00
+1   2025-05-30 00:00:00  LBPMAE  ACHAT CB MOUTON 5 PATTE 29.05.25    -8.70
+5   2025-05-28 00:00:00  LBPMAE  ACHAT CB LES GATEUSES   27.05.25    -7.80
+10  2025-05-26 00:00:00  LBPMAE  ACHAT CB LE PTIT LIPOUZ 24.05.25    -9.00
+12  2025-05-26 00:00:00  LBPMAE  ACHAT CB BRULERIE DES C 24.05.25    -3.80
+26  2025-05-19 00:00:00  LBPMAE  ACHAT CB LES GATEUSES   16.05.25   -13.10
+28  2025-05-19 00:00:00  LBPMAE  ACHAT CB HELLOASSO  BIL 18.05.25    -8.00
+34  2025-05-13 00:00:00  LBPMAE  ACHAT CB LE PTIT LIPOUZ 11.05.25   -12.50
+40  2025-05-09 00:00:00  LBPMAE  ACHAT CB HELLOASSO  BIL 08.05.25    -8.00
+############################################################
+
+################################e############################
+Détails par catégorie => sport -130.98000000000002
+
+                   Date  Banque                           Libellé  Montant
+10         2025"/05/"19     CMB                         Basic Fit   -19.99
+20         2025"/05/"02     CMB                 PayPal: Decathlon   -43.99
+46  2025-05-02 00:00:00  LBPMAE  ACHAT CB EVERSPORTS  LE 01.05.25   -67.00
+############################################################
+
+################################e############################
+Détails par catégorie => transport -97.5
+
+                   Date  Banque                           Libellé  Montant
+28  2025-05-12 00:00:00     LBP                      Métro Rennes    -1.70
+32  2025-05-09 00:00:00     LBP                      Métro Rennes    -1.70
+46  2025-05-02 00:00:00     LBP                              SNCF   -47.00
+11  2025-05-26 00:00:00  LBPMAE  ACHAT CB CAPU BREST PAR 24.05.25    -3.80
+23  2025-05-19 00:00:00  LBPMAE  ACHAT CB INTERMARCHE DA 18.05.25   -41.10
+39  2025-05-12 00:00:00  LBPMAE  ACHAT CB CAPU BREST PAR 11.05.25    -2.20
+############################################################

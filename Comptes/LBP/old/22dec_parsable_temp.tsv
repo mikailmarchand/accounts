@@ -1,0 +1,74 @@
+Date,Banque,Libellé,Montant,Tag,Type
+2022/12/30,LBP,Assmat Azenor,-642.61€,azenor
+2022/12/30,LBP,EDF,-36.96€,abonnement
+2022/12/30,LBP,Pharmacie,-6.71€,santé
+2022/12/29,LBP,Amazon,-86.71€,culture
+2022/12/27,LBP,Impots,-138.00€,impots
+2022/12/27,LBP,La poste mobile,-9.99€,abonnement
+2022/12/27,LBP,Magasin U,-98.22€,bouffe
+2022/12/27,LBP,Les petits culottés (couches),-52.25€,azenor
+2022/12/27,LBP,Picard,-19.60€,bouffe
+2022/12/26,LBP,Carrefour,-49.62€,bouffe
+2022/12/26,LBP,Cinéma (Saumur),-16.10€,sortie
+2022/12/23,LBP,MKM (Magic),-28.99€,magic
+2022/12/22,LBP,Ti Coop,-88.34€,bouffe
+2022/12/22,LBP,Pharmacie Nicolas,-63.80€,santé
+2022/12/21,LBP,Intermarché,-14.32€,bouffe
+2022/12/21,LBP,Pharmacie Bellevue,-10.17€,santé
+2022/12/21,LBP,Carrefour,-5.60€,bouffe
+2022/12/21,LBP,Virement Mika,3000.00€,caché
+2022/12/20,LBP,Doctolib,-7.50€,santé
+2022/12/20,LBP,Machine à café Arkéa,-1.00€,bouffe
+2022/12/20,LBP,Machine à café Arkéa,-1.00€,bouffe
+2022/12/20,LBP,Machine à café Arkéa,-1.00€,bouffe
+2022/12/19,LBP,MKM (Magic),-7.75€,magic
+2022/12/19,LBP,MKM (Magic),-5.98€,magic
+2022/12/19,LBP,Juneo,-117.00€,azenor
+2022/12/19,LBP,Boulangerie : Fournil de Pauline,-13.00€,bouffe
+2022/12/19,LBP,Le Maestro,-7.00€,restau
+2022/12/19,LBP,Virement Maeliss,800.00€,caché
+2022/12/16,LBP,Bouygues,-29.99€,abonnement
+2022/12/16,LBP,Arkéa,-100.00€,bouffe
+2022/12/16,LBP,Intermarché,-44.99€,bouffe
+2022/12/16,LBP,Ludik Addict,-25.00€,culture
+2022/12/16,LBP,MKM (Magic),4.49€,magic,remboursement
+2022/12/15,LBP,Amazon,-32.07€,matériel
+2022/12/15,LBP,Burger King,-25.10€,restau
+2022/12/14,LBP,Luke remboursement Magic,64.00€,magic,remboursement
+2022/12/13,LBP,La Gentle Factory,-70.00€,vêtement
+2022/12/13,LBP,Magasin U,-64.76€,bouffe
+2022/12/12,LBP,Virement aux parents maeliss pour assurrance,-52.00€,abonnement
+2022/12/12,LBP,Bellevue Kebab (centre com),-20.50€,restau
+2022/12/12,LBP,Subway,-16.50€,restau
+2022/12/12,LBP,Tir Na Nog,-6.70€,sortie
+2022/12/09,LBP,Magasin U,-61.13€,bouffe
+2022/12/09,LBP,Dr DU CORAIL,-24.00€,santé
+2022/12/08,LBP,Virement Maeliss,-300.00€,caché
+2022/12/08,LBP,Amnesty International,-7.00€,don
+2022/12/08,LBP,Réparation vélo (vélo brestois),-24.00€,transport
+2022/12/08,LBP,Kebab : Otantik kebab,-10.00€,restau
+2022/12/08,LBP,Pharmacie,-8.90€,santé
+2022/12/08,LBP,Kebab : Otantik kebab,-8.50€,restau
+2022/12/08,LBP,Burger King,-7.80€,restau
+2022/12/08,LBP,Dr DU CORAIL,-7.50€,santé
+2022/12/07,LBP,Noel Azenor,-50.00€,azenor
+2022/12/07,LBP,MKM (Magic),-8.41€,magic
+2022/12/07,LBP,EVL cotisation,-50.00€,evl
+2022/12/07,LBP,Total Energie,-74.00€,abonnement
+2022/12/07,LBP,Lanie EVL,50.00€,evl,remboursement
+2022/12/07,LBP,EVL Remboursement livre,28.01€,evl
+2022/12/05,LBP,Virement Maeliss,-2000.00€,caché
+2022/12/05,LBP,Chèques vacances,-20.00€,autre
+2022/12/05,LBP,CGT (Syndicat),-20.00€,abonnement
+2022/12/05,LBP,Hellofresh,-54.95€,bouffe
+2022/12/05,LBP,Deliveroo,-17.38€,restau
+2022/12/05,LBP,Boulangerie : Fournil de Pauline,-13.00€,bouffe
+2022/12/05,LBP,Intermarché,-8.05€,bouffe
+2022/12/05,LBP,CAF,182.00€,azenor,remboursement
+2022/12/02,LBP,Virement Mme Calvarin,-668.50€,loyer
+2022/12/02,LBP,Assmat Azenor,-336.77€,azenor
+2022/12/02,LBP,Disney+,-8.99€,abonnement
+2022/12/02,LBP,Virement Mika,3000.00€,caché
+2022/12/02,LBP,Paje,284.82€,azenor,remboursement
+2022/12/02,LBP,Virement Maeliss,300.00€,caché
+2022/12/01,LBP,Burger King,-24.10€,restau

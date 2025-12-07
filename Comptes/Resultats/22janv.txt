@@ -1,0 +1,244 @@
+Dépenses totales par catégories :
+            Montant
+Tag
+abonnement   -62.97
+assurances   -70.00
+autre       -111.00
+banque      -269.97
+bouffe      -722.48
+caché          0.00
+cadeau        25.00
+culture     -223.91
+dab          -20.00
+don           -7.00
+grossesse   -131.40
+loyer       -650.00
+magic        -22.92
+matériel    -228.04
+restau       -69.50
+salaire     3236.84
+santé         -0.99
+sortie       -95.00
+sport        -29.15
+transport   -517.87
+vêtements   -236.57
+
+Total balance :
+-206.9300000000003
+############################################################
+Détails par catégorie => abonnement
+
+         Date  Banque                          Libellé  Montant
+0  2022-01-31     LBP                              EDF   -38.00
+13 2022-01-25     LBP                  La poste mobile    -9.99
+23 2022-01-17     LBP                 Bouygues Telecom    -9.99
+11 2022-01-19  LBPMAE  PRELEVEMENT DE LA POSTE TELECOM    -4.99
+############################################################
+
+############################################################
+Détails par catégorie => assurances
+
+         Date  Banque                                            Libellé  Montant
+0  2022-01-31  LBPMAE  VIREMENT POUR MR OU MME MARCHAND PH ASSURANCES...    -35.0
+33 2022-01-03  LBPMAE  VIREMENT POUR MR OU MME MARCHAND PH ASSURANCES...    -35.0
+############################################################
+
+############################################################
+Détails par catégorie => autre
+
+         Date Banque                             Libellé  Montant
+5  2022-01-31    LBP  Paypal : Paiement Maxime Nouvel An    -10.0
+17 2022-01-24    LBP     Paypal : Paiement Anh Nouvel An    -45.0
+45 2022-01-04    LBP              Avance Véto Luke Lydia    -56.0
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+         Date  Banque                                            Libellé  Montant
+1  2022-01-05     CIC                                      Prêt étudiant  -232.37
+2  2022-01-07     CIC                                   Frais banque CIC   -11.50
+30 2022-01-11     LBP                                       Frais Banque   -21.00
+37 2022-01-05     LBP                              Agios (remise ou pas)     1.50
+38 2022-01-05     LBP                              Agios (remise ou pas)    -1.50
+21 2022-01-17  LBPMAE                  TENUE DE COMPTE FRAIS TRIMESTRIEL    -3.60
+32 2022-01-05  LBPMAE  MINIMUM FORFAITAIRE TRIMESTRIEL D UTILISATION ...    -1.50
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+         Date  Banque                           Libellé  Montant
+2  2022-01-31     LBP                         Magasin U   -74.68
+7  2022-01-31     LBP            Tamelier de Saint Marc    -6.50
+8  2022-01-31     LBP                        Mie Caline    -3.70
+10 2022-01-26     LBP                             Géant   -62.75
+11 2022-01-26     LBP                             Géant    -3.82
+14 2022-01-25     LBP                           Ti Coop   -50.43
+16 2022-01-24     LBP                         Magasin U   -53.87
+20 2022-01-19     LBP                         Magasin U   -76.60
+24 2022-01-17     LBP  Boulangerie : Fournil de Pauline   -10.75
+25 2022-01-17     LBP                           Ti Coop    -8.78
+27 2022-01-14     LBP                           Ti Coop   -60.91
+29 2022-01-11     LBP                           Leclerc  -105.40
+32 2022-01-07     LBP                         Magasin U   -87.28
+41 2022-01-05     LBP                         Carrefour   -18.34
+44 2022-01-04     LBP                             Géant   -85.47
+24 2022-01-14  LBPMAE  ACHAT CB BIOCOOP PLOUZA 13.01.22   -13.20
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+         Date  Banque                                            Libellé  Montant
+4  2022-01-24     CIC                                      Virement Mika     10.0
+9  2022-01-28     LBP                                   Virement Maeliss    800.0
+15 2022-01-24     LBP                                      Virement Mika    -10.0
+26 2022-01-17     LBP                                   Virement Maeliss    150.0
+3  2022-01-28  LBPMAE             VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -800.0
+22 2022-01-17  LBPMAE                   VIREMENT DE MME MARCHAND MAELISS    150.0
+30 2022-01-11  LBPMAE                   VIREMENT DE MME MARCHAND MAELISS    150.0
+34 2022-01-03  LBPMAE                 VIREMENT POUR MME MARCHAND MAELISS  -1300.0
+35 2022-01-16  LBPMAE    VIREMENT VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -150.0
+36 2022-01-16  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -150.0
+37 2022-01-11  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -150.0
+38 2022-01-02  LBPMAE  VIREMENT VIREMENT DE MME MARCHAND MAELISS DATE...   1300.0
+############################################################
+
+############################################################
+Détails par catégorie => cadeau
+
+         Date  Banque                           Libellé  Montant
+10 2022-01-20  LBPMAE  ACHAT CB MGP Leetchi SA 19.01.22    -10.0
+15 2022-01-18  LBPMAE   REMISE DE CHEQUES DU 17/01/2022     35.0
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+         Date Banque                Libellé  Montant
+0  2022-01-05    CIC       Paypal : Rakuten   -80.98
+3  2022-01-31    LBP  Paypal : Clavier MIDI   -20.75
+6  2022-01-31    LBP  Dialogues (Librairie)    -7.90
+18 2022-01-24    LBP             Music Star   -38.00
+19 2022-01-24    LBP                Rakuten   -31.08
+35 2022-01-06    LBP           Ludik Addict   -19.20
+40 2022-01-05    LBP           Ludik Addict   -19.00
+43 2022-01-05    LBP                   FNAC    -7.00
+############################################################
+
+############################################################
+Détails par catégorie => dab
+
+         Date Banque  Libellé  Montant
+12 2022-01-26    LBP  Retrait    -20.0
+############################################################
+
+############################################################
+Détails par catégorie => don
+
+         Date Banque                Libellé  Montant
+31 2022-01-10    LBP  Amnesty International     -7.0
+############################################################
+
+############################################################
+Détails par catégorie => grossesse
+
+         Date  Banque                                      Libellé  Montant
+4  2022-01-28  LBPMAE             ACHAT CB GALL SARAH     27.01.22   -25.00
+13 2022-01-18  LBPMAE             ACHAT CB PHARM UNIVERSI 17.01.22    -6.20
+14 2022-01-18  LBPMAE  VIREMENT DE C.P.A.M. FINISTERE 220170017199    20.46
+23 2022-01-14  LBPMAE             ACHAT CB POWERSANTE     13.01.22   -62.93
+25 2022-01-14  LBPMAE               VIREMENT DE C.P.A.M. FINISTERE    13.20
+26 2022-01-13  LBPMAE             ACHAT CB MME CARON DANA 12.01.22   -35.65
+28 2022-01-11  LBPMAE             ACHAT CB GALL SARAH     10.01.22   -35.28
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+         Date Banque               Libellé  Montant
+39 2022-01-05    LBP  Loyer (Mme Calvarin)   -650.0
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+         Date Banque      Libellé  Montant
+4  2022-01-31    LBP  Magic Arena   -19.99
+21 2022-01-18    LBP  MKM (Magic)    -2.93
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+         Date  Banque                              Libellé  Montant
+3  2022-01-10     CIC  Paypal : CDiscount pierre aiguisage   -22.98
+33 2022-01-06     LBP                         Leroy Merlin   -39.20
+34 2022-01-06     LBP                            Décathlon   -31.70
+42 2022-01-05     LBP                        Bureau Vallée    -7.86
+2  2022-01-31  LBPMAE     ACHAT CB ADEO LEROY MER 28.01.22   -18.30
+17 2022-01-17  LBPMAE     ACHAT CB L ARBRE AUX SO 15.01.22   -40.00
+18 2022-01-17  LBPMAE     ACHAT CB BLE COQUELICOT 15.01.22   -35.00
+19 2022-01-17  LBPMAE     ACHAT CB L ARBRE AUX SO 15.01.22   -33.00
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+         Date  Banque                           Libellé  Montant
+28 2022-01-13     LBP                          Roadside    -34.5
+36 2022-01-06     LBP       Bellevue Kebab (centre com)    -16.0
+7  2022-01-21  LBPMAE  ACHAT CB MIDTOWN        20.01.22    -19.0
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+        Date  Banque                                            Libellé  Montant
+5 2022-01-31     CIC                                      Salaire Arkéa  2052.49
+5 2022-01-26  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE vir sala...  1184.35
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+         Date  Banque                                            Libellé  Montant
+8  2022-01-21  LBPMAE                   ACHAT CB DR SABLON DU C 20.01.22    -7.50
+9  2022-01-21  LBPMAE  VIREMENT DE ALLIANZ VIE DMAL 220101826542401 A...    10.69
+12 2022-01-19  LBPMAE  VIREMENT DE ALLIANZ VIE DMAL 220101426477801 A...    10.58
+20 2022-01-17  LBPMAE                   ACHAT CB PHARMACIE NICO 15.01.22    -4.36
+29 2022-01-11  LBPMAE                   ACHAT CB PHARM UNIVERSI 10.01.22   -10.40
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+        Date Banque          Libellé  Montant
+1 2022-01-31    LBP  Mystery O Clock    -95.0
+############################################################
+
+############################################################
+Détails par catégorie => sport
+
+        Date  Banque                           Libellé  Montant
+6 2022-01-24  LBPMAE  ACHAT CB PISCINE KERHAL 23.01.22   -29.15
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+         Date  Banque                                            Libellé  Montant
+46 2022-01-03     LBP                             Paypal : Paiement vélo  -312.25
+16 2022-01-17  LBPMAE                   ACHAT CB DAC SAS KERALA 13.01.22   -54.42
+27 2022-01-12  LBPMAE                   ACHAT CB SNCF INTERNET  11.01.22  -144.20
+31 2022-01-07  LBPMAE  PRELEVEMENT DE RD BREST REF : 662989 PREL BIBU...    -7.00
+############################################################
+
+############################################################
+Détails par catégorie => vêtements
+
+         Date  Banque                           Libellé  Montant
+22 2022-01-18     LBP                             Celio  -110.67
+1  2022-01-31  LBPMAE  ACHAT CB GABOR SHOP     30.01.22  -125.90
+############################################################

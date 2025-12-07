@@ -1,0 +1,233 @@
+Dépenses totales par catégories :
+            Montant
+Tag
+abonnement  -109.54
+banque      -271.61
+bouffe      -486.90
+caché          0.00
+cadeau       -30.00
+culture      -83.00
+dab          -50.00
+don           -8.00
+grossesse   -205.06
+loyer       -594.00
+magic       -474.65
+matériel    -421.17
+restau      -377.60
+salaire     2796.37
+santé        -48.29
+sortie       -15.00
+transport    -47.31
+vacances    -957.76
+
+Total balance :
+-1383.5199999999995
+############################################################
+Détails par catégorie => abonnement
+
+         Date  Banque                                       Libellé  Montant
+4  2022-04-26     LBP                               La poste mobile    -9.99
+17 2022-04-19     LBP                              Bouygues Telecom    -9.99
+36 2022-04-11     LBP  Virement aux parents maeliss pour assurrance   -52.00
+46 2022-04-06     LBP                                 Total Energie   -19.57
+48 2022-04-05     LBP                                 Total Energie   -13.00
+12 2022-04-21  LBPMAE               PRELEVEMENT DE LA POSTE TELECOM    -4.99
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+         Date  Banque                                            Libellé  Montant
+0  2022-04-05     CIC                                      Prêt étudiant  -232.37
+1  2022-04-08     CIC                                   Frais banque CIC   -11.50
+31 2022-04-15     LBP                      Commission paiement par carte    -1.04
+47 2022-04-05     LBP                                       Frais Banque   -21.00
+50 2022-04-05     LBP                              Agios (remise ou pas)    -1.50
+51 2022-04-05     LBP                              Agios (remise ou pas)     1.50
+19 2022-04-13  LBPMAE                  TENUE DE COMPTE FRAIS TRIMESTRIEL    -4.20
+24 2022-04-05  LBPMAE  MINIMUM FORFAITAIRE TRIMESTRIEL D UTILISATION ...    -1.50
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+         Date  Banque                           Libellé  Montant
+5  2022-04-26     LBP               Atelier Boulangerie    -8.00
+23 2022-04-19     LBP                           Leclerc   -86.20
+26 2022-04-19     LBP                         Magasin U   -53.55
+35 2022-04-13     LBP                             Géant   -64.25
+42 2022-04-08     LBP                             Géant   -67.29
+53 2022-04-04     LBP                         Magasin U   -42.49
+1  2022-04-26  LBPMAE                  ACHAT CB TI COOP   -29.98
+6  2022-04-25  LBPMAE                ACHAT CB MAGASIN U   -69.46
+15 2022-04-19  LBPMAE           ACHAT CB ATELIER BOULAN    -6.70
+20 2022-04-12  LBPMAE  ACHAT CB BIOCOOP PLOUZA 11.04.22   -24.21
+0  2022-04-27   TRMAE              CTR : Carrefour City    -4.27
+1  2022-04-27   TRMAE   CTR : Boulangerie Kichen An Aod    -8.50
+4  2022-04-15   TRMAE                           Super U   -19.00
+11 2022-04-01   TRMAE      CTR : L'atelier du boulanger    -3.00
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+         Date  Banque                                            Libellé  Montant
+2  2022-04-22     CIC                             Virement Compte Commun    -80.0
+12 2022-04-22     LBP                                      Virement Mika     80.0
+15 2022-04-21     LBP                                   Virement Maeliss    500.0
+28 2022-04-19     LBP                                   Virement Maeliss    200.0
+29 2022-04-19     LBP                                   Virement Maeliss    400.0
+8  2022-04-25  LBPMAE  VIREMENT DE MME MARCHAND MAELISS REFERENCE : 0...    200.0
+14 2022-04-19  LBPMAE             VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -400.0
+26 2022-04-24  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS   -200.0
+27 2022-04-21  LBPMAE    VIREMENT VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -500.0
+28 2022-04-16  LBPMAE    VIREMENT VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -200.0
+############################################################
+
+############################################################
+Détails par catégorie => cadeau
+
+         Date Banque         Libellé  Montant
+44 2022-04-06    LBP  Paiement Steph    -20.0
+45 2022-04-06    LBP         Leetchi    -10.0
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+         Date  Banque                           Libellé  Montant
+9  2022-04-25     LBP                         Croc Jeux    -29.0
+39 2022-04-11     LBP                         Croc Jeux    -15.0
+40 2022-04-11     LBP                      Ludik Addict    -10.0
+21 2022-04-11  LBPMAE  ACHAT CB LIBRAIRIE DIAL 08.04.22    -29.0
+############################################################
+
+############################################################
+Détails par catégorie => dab
+
+         Date  Banque                                            Libellé  Montant
+10 2022-04-25     LBP                                            Retrait    -20.0
+11 2022-04-22  LBPMAE  CARTE X0121    21/04/22 A 09H24 RETRAIT DAB LA...    -30.0
+############################################################
+
+############################################################
+Détails par catégorie => don
+
+         Date Banque                Libellé  Montant
+27 2022-04-19    LBP    Les restos du coeur     -1.0
+41 2022-04-08    LBP  Amnesty International     -7.0
+############################################################
+
+############################################################
+Détails par catégorie => grossesse
+
+         Date  Banque                                            Libellé  Montant
+5  2022-04-25  LBPMAE  VIREMENT POUR VAUSELE MANU BERTRAND LA COMPTE ...  -150.00
+9  2022-04-22  LBPMAE                   ACHAT CB MME CARON DANA 21.04.22   -30.06
+13 2022-04-21  LBPMAE                   ACHAT CB DOCTOLIB  MME  21.04.22   -25.00
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+         Date Banque               Libellé  Montant
+49 2022-04-05    LBP  Loyer (Mme Calvarin)   -594.0
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+         Date Banque                           Libellé  Montant
+0  2022-04-28    LBP                       MKM (Magic)    -8.33
+1  2022-04-28    LBP                       MKM (Magic)    -6.06
+3  2022-04-28    LBP  Paypal : Remboursement Guillaume    32.60
+6  2022-04-25    LBP                       MKM (Magic)   -50.00
+7  2022-04-25    LBP                       MKM (Magic)   -38.33
+11 2022-04-22    LBP                       MKM (Magic)  -213.13
+13 2022-04-21    LBP                       MKM (Magic)   -26.80
+16 2022-04-19    LBP                       MKM (Magic)   -19.80
+30 2022-04-15    LBP                       MKM (Magic)   -13.74
+32 2022-04-15    LBP       Kickstarter : Academic 133+   -45.34
+34 2022-04-13    LBP                       MKM (Magic)   -54.19
+37 2022-04-11    LBP                       MKM (Magic)   -10.24
+54 2022-04-04    LBP                       MKM (Magic)   -12.31
+56 2022-04-01    LBP                       MKM (Magic)    -8.98
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+         Date  Banque                                   Libellé  Montant
+2  2022-04-28     LBP  Paypal : Paiement en 4X Matériel musique   -20.75
+24 2022-04-19     LBP                             Passage désir   -84.15
+25 2022-04-19     LBP                             Electro Dépot   -80.43
+33 2022-04-14     LBP                                      LDLC  -206.84
+18 2022-04-14  LBPMAE                        ACHAT CB DECATHLON   -29.00
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+         Date  Banque                                            Libellé  Montant
+8  2022-04-25     LBP                                          Deliveroo   -33.68
+38 2022-04-11     LBP                                           Roast It   -38.70
+43 2022-04-07     LBP                                              Arkéa  -100.00
+55 2022-04-01     LBP                                        Bella Mamma   -38.40
+4  2022-04-25  LBPMAE  VIREMENT POUR VAUSELE MANU BERTRAND LA COMPTE ...   -23.50
+10 2022-04-22  LBPMAE                   ACHAT CB L ESPERLUETTE  21.04.22    -9.40
+16 2022-04-15  LBPMAE                            ACHAT CB BRASSERIE PLOU    -5.30
+2  2022-04-23   TRMAE                               CTR : Bellevue Kebab    -6.50
+3  2022-04-16   TRMAE                                           Roast It   -29.20
+5  2022-04-12   TRMAE                                           Roast It   -28.20
+7  2022-04-08   TRMAE                         CTR : Crêperie Cornouaille   -16.32
+8  2022-04-06   TRMAE                                      CTR : Midtown   -17.00
+9  2022-04-03   TRMAE                               Macdo Gare de Rennes    -3.60
+10 2022-04-03   TRMAE                               Macdo Gare de Rennes   -27.80
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+         Date  Banque                                            Libellé  Montant
+3  2022-04-30     CIC                                      Salaire Arkéa  1833.75
+3  2022-04-26  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE salaire ...   663.44
+23 2022-04-06  LBPMAE                     VIREMENT DE C.P.A.M. FINISTERE   204.68
+6  2022-04-12   TRMAE   Chargement de votre carte ( 9 titres x 10,50 € )    94.50
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+         Date  Banque                           Libellé  Montant
+0  2022-04-27  LBPMAE  ACHAT CB DENTEGO BREST  26.04.22   -30.00
+2  2022-04-26  LBPMAE           ACHAT CB PHARM UNIVERSI    -9.30
+7  2022-04-25  LBPMAE           ACHAT CB PHARM UNIVERSI   -16.49
+25 2022-04-01  LBPMAE   VIREMENT DE ALLIANZ VIE ALLIANZ     7.50
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+         Date Banque                       Libellé  Montant
+14 2022-04-21    LBP  Laser Game Evolution (Brest)    -15.0
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+         Date  Banque                  Libellé  Montant
+52 2022-04-04     LBP                   Keolis    -3.20
+17 2022-04-14  LBPMAE  ACHAT CB DAC SAS KERALA   -39.11
+22 2022-04-08  LBPMAE  PRELEVEMENT DE RD BREST    -5.00
+############################################################
+
+############################################################
+Détails par catégorie => vacances
+
+         Date Banque Libellé  Montant
+18 2022-04-19    LBP  Airbnb  -233.89
+19 2022-04-19    LBP  Airbnb  -230.37
+20 2022-04-19    LBP  Airbnb  -225.70
+21 2022-04-19    LBP  Airbnb  -175.42
+22 2022-04-19    LBP  Airbnb   -92.38
+############################################################

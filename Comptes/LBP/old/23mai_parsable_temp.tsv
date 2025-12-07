@@ -1,0 +1,84 @@
+Date,Banque,Libellé,Montant,Tag,Type
+2023/05/31,LBP,Macdo Montparnasse,-22.80€,fastfood
+2023/05/31,LBP,Big Fernand,-12.20€,fastfood
+2023/05/31,LBP,Bubble Tea,-11.80€,sortie
+2023/05/31,LBP,Big Fernand,-3.00€,fastfood
+2023/05/31,LBP,RATP,-2.10€,transport
+2023/05/31,LBP,RATP,-2.10€,transport
+2023/05/31,LBP,MKM (Magic),39.51€,magic,remboursement
+2023/05/30,LBP,EDF,-55.00€,abonnement
+2023/05/30,LBP,HelloFresh,-94.99€,bouffe
+2023/05/30,LBP,Au Bureau,-55.80€,restau
+2023/05/30,LBP,Macdo Gros Horloge Rouen,-27.70€,fastfood
+2023/05/30,LBP,Burger King,-8.45€,fastfood
+2023/05/30,LBP,RATP,-2.10€,transport
+2023/05/30,LBP,Bus Rouen,-1.70€,transport
+2023/05/30,LBP,2 The Loo,-1.00€,autre
+2023/05/30,LBP,Retrait,-20.00€,dab
+2023/05/26,LBP,Hellofresh,-68.29€,bouffe
+2023/05/26,LBP,Macdo,-22.10€,fastfood
+2023/05/26,LBP,Le fournil des provinces,-6.55€,bouffe
+2023/05/26,LBP,MKM (Magic),15.10€,magic,remboursement
+2023/05/25,LBP,Magasin U,-56.91€,bouffe
+2023/05/25,LBP,La poste,-12.50€,matériel
+2023/05/25,LBP,Pharmacie Bellevue,-4.53€,santé
+2023/05/24,LBP,La poste mobile,-9.99€,abonnement
+2023/05/23,LBP,HelloFresh,-94.99€,bouffe
+2023/05/23,LBP,Les petits culottés (couches),-52.25€,azenor
+2023/05/22,LBP,Virement Maeliss,-2000.00€,caché
+2023/05/22,LBP,Hellofresh,-68.29€,bouffe
+2023/05/22,LBP,Magasin U,-58.79€,bouffe
+2023/05/22,LBP,Amazon,-29.49€,matériel
+2023/05/22,LBP,Biorek,-26.10€,fastfood
+2023/05/22,LBP,Le Tortuga,-19.00€,sortie
+2023/05/22,LBP,Roadside,-4.90€,fastfood
+2023/05/19,LBP,LDLC,-89.95€,matériel
+2023/05/19,LBP,Maison du thé,-53.80€,bouffe
+2023/05/19,LBP,Leclerc,-46.43€,bouffe
+2023/05/19,LBP,Dialogues (Librairie),-45.90€,culture
+2023/05/19,LBP,LDLC,-4.95€,matériel
+2023/05/17,LBP,Intermarché,-79.85€,bouffe
+2023/05/17,LBP,Intermarché,-15.69€,bouffe
+2023/05/16,LBP,Bouygues,-31.49€,abonnement
+2023/05/16,LBP,Ti Coop,-88.13€,bouffe
+2023/05/16,LBP,HelloFresh,-77.19€,bouffe
+2023/05/16,LBP,Atelier Boulangerie,-6.40€,bouffe
+2023/05/15,LBP,Micromania,-89.99€,culture
+2023/05/15,LBP,Magasin U,-76.27€,bouffe
+2023/05/15,LBP,Ludik Addict,-10.60€,culture
+2023/05/15,LBP,Carrefour,-6.94€,bouffe
+2023/05/15,LBP,Brasserie de la PAM,-6.90€,sortie
+2023/05/15,LBP,Brasserie de la PAM,-3.50€,sortie
+2023/05/11,LBP,Virement aux parents maeliss pour assurrance,-52.00€,abonnement
+2023/05/11,LBP,Babybio,-57.15€,azenor
+2023/05/10,LBP,Paypal: Thomann,-39.90€,culture
+2023/05/10,LBP,Intermarché,-8.34€,bouffe
+2023/05/09,LBP,Amnesty International,-7.00€,don
+2023/05/09,LBP,HelloFresh,-77.19€,bouffe
+2023/05/09,LBP,Auchan.fr,-41.99€,culture
+2023/05/09,LBP,Carrefour,-21.07€,bouffe
+2023/05/09,LBP,Carrefour,-20.44€,bouffe
+2023/05/09,LBP,Le fournil de Pauline (Boulangerie Bellevue),-0.58€,bouffe
+2023/05/09,LBP,Virement Mika,2500.00€,caché
+2023/05/05,LBP,Total Energie,-52.00€,abonnement
+2023/05/05,LBP,CGT (Syndicat),-20.00€,abonnement
+2023/05/05,LBP,Gamefound (Kickstarter),-22.05€,culture
+2023/05/05,LBP,CAF,184.81€,azenor,remboursement
+2023/05/04,LBP,La poste,-27.52€,matériel
+2023/05/04,LBP,Machine à café Arkéa,-1.20€,bouffe
+2023/05/04,LBP,Machine à café Arkéa,-1.00€,bouffe
+2023/05/03,LBP,Nounou (Tiffany Simon),-190.57€,azenor
+2023/05/03,LBP,Magasin U,-116.32€,bouffe
+2023/05/03,LBP,Les petits culottés (couches),-52.25€,azenor
+2023/05/03,LBP,PAJE,319.07€,azenor,remboursement
+2023/05/03,LBP,MKM (Magic),6.97€,magic,remboursement
+2023/05/02,LBP,Virement Mme Calvarin,-668.50€,loyer
+2023/05/02,LBP,Virement Maeliss,-1000.00€,caché
+2023/05/02,LBP,Véronique Loriant (nounou),-107.75€,azenor
+2023/05/02,LBP,EDF,-55.00€,abonnement
+2023/05/02,LBP,HelloFresh,-70.07€,bouffe
+2023/05/02,LBP,Burgers de Papa,-35.30€,fastfood
+2023/05/02,LBP,Amazon,-33.30€,matériel
+2023/05/02,LBP,Macdo,-30.10€,fastfood
+2023/05/02,LBP,Dialogues (Librairie),-20.00€,culture
+2023/05/02,LBP,Burgers de Papa,-5.90€,fastfood

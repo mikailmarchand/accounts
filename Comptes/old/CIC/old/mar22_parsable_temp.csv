@@ -1,0 +1,7 @@
+Date,Banque,Libellé,Montant,Tag,Type
+2022/03/04,CIC,Prêt étudiant,-232.37€,banque
+2022/03/07,CIC,Frais banque CIC,-11.50€,banque
+2022/03/25,CIC,Remboursement Sécu,4.00€,santé,remboursement
+2022/03/29,CIC,Remboursement Sécu,5.00€,santé,remboursement
+2022/03/31,CIC,Salaire Arkéa,2237.50€,salaire
+2022/03/31,CIC,Virement Compte Commun,-2000.00€,caché

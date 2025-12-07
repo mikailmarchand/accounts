@@ -1,0 +1,256 @@
+Dépenses totales par catégories :
+            Montant
+Tag
+abonnement  -188.15
+autre       -235.00
+banque      -244.91
+bouffe      -743.63
+caché          0.00
+cadeau      -133.50
+coiffeur     -37.00
+culture     -180.83
+dab          -20.00
+don          -23.50
+grossesse    -10.60
+loyer       -650.00
+magic       -112.98
+matériel     -23.37
+restau      -143.74
+salaire     3095.69
+santé         62.76
+sortie       -35.10
+transport   -151.30
+économie     -90.00
+
+Total balance :
+134.84000000000023
+############################################################
+Détails par catégorie => abonnement
+
+         Date  Banque                                       Libellé  Montant
+2  2022-08-30     LBP                                           EDF   -36.96
+5  2022-08-30     LBP                              Paypal : Netflix    -8.99
+11 2022-08-24     LBP                               La poste mobile    -9.99
+21 2022-08-22     LBP                                Subscribe Star   -12.38
+23 2022-08-22     LBP                                Subscribe Star    -6.20
+25 2022-08-22     LBP                                Subscribe Star    -6.20
+33 2022-08-16     LBP                              Bouygues Telecom   -12.99
+37 2022-08-12     LBP                               La poste mobile    -9.99
+40 2022-08-11     LBP  Virement aux parents maeliss pour assurrance   -52.00
+51 2022-08-05     LBP                                 Total Energie   -13.00
+62 2022-08-01     LBP                                           EDF    -0.48
+63 2022-08-01     LBP                              Paypal : Netflix    -8.99
+10 2022-08-19  LBPMAE               PRELEVEMENT DE LA POSTE TELECOM    -4.99
+15 2022-08-11  LBPMAE               PRELEVEMENT DE LA POSTE TELECOM    -4.99
+############################################################
+
+############################################################
+Détails par catégorie => autre
+
+         Date  Banque                           Libellé  Montant
+45 2022-08-08     LBP               Virement à Kevin B.   -200.0
+53 2022-08-05     LBP                    Paiement Kevin    200.0
+18 2022-08-08  LBPMAE  ACHAT CB ATELIERROSEMOO 06.08.22    -55.0
+19 2022-08-08  LBPMAE    paiement espÃẀces photos Lanie   -180.0
+############################################################
+
+############################################################
+Détails par catégorie => banque
+
+         Date Banque                        Libellé  Montant
+3  2022-08-05    CIC                  Prêt étudiant  -232.35
+4  2022-08-05    CIC               Frais banque CIC   -12.00
+20 2022-08-22    LBP  Commission paiement par carte    -0.28
+22 2022-08-22    LBP  Commission paiement par carte    -0.14
+24 2022-08-22    LBP  Commission paiement par carte    -0.14
+############################################################
+
+############################################################
+Détails par catégorie => bouffe
+
+         Date  Banque                                 Libellé  Montant
+1  2022-08-31     LBP                     Atelier Boulangerie    -5.20
+12 2022-08-24     LBP                               Magasin U   -58.10
+17 2022-08-22     LBP                               Magasin U   -85.32
+26 2022-08-19     LBP                                 Ti Coop   -13.77
+34 2022-08-16     LBP                               Carrefour   -75.65
+38 2022-08-12     LBP                               Carrefour   -95.62
+41 2022-08-10     LBP                                   Géant   -55.34
+42 2022-08-09     LBP                                 Ti Coop   -65.85
+52 2022-08-05     LBP                               Magasin U   -71.66
+55 2022-08-04     LBP                    Machine à café Arkéa    -0.30
+56 2022-08-04     LBP                    Machine à café Arkéa    -0.30
+57 2022-08-03     LBP                             Intermarché   -32.07
+58 2022-08-03     LBP                    Machine à café Arkéa    -1.00
+59 2022-08-02     LBP                                 Ti Coop   -54.66
+60 2022-08-02     LBP                                   Arkéa   -50.00
+5  2022-08-23  LBPMAE                 ACHAT CB CARREFOUR MARK   -13.76
+27 2022-08-01  LBPMAE                 ACHAT CB CARREFOUR MARK   -26.89
+28 2022-08-01  LBPMAE        ACHAT CB CARREFOUR MARK 29.07.22   -15.84
+0  2022-08-17   TRMAE  CTR : Boulangerie Tartines d'Autrefois    -3.30
+3  2022-08-04   TRMAE                                 Super U   -19.00
+############################################################
+
+############################################################
+Détails par catégorie => caché
+
+         Date  Banque                                          Libellé  Montant
+0  2022-08-01     CIC                           Virement Compte Commun  -1800.0
+2  2022-08-05     CIC                                    Virement Mika    100.0
+5  2022-08-06     CIC                                    Virement Mika     50.0
+10 2022-08-29     LBP                                 Virement Maeliss    300.0
+13 2022-08-23     LBP                                 Virement Maeliss    -50.0
+31 2022-08-16     LBP                                 Virement Maeliss   -120.0
+32 2022-08-16     LBP                                 Virement Maeliss   -300.0
+44 2022-08-08     LBP                                    Virement Mika    -50.0
+50 2022-08-05     LBP                                    Virement Mika   -100.0
+64 2022-08-01     LBP                                    Virement Mika   1800.0
+7  2022-08-23  LBPMAE  VIREMENT INSTANTANE DE MR DEMIRDELEN OU MLE MAR     50.0
+12 2022-08-16  LBPMAE  VIREMENT INSTANTANE DE MR DEMIRDELEN OU MLE MAR    300.0
+13 2022-08-16  LBPMAE  VIREMENT INSTANTANE DE MR DEMIRDELEN OU MLE MAR    120.0
+29 2022-08-29  LBPMAE  VIREMENT VIREMENT POUR MR DEMIRDELEN OU MLE MAR   -300.0
+############################################################
+
+############################################################
+Détails par catégorie => cadeau
+
+         Date  Banque                                            Libellé  Montant
+27 2022-08-18     LBP                         Ludik Addict (cadeau Luke)    -33.5
+28 2022-08-17     LBP                             Croc Jeux(cadeau Luke)    -10.0
+9  2022-08-22  LBPMAE  VIREMENT INSTANTANE DE MR OU MME MARCHAND PH C...     30.0
+11 2022-08-17  LBPMAE                                  ACHAT CB WECANDOO   -120.0
+############################################################
+
+############################################################
+Détails par catégorie => coiffeur
+
+         Date  Banque               Libellé  Montant
+26 2022-08-01  LBPMAE  ACHAT CB LE KAMELEON    -37.0
+############################################################
+
+############################################################
+Détails par catégorie => culture
+
+         Date  Banque                           Libellé  Montant
+3  2022-08-30     LBP                       Achat Steam   -23.99
+7  2022-08-29     LBP             Dialogues (Librairie)   -37.60
+15 2022-08-23     LBP                       Achat Steam    -4.99
+19 2022-08-22     LBP                       Achat Steam   -19.79
+39 2022-08-12     LBP       Paypal : Thomann 4X Sampler   -48.25
+6  2022-08-23  LBPMAE  ACHAT CB ESPACE TABAC P 22.08.22    -5.20
+8  2022-08-22  LBPMAE             ACHAT CB leslibraires   -28.01
+20 2022-08-08  LBPMAE           ACHAT CB MEDIA CAPUCINS   -13.00
+############################################################
+
+############################################################
+Détails par catégorie => dab
+
+        Date Banque Libellé  Montant
+6 2022-08-08    CIC     DAB    -20.0
+############################################################
+
+############################################################
+Détails par catégorie => don
+
+         Date Banque                Libellé  Montant
+7  2022-08-08    CIC         Don espèce SDF    -10.0
+8  2022-08-08    CIC     Don mie caline SDF     -6.5
+47 2022-08-08    LBP  Amnesty International     -7.0
+############################################################
+
+############################################################
+Détails par catégorie => grossesse
+
+         Date  Banque           Libellé  Montant
+14 2022-08-12  LBPMAE  ACHAT CB PISCINE     -5.3
+22 2022-08-05  LBPMAE  ACHAT CB PISCINE     -5.3
+############################################################
+
+############################################################
+Détails par catégorie => loyer
+
+         Date  Banque                    Libellé  Montant
+49 2022-08-05     LBP       Loyer (Mme Calvarin)  -409.21
+17 2022-08-08  LBPMAE  CHEQUE N  0520012 serrure  -240.79
+############################################################
+
+############################################################
+Détails par catégorie => magic
+
+         Date Banque       Libellé  Montant
+1  2022-08-03    CIC  Paypal : MKM   -57.69
+6  2022-08-30    LBP           MKM    13.29
+16 2022-08-23    LBP           MKM     2.39
+29 2022-08-17    LBP     Croc Jeux    -9.50
+36 2022-08-16    LBP           MKM     7.42
+46 2022-08-08    LBP   MKM (Magic)   -57.40
+54 2022-08-04    LBP   MKM (Magic)   -11.49
+############################################################
+
+############################################################
+Détails par catégorie => matériel
+
+         Date Banque        Libellé  Montant
+30 2022-08-17    LBP       La poste   -16.50
+43 2022-08-09    LBP  Bureau Vallée    -4.49
+61 2022-08-02    LBP  Bureau Vallée    -2.38
+############################################################
+
+############################################################
+Détails par catégorie => restau
+
+         Date Banque                      Libellé  Montant
+0  2022-08-31    LBP                       Subway   -17.50
+4  2022-08-30    LBP                  Burger King   -21.90
+8  2022-08-29    LBP                        Macdo   -14.80
+9  2022-08-29    LBP                        Macdo    -3.60
+14 2022-08-23    LBP  Bellevue Kebab (centre com)   -15.00
+18 2022-08-22    LBP                     Roast It   -23.94
+48 2022-08-08    LBP               Pizzeria Pozzi   -14.00
+2  2022-08-07  TRMAE               Pizzeria Pozzi   -19.00
+4  2022-08-03  TRMAE         CTR : Bellevue Kebab   -14.00
+############################################################
+
+############################################################
+Détails par catégorie => salaire
+
+         Date  Banque                                    Libellé  Montant
+10 2022-08-31     CIC                              Salaire Arkéa  1836.91
+1  2022-08-31  LBPMAE  VIREMENT Salaire 08/22 Technopole Brest I  1258.78
+############################################################
+
+############################################################
+Détails par catégorie => santé
+
+         Date  Banque                  Libellé  Montant
+2  2022-08-29  LBPMAE  ACHAT CB PHARMACIE CENT   -15.80
+3  2022-08-29  LBPMAE   ACHAT CB PHARMACIE DES    -6.54
+4  2022-08-26  LBPMAE      ACHAT CB CHINA TOWN   -14.90
+23 2022-08-02  LBPMAE  VIREMENT DE ALLIANZ VIE    50.00
+24 2022-08-02  LBPMAE  VIREMENT DE ALLIANZ VIE    50.00
+############################################################
+
+############################################################
+Détails par catégorie => sortie
+
+         Date Banque                Libellé  Montant
+35 2022-08-16    LBP  Comiteo (CE) : cinéma    -28.2
+1  2022-08-14  TRMAE         Trimaran (bar)     -6.9
+############################################################
+
+############################################################
+Détails par catégorie => transport
+
+         Date  Banque                                            Libellé  Montant
+9  2022-08-08     CIC                                    Réparation vélo   -141.0
+16 2022-08-09  LBPMAE  PRELEVEMENT DE RD BREST REF : 662989 PREL BIBU...     -8.5
+21 2022-08-08  LBPMAE                             ACHAT CB CAPUCINS AUTO     -1.8
+############################################################
+
+############################################################
+Détails par catégorie => économie
+
+         Date  Banque                                       Libellé  Montant
+0  2022-08-31  LBPMAE                            VIREMENT PERMANENT    -45.0
+25 2022-08-01  LBPMAE  VIREMENT PERMANENT POUR MLE MARCHAND MAELISS    -45.0
+############################################################

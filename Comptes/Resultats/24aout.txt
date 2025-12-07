@@ -1,0 +1,302 @@
+Dépenses totales par catégories :
+               Montant
+Tag
+abonnement     -325.31
+autre           -36.00
+azenor         -411.41
+banque           -6.01
+bouffe         -553.36
+caché             0.00
+cadeau          -30.95
+coiffeur       -155.45
+culture         -39.11
+don              -9.27
+economies      -100.00
+emmenagement    -20.50
+evl              14.40
+fastfood        -40.25
+loyer        -1,185.14
+matériel       -171.38
+restau          -36.65
+salaire       3,020.59
+santé            -1.85
+sortie         -102.00
+sport           -16.00
+transport      -130.50
+vacances       -633.83
+vetements       -55.30
+
+Total balance :
+-1025.2799999999995
+################################e############################
+Détails par catégorie => abonnement -325.31
+
+                   Date  Banque                                            Libellé  Montant
+0   2024-08-30 00:00:00     LBP                                                EDF   -80.96
+5   2024-08-26 00:00:00     LBP                                    La poste mobile    -9.99
+8   2024-08-23 00:00:00     LBP                                            Disney+    -8.99
+9   2024-08-22 00:00:00     LBP                                                EDF   -76.00
+25  2024-08-16 00:00:00     LBP                                           Bouygues   -15.38
+34  2024-08-13 00:00:00     LBP                         Virement Philippe Marchand   -55.00
+54  2024-08-06 00:00:00     LBP                                     CGT (Syndicat)   -20.00
+59  2024-08-05 00:00:00     LBP                                      Total énergie   -19.00
+20  2024-08-20 00:00:00  LBPMAE                    PRELEVEMENT DE LA POSTE TELECOM   -10.99
+30  2024-08-09 00:00:00  LBPMAE                   ACHAT CB FRANCE AGRICOL 08.08.24    -1.00
+33  2024-08-05 00:00:00  LBPMAE  PRELEVEMENT DE SYNDICAT DES META CGT REF : ASS...   -28.00
+############################################################
+
+################################e############################
+Détails par catégorie => autre -36.0
+
+                   Date Banque                                            Libellé  Montant
+2          2024"/08/"22    CMB                          "CARTE 21/08 VRHAT BREST"    -8.00
+3          2024"/08/"22    CMB                          "CARTE 21/08 VRHAT BREST"    -8.00
+19  2024-08-19 00:00:00    LBP  "ACHAT CB EVERSPORTS  LE 16.08.24 CARTE NUMERO...   -20.00
+############################################################
+
+################################e############################
+Détails par catégorie => azenor -411.4100000000001
+
+                   Date  Banque                                      Libellé  Montant
+26  2024-08-16 00:00:00     LBP                Les petits culottés (couches)   -49.50
+52  2024-08-07 00:00:00     LBP                                         PAJE   333.75
+53  2024-08-06 00:00:00     LBP                   Véronique Loriant (nounou)  -697.22
+65  2024-08-05 00:00:00     LBP                                          CAF    96.66
+5   2024-08-27 00:00:00  LBPMAE                ACHAT CB LeBonCoin cuisinette   -41.60
+25  2024-08-12 00:00:00  LBPMAE  VIREMENT PERMANENT POUR MME MARCHAND AZENOR   -50.00
+38  2024-08-02 00:00:00  LBPMAE             ACHAT CB R KID          31.07.24    -3.50
+############################################################
+
+################################e############################
+Détails par catégorie => banque -6.01
+
+                   Date  Banque                        Libellé  Montant
+7          2024"/08/"07     CMB          Cotisation eurocompte    -1.89
+62  2024-08-05 00:00:00     LBP  Commission paiement par carte    -0.21
+47  2024-08-14 00:00:00  LBPMAE          cotisation compte CMB    -3.91
+############################################################
+
+################################e############################
+Détails par catégorie => bouffe -553.3599999999999
+
+                   Date  Banque                           Libellé  Montant
+1          2024"/08/"22     CMB                           Ti Coop   -22.66
+2   2024-08-28 00:00:00     LBP              Tartines d'Autrefois    -3.75
+3   2024-08-27 00:00:00     LBP                        Hellofresh   -94.96
+4   2024-08-27 00:00:00     LBP              Machine à café Arkéa    -1.20
+11  2024-08-21 00:00:00     LBP                       Intermarché   -45.49
+12  2024-08-20 00:00:00     LBP                        Hellofresh   -70.79
+17  2024-08-19 00:00:00     LBP                         Magasin U   -40.60
+33  2024-08-14 00:00:00     LBP                           Leclerc    -8.74
+36  2024-08-13 00:00:00     LBP                           Leclerc   -22.62
+41  2024-08-12 00:00:00     LBP                           900care   -38.71
+49  2024-08-08 00:00:00     LBP                           900care   -18.31
+60  2024-08-05 00:00:00     LBP                         Magasin U   -53.10
+4   2024-08-27 00:00:00  LBPMAE                ACHAT CB CARREFOUR   -89.35
+6   2024-08-27 00:00:00  LBPMAE                ACHAT CB TERCOC PF   -23.10
+21  2024-08-20 00:00:00  LBPMAE                  ACHAT CB O TERRA   -14.47
+32  2024-08-07 00:00:00  LBPMAE  ACHAT CB GUSTUS         06.08.24    -2.21
+46  2024-08-13 00:00:00  LBPMAE                              pain    -3.30
+############################################################
+
+################################e############################
+Détails par catégorie => caché 0.0
+
+                   Date  Banque                                            Libellé  Montant
+9          2024"/08/"08     CMB                                 Vers compte commun  -800.00
+16  2024-08-19 00:00:00     LBP                                   Virement Maeliss  -750.00
+23  2024-08-19 00:00:00     LBP                                   Virement Maeliss   750.00
+39  2024-08-12 00:00:00     LBP                                   Virement Maeliss  -200.00
+50  2024-08-08 00:00:00     LBP                                      Virement Mika   800.00
+67  2024-08-01 00:00:00     LBP                                   Virement Maeliss   -50.00
+10  2024-08-27 00:00:00  LBPMAE  VIREMENT DE MME MARCHAND MAELISS DEFAULT REFER...   200.00
+28  2024-08-12 00:00:00  LBPMAE    VIREMENT INSTANTANE DE MR DEMIRDELEN OU MLE MAR   200.00
+40  2024-08-01 00:00:00  LBPMAE  VIREMENT DE MME MARCHAND MAELISS DEFAULT REFER...   300.00
+41  2024-08-18 00:00:00  LBPMAE  VIREMENT VIREMENT DE MR DEMIRDELEN OU MLE DATE...   750.00
+42  2024-08-27 00:00:00  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS  -200.00
+43  2024-08-01 00:00:00  LBPMAE  VIREMENT VIREMENT DE MME MARCHAND MAELISS DATE...    50.00
+44  2024-08-01 00:00:00  LBPMAE        VIREMENT VIREMENT POUR MME MARCHAND MAELISS  -300.00
+48  2024-08-18 00:00:00  LBPMAE                        virement vers compte commun  -750.00
+############################################################
+
+################################e############################
+Détails par catégorie => cadeau -30.95
+
+                   Date  Banque                                   Libellé  Montant
+13  2024-08-22 00:00:00  LBPMAE     ACHAT CB MGP Leetchi SA départ Nolhan    -5.00
+14  2024-08-22 00:00:00  LBPMAE      ACHAT CB MGP Leetchi SA départ Lysia    -5.00
+15  2024-08-22 00:00:00  LBPMAE  ACHAT CB MGP Leetchi SA départ Alexandra    -5.00
+24  2024-08-16 00:00:00  LBPMAE               ACHAT CB PINOCCHIO Augustin   -15.95
+############################################################
+
+################################e############################
+Détails par catégorie => coiffeur -155.45
+
+                   Date  Banque                                     Libellé  Montant
+1   2024-08-29 00:00:00  LBPMAE                     ACHAT CB NUANCES BRESIL   -44.00
+16  2024-08-21 00:00:00  LBPMAE      ACHAT CB HAPPY CURL produits coiffants   -38.05
+17  2024-08-21 00:00:00  LBPMAE       ACHAT CB NORMAL BREST I seche-cheveux   -38.00
+18  2024-08-21 00:00:00  LBPMAE  ACHAT CB PHARMA L IROIS produits coiffants   -35.40
+############################################################
+
+################################e############################
+Détails par catégorie => culture -39.11000000000001
+
+                   Date Banque                  Libellé  Montant
+10  2024-08-22 00:00:00    LBP     LBC : vente gwenpool    30.00
+20  2024-08-19 00:00:00    LBP                Boulanger   -14.99
+55  2024-08-06 00:00:00    LBP         Paypal : Thomann   -20.94
+61  2024-08-05 00:00:00    LBP  Paypal : Nintendo store   -25.94
+64  2024-08-05 00:00:00    LBP             Ludik Addict    -7.24
+############################################################
+
+################################e############################
+Détails par catégorie => don -9.27
+
+                   Date Banque                               Libellé  Montant
+63  2024-08-05 00:00:00    LBP  GoFundMe : Peter ? (9.99 en dollars)    -9.27
+############################################################
+
+################################e############################
+Détails par catégorie => economies -100.0
+
+                   Date Banque        Libellé  Montant
+32  2024-08-14 00:00:00    LBP  Virement Mika  -100.00
+############################################################
+
+################################e############################
+Détails par catégorie => emmenagement -20.5
+
+                   Date Banque            Libellé  Montant
+56  2024-08-06 00:00:00    LBP  Paypal : Displate   -20.50
+############################################################
+
+################################e############################
+Détails par catégorie => evl 14.4
+
+                   Date Banque Libellé  Montant
+24  2024-08-19 00:00:00    LBP   Gandi    14.40
+############################################################
+
+################################e############################
+Détails par catégorie => fastfood -40.25
+
+                  Date Banque Libellé  Montant
+6  2024-08-26 00:00:00    LBP   Macdo   -40.25
+############################################################
+
+################################e############################
+Détails par catégorie => loyer -1185.1399999999999
+
+                   Date Banque                  Libellé  Montant
+4          2024"/08/"18    CMB          Paiement Syndic  -178.41
+5          2024"/08/"18    CMB          Paiement Syndic  -799.96
+8          2024"/08/"08    CMB          Assurrance prêt   -14.72
+10         2024"/08/"05    CMB  Echeance prêt principal  -544.26
+11         2024"/08/"05    CMB  Echeance prêt taux zéro  -127.79
+31  2024-08-16 00:00:00    LBP    Virement Mme Calvarin   480.00
+############################################################
+
+################################e############################
+Détails par catégorie => matériel -171.38
+
+                   Date Banque   Libellé  Montant
+1   2024-08-29 00:00:00    LBP  De Buyer  -109.10
+13  2024-08-20 00:00:00    LBP    Amazon   -38.00
+57  2024-08-06 00:00:00    LBP  La poste   -13.98
+58  2024-08-06 00:00:00    LBP    Amazon   -10.30
+############################################################
+
+################################e############################
+Détails par catégorie => restau -36.65
+
+                   Date  Banque                      Libellé  Montant
+7   2024-08-27 00:00:00  LBPMAE  ACHAT CB LOKAL Brest Xavier   -14.90
+11  2024-08-26 00:00:00  LBPMAE       ACHAT CB SATYR Estelle   -21.75
+############################################################
+
+################################e############################
+Détails par catégorie => salaire 3020.59
+
+                  Date  Banque                                            Libellé  Montant
+0         2024"/08/"30     CMB                                      Salaire Arkea 2,130.52
+9  2024-08-27 00:00:00  LBPMAE  VIREMENT DE ASS TECHNOPOLE BREST OISE VSL01202...   890.07
+############################################################
+
+################################e############################
+Détails par catégorie => santé -1.8500000000000005
+
+                   Date  Banque                           Libellé  Montant
+31  2024-08-07 00:00:00  LBPMAE  ACHAT CB PHARMACIE VITR 06.08.24    -9.80
+39  2024-08-02 00:00:00  LBPMAE   VIREMENT DE ALLIANZ VIE ALLIANZ     7.95
+############################################################
+
+################################e############################
+Détails par catégorie => sortie -102.0
+
+                   Date  Banque                                 Libellé  Montant
+7   2024-08-26 00:00:00     LBP                                 Piscine   -11.00
+15  2024-08-19 00:00:00     LBP  "VIREMENT INSTANTANE A PAOLA EVG Dan "   -54.70
+66  2024-08-02 00:00:00     LBP                    La récré des 3 curés   -10.40
+2   2024-08-29 00:00:00  LBPMAE                        ACHAT CB GABYSAM    -8.30
+3   2024-08-28 00:00:00  LBPMAE                      ACHAT CB BEAJ KAFE    -4.30
+8   2024-08-27 00:00:00  LBPMAE            ACHAT CB BARIL OR DIE Xavier    -4.50
+12  2024-08-23 00:00:00  LBPMAE                        ACHAT CB GABYSAM    -4.50
+19  2024-08-21 00:00:00  LBPMAE                      ACHAT CB BEAJ KAFE    -4.30
+############################################################
+
+################################e############################
+Détails par catégorie => sport -16.0
+
+                   Date  Banque                           Libellé  Montant
+23  2024-08-19 00:00:00  LBPMAE  ACHAT CB DECATHLON affaires Pole   -16.00
+############################################################
+
+################################e############################
+Détails par catégorie => transport -130.5
+
+                   Date  Banque                           Libellé  Montant
+22  2024-08-19 00:00:00  LBPMAE              ACHAT CB INTER / DAC   -53.78
+29  2024-08-09 00:00:00  LBPMAE  ACHAT CB MAGASIN U      08.08.24   -46.11
+45  2024-08-01 00:00:00  LBPMAE                           essence   -30.61
+############################################################
+
+################################e############################
+Détails par catégorie => vacances -633.83
+
+                   Date  Banque                                    Libellé  Montant
+6          2024"/08/"15     CMB                      Virement Medi à check    15.00
+14  2024-08-19 00:00:00     LBP                            Virement à Manu  -108.06
+18  2024-08-19 00:00:00     LBP                                      Macdo   -32.20
+21  2024-08-19 00:00:00     LBP                                      Macdo    -4.30
+22  2024-08-19 00:00:00     LBP                                      Macdo    -2.70
+27  2024-08-16 00:00:00     LBP                                    Leclerc   -43.95
+28  2024-08-16 00:00:00     LBP                                L'oriflamme   -23.00
+29  2024-08-16 00:00:00     LBP                                      Macdo    -7.00
+30  2024-08-16 00:00:00     LBP                             Marie blachère    -6.60
+35  2024-08-13 00:00:00     LBP                             SAUT AUX LOUPS   -54.50
+37  2024-08-13 00:00:00     LBP                                  LE PALACE   -20.60
+38  2024-08-13 00:00:00     LBP                             SAUT AUX LOUPS   -16.00
+40  2024-08-12 00:00:00     LBP                                   BEN AISE   -66.00
+42  2024-08-12 00:00:00     LBP                    ROCHEMENIER VI 10.08.24   -34.00
+43  2024-08-12 00:00:00     LBP                            CAVES GENEVRAI    -34.00
+44  2024-08-12 00:00:00     LBP                               MAISON MIRET   -21.32
+45  2024-08-12 00:00:00     LBP                                      GFROY   -10.50
+46  2024-08-12 00:00:00     LBP                                CHEZ MAXIME    -5.00
+47  2024-08-12 00:00:00     LBP                                      GFROY    -5.00
+48  2024-08-12 00:00:00     LBP                             STATIONNT HORO    -1.50
+51  2024-08-07 00:00:00     LBP                                      GFROY   -15.00
+26  2024-08-12 00:00:00  LBPMAE                    ACHAT CB ABB FONTEVRAUD   -64.00
+27  2024-08-12 00:00:00  LBPMAE             ACHAT CB SISTERS ET CIE brunch   -50.00
+34  2024-08-05 00:00:00  LBPMAE  ACHAT CB AVIA  aire route        02.08.24    -7.30
+35  2024-08-05 00:00:00  LBPMAE       ACHAT CB CAMP DES GIRAF Zoo 03.08.24    -7.00
+36  2024-08-05 00:00:00  LBPMAE    ACHAT CB TERRA BOTANICA glaces 04.08.24    -6.20
+37  2024-08-05 00:00:00  LBPMAE        ACHAT CB PAIN PANTE  pdj   02.08.24    -3.10
+############################################################
+
+################################e############################
+Détails par catégorie => vetements -55.3
+
+                  Date  Banque             Libellé  Montant
+0  2024-08-29 00:00:00  LBPMAE  ACHAT CB CABAIA.FR   -55.30
+############################################################

@@ -7,7 +7,7 @@ class EspecesAccount(AbstractAccount, ABC):
 
     def __init__(self):
         super(EspecesAccount, self).__init__(
-            path="D:\\Mikail\\Papiers importants\\Comptes\\Especes\\",
+            path="Especes",
             preheader=0,
             bank="Especes",
             extension=".csv",

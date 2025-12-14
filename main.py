@@ -1,7 +1,6 @@
 import os
 import csv
 import pandas as pd
-from .cic_account import CICAccount as CA
 from .lbp_account import LBPAccount as LA
 from .lbpmae_account import LBPMaeAccount as LMA
 from .trmae_account import TRMaeAccount as TMA
@@ -11,25 +10,23 @@ from .especes_account import EspecesAccount as ESP
 pd.options.display.float_format = '{:,.2f}'.format
 
 def new_main(date, full):
-    ca = CA()
     cmb = CMB()
     la = LA()
     lma = LMA()
-    tma = TMA()
-    esp = ESP()
+    # tma = TMA()
+    # esp = ESP()
     all_accounts = [
-        ca,
         cmb,
         la,
-        lma,
-        tma,
-        esp,
+        lma
     ]
     total_data = []
     for account in all_accounts:
-        print(f"Dealing with package{account}")
+        print(f"Dealing with package {account}")
+        test = account.file_present(date)
         if account.file_present(date):
-            output_file = account.path + date + "_parsable_temp" + account.extension
+            output_file = account.path / f"{date}_parsable_temp{account.extension}"
+            test2 = (not os.path.isfile(output_file))
             if (
                 (not os.path.isfile(output_file))
                 or full
@@ -46,12 +43,17 @@ def new_main(date, full):
             csv_final_data["Libellé"] = csv_final_data["Libellé"].str.replace("", "€")
             csv_final_data["Montant"] = pd.to_numeric(csv_final_data["Montant"])
             total_data.append(csv_final_data)
+        else:
+            print("File not found")
+    if total_data == []:
+        print("Données vides")
+        exit
     df = pd.concat(total_data)
     # Restitution
     print("Apparté : montant caché (should be zéro) :", df[df["Tag"] == "caché"]["Montant"].sum())
     print(df[df["Tag"] == "caché"][["Date", "Banque", "Libellé", "Montant"]])
     print()
-    grouped_by_df = df[df["Tag"] != "caché"].groupby(['Tag']).sum()
+    grouped_by_df = df[df["Tag"] != "caché"].groupby(['Tag']).sum(numeric_only=True)
     pd.set_option("display.max_columns", 10)
     pd.set_option("display.width", 400)
     print("Dépenses totales par catégories :")

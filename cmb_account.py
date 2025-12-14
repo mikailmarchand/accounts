@@ -7,7 +7,7 @@ class CMBAccount(AbstractAccount, ABC):
     
     def __init__(self):
         super(CMBAccount, self).__init__(
-            path="D:\\Mikail\\Papiers importants\\Comptes\\CMB\\",
+            path="CMB",
             preheader = 1,
             bank="CMB",
             extension=".csv",

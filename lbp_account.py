@@ -7,7 +7,7 @@ class LBPAccount(AbstractAccount, ABC):
 
     def __init__(self):
         super(LBPAccount, self).__init__(
-            path="D:\\Mikail\\Papiers importants\\Comptes\\LBP\\",
+            path="LBP",
             # Changement du pré-header en février 2022
             preheader=7,
             bank="LBP",

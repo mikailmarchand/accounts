@@ -7,7 +7,7 @@ class LBPMaeAccount(AbstractAccount, ABC):
 
     def __init__(self):
         super(LBPMaeAccount, self).__init__(
-            path="D:\\Mikail\\Papiers importants\\Comptes\\LBP_Maeliss\\",
+            path="LBP_Maeliss",
             preheader=0,
             bank="LBPMAE",
             extension=".csv",

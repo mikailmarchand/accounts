@@ -7,7 +7,7 @@ class CICAccount(AbstractAccount, ABC):
     
     def __init__(self):
         super(CICAccount, self).__init__(
-            path="D:\\Mikail\\Papiers importants\\Comptes\\CIC\\",
+            path="CIC",
             preheader = 1,
             bank="CIC",
             extension=".csv",

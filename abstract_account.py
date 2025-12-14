@@ -1,9 +1,11 @@
 from abc import ABC, abstractmethod
 import csv
 import os
+from pathlib import Path
 
 
 class AbstractAccount(ABC):
+    DATA_ROOT = Path(__file__).resolve().parent / "Comptes"
 
     TAGS = {"abos": "abonnement", "abonnement": "abonnement", "autre": "autre", "caché": "caché", "cadeau": "cadeau",
             "dab": "dab", "don": "don", "emménagement": "emménagement", "loyer": "loyer", "matériel": "matériel",
@@ -22,7 +24,7 @@ class AbstractAccount(ABC):
     IN_TAGS = [x for cat, x in TAGS.items() if cat in ("vêtement", "remboursement", "salaire", "banque", "caché")]
 
     def __init__(self, path, preheader, bank, extension, delimiter):
-        self.__path = path
+        self.path = self.DATA_ROOT / path
         self.__preheader = preheader
         self.__bank = bank
         self.__extension = extension
@@ -84,7 +86,7 @@ class AbstractAccount(ABC):
         return f"Compte {self.__bank}"
 
     def file_present(self, date):
-        return os.path.isfile(self.path + date + self.extension)
+        return (self.path / f"{date}{self.extension}").is_file()
 
     def format_bank_file(self, date):
         path_file = self.path + date + self.extension

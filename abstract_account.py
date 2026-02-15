@@ -18,7 +18,7 @@ class AbstractAccount(ABC):
             "azenor": "azenor", "Azenor": "azenor", "evl": "evl", "vetements": "vêtements", "vetement": "vêtements",
             "fastfood": "fastfood", "transport": "transport", "coiffeur": "coiffeur", "autres": "autre",
             "fast-food": "fastfood", "coiffure": "coiffeur", "abo": "abonnement", "sport": "sport", "snap": "snap",
-            "materiel": "matériel"
+            "materiel": "matériel", "abonnements": "abonnement",
             }
 
     IN_TAGS = [x for cat, x in TAGS.items() if cat in ("vêtement", "remboursement", "salaire", "banque", "caché")]
@@ -89,8 +89,8 @@ class AbstractAccount(ABC):
         return (self.path / f"{date}{self.extension}").is_file()
 
     def format_bank_file(self, date):
-        path_file = self.path + date + self.extension
-        output_path = self.path + date + "_parsable_temp" + self.extension
+        path_file = self.path / f"{date}{self.extension}"
+        output_path = self.path / f"{date}_parsable_temp{self.extension}"
         with open(path_file, encoding='ISO-8859-14') as input_file:
             with open(output_path, "w", encoding="utf-8") as csv_file:
                 remb = False

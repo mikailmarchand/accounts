@@ -1,0 +1,277 @@
+Dépenses totales par catégories :
+             Montant
+Tag                 
+abonnement   -311.88
+assurance     -67.00
+autre         -23.36
+azenor        -80.00
+banque         61.26
+bouffe     -1,703.28
+cadeau        -20.00
+culture      -413.56
+economies    -200.00
+fast food     -27.00
+fastfood     -114.10
+loyer        -773.57
+magic         -56.55
+matériel      -74.92
+salaire     4,779.14
+santé         -75.65
+snap          -34.96
+sortie         -9.00
+sport         -39.98
+transport     -89.98
+
+Total balance :
+725.6100000000006
+################################e############################
+Détails par catégorie => abonnement -311.88
+
+         Date  Banque                                            Libellé  Montant
+40 2025-12-02     CMB                                   PayPal: disney +    -1.99
+3  2025-12-29     LBP                                              Engie  -149.94
+4  2025-12-29     LBP                                             Deezer   -11.99
+10 2025-12-22     LBP                                                EDF   -74.99
+11 2025-12-22     LBP                                           Bouygues    -8.99
+25 2025-12-15     LBP                                           Bouygues   -32.99
+46 2025-12-05     LBP                                     CGT (Syndicat)   -20.00
+20 2025-12-19  LBPMAE  PRELEVEMENT DE LA POSTE MOBILE REF : IN1090882...   -10.99
+############################################################
+
+################################e############################
+Détails par catégorie => assurance -67.0
+
+         Date  Banque                                            Libellé  Montant
+27 2025-12-15  LBPMAE  VIREMENT PERMANENT POUR MR MARCHAND PHILIPPE C...   -67.00
+############################################################
+
+################################e############################
+Détails par catégorie => autre -23.36
+
+         Date  Banque                                            Libellé  Montant
+1  2025-12-31     CMB                                           La Poste   -39.36
+13 2025-12-29     CMB                   "CARTE 27/12 GUIHO GAEL BEGANNE"    -6.00
+14 2025-12-28     CMB               "CARTE 27/12 SumUp  *Roger ve Brest"   -10.00
+15 2025-12-28     CMB        "CARTE 27/12 SumUp  *Morau MB Plouguerneau"    -5.00
+1  2025-12-31     LBP                            Virement Lucas Bourneuf   -96.20
+15 2025-12-22     LBP                           Virement CMB Siege (CSE)    70.00
+35 2025-12-11     LBP                                              SumUp    -8.00
+51 2025-12-02     LBP                           Virement CMB Siege (CSE)   -20.00
+52 2025-12-02     LBP                           Virement CMB Siege (CSE)    -5.00
+15 2025-12-24  LBPMAE  VIREMENT INSTANTANE DE BOURNEUF LUCAS de BOURN...    96.20
+############################################################
+
+################################e############################
+Détails par catégorie => azenor -80.0
+
+         Date  Banque                                            Libellé  Montant
+31 2025-12-11  LBPMAE  VIREMENT PERMANENT POUR MME MARCHAND AZENOR CO...   -50.00
+37 2025-12-08  LBPMAE  VIREMENT POUR MME MARCHAND AZENOR COMPTE FR411...   -30.00
+############################################################
+
+################################e############################
+Détails par catégorie => banque 61.26
+
+         Date  Banque                                            Libellé  Montant
+32 2025-12-08     CMB                              Cotisation eurocompte    -5.04
+1  2025-12-31  LBPMAE                INTERETS ACQUIS DECOMPTE D'INTERETS   102.53
+18 2025-12-22  LBPMAE  FOURNITURE D UNE CARTE DE DEBIT CARTE DE PAIEM...   -45.80
+51 2025-12-31  LBPMAE                INTERETS ACQUIS DECOMPTE D'INTERETS     9.57
+############################################################
+
+################################e############################
+Détails par catégorie => bouffe -1703.28
+
+         Date  Banque                                            Libellé  Montant
+2  2025-12-31     CMB                                   Super U Keredern   -22.44
+7  2025-12-30     CMB                                          Carrefour  -230.44
+12 2025-12-29     CMB                                   Super U Keredern   -47.31
+18 2025-12-24     CMB                                            Leclerc  -165.53
+19 2025-12-24     CMB                                   Super U Keredern   -28.01
+20 2025-12-24     CMB                                      Virement Medi    13.00
+21 2025-12-23     CMB                                            Leclerc  -187.05
+22 2025-12-22     CMB                                 Fournil de Pauline   -51.60
+26 2025-12-19     CMB                                   Super U Keredern   -63.51
+28 2025-12-18     CMB                                   Super U Keredern   -14.30
+12 2025-12-22     LBP                                           900.care   -20.80
+13 2025-12-22     LBP                                           900.care    -4.48
+16 2025-12-18     LBP                               Machine à café Arkéa    -0.35
+17 2025-12-18     LBP                               Machine à café Arkéa    -0.35
+18 2025-12-18     LBP                               Machine à café Arkéa    -0.35
+26 2025-12-15     LBP                                          Magasin U  -105.25
+28 2025-12-15     LBP                   Boulangerie : Fournil de Pauline   -23.20
+29 2025-12-15     LBP                   Boulangerie : Fournil de Pauline   -21.40
+33 2025-12-12     LBP                                          Carrefour    -3.37
+34 2025-12-11     LBP                                            Ti Coop   -33.61
+41 2025-12-09     LBP                                              Arkéa  -100.00
+43 2025-12-08     LBP                                          Carrefour  -221.44
+54 2025-12-02     LBP                                          Magasin U   -10.03
+56 2025-12-01     LBP                                          Magasin U  -112.00
+9  2025-12-30  LBPMAE                   ACHAT CB HELLOFRESH FRA 29.12.25  -113.56
+10 2025-12-29  LBPMAE     CREDIT CARTE BANCAIRE HELLOFRESH FRAN 26.12.25    22.19
+11 2025-12-29  LBPMAE     CREDIT CARTE BANCAIRE HELLOFRESH FRAN 26.12.25     3.33
+13 2025-12-26  LBPMAE  ACHAT CB BIOCOOP        24.12.25              ...    -2.50
+14 2025-12-24  LBPMAE  VIREMENT INSTANTANE DE BOURNEUF LUCAS de BOURN...   111.00
+16 2025-12-23  LBPMAE  ACHAT CB HELLOFRESH FRA 22.12.25              ...   -68.12
+17 2025-12-23  LBPMAE  ACHAT CB FOURNIL DE PAU 22.12.25              ...   -11.10
+19 2025-12-22  LBPMAE  ACHAT CB KERBIO         19.12.25              ...   -37.34
+22 2025-12-17  LBPMAE  ACHAT CB FONTAINE A PAI 16.12.25              ...    -8.90
+23 2025-12-16  LBPMAE  ACHAT CB HELLOFRESH FRA 15.12.25              ...   -68.12
+24 2025-12-16  LBPMAE  ACHAT CB MAGASIN U      15.12.25              ...    -6.70
+29 2025-12-15  LBPMAE  ACHAT CB BOULANG TREANT 12.12.25              ...    -8.70
+32 2025-12-11  LBPMAE  ACHAT CB TERCOC PF      10.12.25              ...    -9.96
+33 2025-12-10  LBPMAE  ACHAT CB BOULANG TREANT 09.12.25              ...    -2.15
+35 2025-12-09  LBPMAE  ACHAT CB BOULANG TREANT 08.12.25              ...    -1.25
+41 2025-12-05  LBPMAE  ACHAT CB LECLERC        04.12.25              ...    -8.17
+42 2025-12-05  LBPMAE  ACHAT CB BOULANG TREANT 04.12.25              ...    -6.85
+43 2025-12-04  LBPMAE  ACHAT CB MAGASIN U      03.12.25              ...    -6.00
+46 2025-12-02  LBPMAE  ACHAT CB BOULANG TREANT 01.12.25              ...    -8.70
+49 2025-12-01  LBPMAE  ACHAT CB KERBIO         28.11.25              ...   -15.26
+50 2025-12-01  LBPMAE  ACHAT CB FOURNIL DE PAU 28.11.25              ...    -2.60
+############################################################
+
+################################e############################
+Détails par catégorie => cadeau -20.0
+
+         Date Banque         Libellé  Montant
+50 2025-12-03    LBP  Virement Steph   -20.00
+############################################################
+
+################################e############################
+Détails par catégorie => culture -413.56000000000006
+
+         Date  Banque                                            Libellé  Montant
+0  2025-12-31     CMB                                    Virement Julien    90.00
+16 2025-12-24     CMB                                       PayPal:Steam   -25.49
+17 2025-12-24     CMB                                         PayPal:BGA   -10.00
+25 2025-12-19     CMB                                       Ludik Addict   -67.50
+29 2025-12-17     CMB                               PayPal: simply piano  -129.99
+38 2025-12-02     CMB                                      PayPal: steam   -19.99
+5  2025-12-29     LBP                                           Nintendo    -2.49
+6  2025-12-29     LBP                                           Nintendo    -2.49
+7  2025-12-29     LBP                                           Nintendo    -2.49
+8  2025-12-26     LBP                                           Nintendo   -12.49
+22 2025-12-16     LBP                                             Vinted    18.00
+47 2025-12-05     LBP                                    Tickets concert  -167.65
+53 2025-12-02     LBP                                             Vinted   -23.89
+57 2025-12-01     LBP                                  Leclerc web achat   -51.49
+25 2025-12-16  LBPMAE  ACHAT CB DIALOGUES PAPE 15.12.25              ...    -5.60
+############################################################
+
+################################e############################
+Détails par catégorie => economies -200.0
+
+         Date Banque        Libellé  Montant
+20 2025-12-16    LBP  Virement Mika  -100.00
+23 2025-12-15    LBP  Virement Mika  -100.00
+############################################################
+
+################################e############################
+Détails par catégorie => fast food -27.0
+
+         Date  Banque                                            Libellé  Montant
+21 2025-12-17  LBPMAE  ACHAT CB MAMAMIA        16.12.25              ...   -27.00
+############################################################
+
+################################e############################
+Détails par catégorie => fastfood -114.1
+
+         Date Banque      Libellé  Montant
+8  2025-12-30    CMB  Macdo Brest   -40.50
+44 2025-12-08    LBP        Macdo   -45.10
+48 2025-12-05    LBP      Mamamia   -20.00
+58 2025-12-01    LBP     Roadside    -8.50
+############################################################
+
+################################e############################
+Détails par catégorie => loyer -773.57
+
+         Date  Banque                                            Libellé  Montant
+30 2025-12-09     CMB                           Forever : Assurance prêt   -27.57
+33 2025-12-05     CMB                               Assurance habitation   -16.64
+34 2025-12-05     CMB                            Echeance prêt principal  -496.79
+35 2025-12-05     CMB                            Echeance prêt taux zéro  -123.62
+43 2025-12-01     CMB                    Mensualité appel de fond Syndic   -89.20
+34 2025-12-09  LBPMAE  PRELEVEMENT DE FOREVER REF : PCTFP000000561L00...   -19.75
+############################################################
+
+################################e############################
+Détails par catégorie => magic -56.55
+
+         Date Banque      Libellé  Montant
+36 2025-12-10    LBP  MKM (Magic)    -2.69
+37 2025-12-10    LBP  MKM (Magic)    -3.11
+38 2025-12-10    LBP  MKM (Magic)    -2.85
+39 2025-12-10    LBP  MKM (Magic)    -4.28
+42 2025-12-08    LBP  MKM (Magic)    -1.94
+49 2025-12-04    LBP  MKM (Magic)   -33.89
+55 2025-12-01    LBP  MKM (Magic)    -7.79
+############################################################
+
+################################e############################
+Détails par catégorie => matériel -74.92
+
+         Date  Banque                                            Libellé  Montant
+9  2025-12-30     CMB                                             Action   -13.07
+27 2025-12-15     LBP                                           Manomano   -51.85
+36 2025-12-08  LBPMAE  VIREMENT INSTANTANE A VAUSELLE MANUEL Bicarbonate   -10.00
+############################################################
+
+################################e############################
+Détails par catégorie => salaire 4779.14
+
+         Date  Banque                                            Libellé  Montant
+27 2025-12-19     CMB                                      Salaire Arkea 3,756.44
+47 2025-12-02  LBPMAE  VIREMENT DE FRANCE TRAVAIL BRETA 25332503690 2... 1,022.70
+############################################################
+
+################################e############################
+Détails par catégorie => santé -75.65
+
+         Date  Banque                                            Libellé  Montant
+23 2025-12-22     CMB                                Mutuelle Génération     9.00
+37 2025-12-03     CMB                                Mutuelle Génération    36.00
+21 2025-12-16     LBP                                   Pharmacie Relecq    -2.40
+30 2025-12-15     LBP                                          Pharmacie   -18.76
+40 2025-12-10     LBP                             Générations (mutuelle)   -76.54
+12 2025-12-26  LBPMAE  ACHAT CB DR SABLON DU C 24.12.25              ...    -9.00
+26 2025-12-16  LBPMAE  ACHAT CB RADIOLOGIE LIB 15.12.25              ...    -3.00
+30 2025-12-12  LBPMAE  ACHAT CB DR SABLON DU C 11.12.25              ...    -9.00
+44 2025-12-04  LBPMAE  VIREMENT DE MSA D ARMORIQUE VIR MALADIE NAT.  ...     9.00
+45 2025-12-03  LBPMAE  VIREMENT DE MSA D ARMORIQUE VIR NORMES        ...    15.55
+48 2025-12-01  LBPMAE  ACHAT CB SumUp   Anne J 28.11.25 EUR         2...   -26.50
+############################################################
+
+################################e############################
+Détails par catégorie => snap -34.96
+
+         Date Banque       Libellé  Montant
+6  2025-12-30    CMB   PayPal:snap   -11.99
+31 2025-12-09    CMB   PayPal:snap    -5.99
+36 2025-12-04    CMB  PayPal: snap   -10.99
+39 2025-12-02    CMB  PayPal: snap    -5.99
+############################################################
+
+################################e############################
+Détails par catégorie => sortie -9.0
+
+         Date  Banque                                            Libellé  Montant
+28 2025-12-15  LBPMAE  ACHAT CB CREP. BLE NOIR 13.12.25              ...    -9.00
+############################################################
+
+################################e############################
+Détails par catégorie => sport -39.98
+
+         Date Banque    Libellé  Montant
+11 2025-12-29    CMB  Basic Fit   -19.99
+41 2025-12-01    CMB  Basic Fit   -19.99
+############################################################
+
+################################e############################
+Détails par catégorie => transport -89.98
+
+         Date Banque             Libellé  Montant
+4  2025-12-30    CMB    PayPal:blablacar    -4.99
+5  2025-12-30    CMB    PayPal:blablacar    -4.99
+32 2025-12-12    LBP  Les vélos brestois   -80.00
+############################################################

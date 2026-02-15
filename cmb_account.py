@@ -22,6 +22,37 @@ class CMBAccount(AbstractAccount, ABC):
             cat = self.TAGS["check"]
             number_match += 1
         """
+        if "M. OU MME BOUVET JULIEN" in lib:
+            lib = "Virement Julien"
+            cat = self.TAGS["check"]
+            number_match += 1
+        if "CARREFOUR BREST" in lib:
+            lib = "Carrefour"
+            cat = self.TAGS["bouffe"]
+            number_match += 1
+        if "Action" in lib:
+            lib = "Action"
+            cat = self.TAGS["materiel"]
+            number_match += 1
+        if "SumUp" in lib:
+            cat = self.TAGS["check"]
+            number_match += 1
+        if "LECLERC" in lib:
+            lib = "Leclerc"
+            cat = self.TAGS["bouffe"]
+            number_match += 1
+        if "M MEDI DEMIRDELEN" in lib:
+            lib = "Virement Medi"
+            cat = self.TAGS["check"]
+            number_match += 1
+        if "FOURNIL DE PAULI" in lib:
+            lib = "Fournil de Pauline"
+            cat = self.TAGS["bouffe"]
+            number_match += 1
+        if "BREST LUDIQUE" in lib:
+            lib = "Ludik Addict"
+            cat = self.TAGS["culture"]
+            number_match += 1
         if "PayPal" in lib:
             lib = "PayPal"
             cat = self.TAGS["check"]
@@ -226,6 +257,8 @@ class CMBAccount(AbstractAccount, ABC):
 
     def split_date_lib_eur(self, line, delimiter):
         dateOp, date, lib, debit, credit = line.split(delimiter)
+        date = date.replace("\"\"", "")
+        date = date.replace("\"", "")
         debit = str(debit).replace('"', "").replace(",", ".")
         credit = str(credit).replace('"', "").replace(",", ".")
         if debit.strip() == "":

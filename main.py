@@ -74,6 +74,6 @@ def new_main(date, full):
 
 
 if __name__ == '__main__':
-    date = "25juin"
+    date = "25dec"
     full = False
     new_main(date, full)

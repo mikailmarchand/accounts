@@ -47,6 +47,50 @@ class LBPAccount(AbstractAccount, ABC):
             cat = self.TAGS["check"]
             number_match += 1
         """
+        if "LUCAS BOURNEUF" in lib:
+            lib = "Virement Lucas Bourneuf"
+            cat = self.TAGS["check"]
+            number_match += 1
+        if "ENGIE ENERGIE" in lib:
+            lib = "Engie"
+            cat = self.TAGS["abonnements"]
+            number_match += 1
+        if "DeezerFR" in lib:
+            lib = "Deezer"
+            cat = self.TAGS["abonnements"]
+            number_match += 1
+        if "Nintendo" in lib:
+            lib = "Nintendo"
+            cat = self.TAGS["culture"]
+            number_match += 1
+        if "CMB SIEGE" in lib:
+            lib = "Virement CMB Siege (CSE)"
+            cat = self.TAGS["autre"]
+            number_match += 1
+        if "Vinted" in lib:
+            lib = "Vinted"
+            cat = self.TAGS["culture"]
+            number_match += 1
+        if "MANOMANO" in lib:
+            lib = "Manomano"
+            cat = self.TAGS["materiel"]
+            number_match += 1
+        if "SumUp" in lib:
+            lib = "SumUp"
+            cat = self.TAGS["check"]
+            number_match += 1
+        if "TICKETS" in lib:
+            lib = "Tickets ?"
+            cat = self.TAGS["check"]
+            number_match += 1
+        if "STEPHANE COUSSEAU" in lib:
+            lib = "Virement Steph"
+            cat = self.TAGS["check"]
+            number_match += 1
+        if "L Commerce" in lib:
+            lib = "Leclerc web achat"
+            cat = self.TAGS["culture"]
+            number_match += 1
         if "CAPU BREST PAR" in lib:
             lib = "Parking Les Capucins"
             cat = self.TAGS["transport"]

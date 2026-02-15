@@ -16,7 +16,7 @@ class LBPMaeAccount(AbstractAccount, ABC):
 
     def split_date(self, date):
         a, m, j = date.split("/")
-        return j, m, a
+        return j, m, "20"+a
 
     def split_date_lib_eur(self, line, delimiter):
         if line.strip() != "":

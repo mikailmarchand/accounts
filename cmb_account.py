@@ -22,6 +22,50 @@ class CMBAccount(AbstractAccount, ABC):
             cat = self.TAGS["check"]
             number_match += 1
         """
+        if "LA FABRIK 1801" in lib:
+            lib = "La Fabrik 1801"
+            cat = self.TAGS["resto"]
+            number_match += 1
+        if "WERO TIPHAINE" in lib:
+            lib = "Virement Tiphaine (wero)"
+            cat = self.TAGS["check"]
+            number_match += 1
+        if "INTERMARCHE" in lib:
+            lib = "Intermarché"
+            cat = self.TAGS["bouffe"]
+            number_match += 1
+        if "MC DONALD" in lib:
+            lib = "Macdo"
+            cat = self.TAGS["fast-food"]
+            number_match += 1
+        if "LAURA BRIOT" in lib:
+            lib = "Dentiste Plouzané"
+            cat = self.TAGS["santé"]
+            number_match += 1
+        if "DR SABLON DU COR" in lib:
+            lib = "Dr Du Corail"
+            cat = self.TAGS["santé"]
+            number_match += 1
+        if "FOURNIL-SS" in lib:
+            lib = "Fournil (boulangerie)"
+            cat = self.TAGS["bouffe"]
+            number_match += 1
+        if "PHARMACIE" in lib:
+            lib = "Pharmacie"
+            cat = self.TAGS["santé"]
+            number_match += 1
+        if "DILAN DEMIRDELEN" in lib:
+            lib = "Virement Dilan"
+            cat = self.TAGS["check"]
+            number_match += 1
+        if "BURGER KING" in lib:
+            lib = "Burger King"
+            cat = self.TAGS["fast-food"]
+            number_match += 1
+        if "MAMAMIA" in lib:
+            lib = "Mamamia (fast food)"
+            cat = self.TAGS["fast-food"]
+            number_match += 1
         if "M. OU MME BOUVET JULIEN" in lib:
             lib = "Virement Julien"
             cat = self.TAGS["check"]

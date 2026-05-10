@@ -47,6 +47,54 @@ class LBPAccount(AbstractAccount, ABC):
             cat = self.TAGS["check"]
             number_match += 1
         """
+        if "SQUASH CLUB" in lib:
+            lib = "SQUASH CLUB"
+            cat = self.TAGS["resto"]
+            number_match += 1
+        if "DR LAURA BRIOT" in lib:
+            lib = "Dentiste"
+            cat = self.TAGS["santé"]
+            number_match += 1
+        if "LE COMPTOIR DE" in lib:
+            lib = "Le comptoir de ???"
+            cat = self.TAGS["autre"]
+            number_match += 1
+        if "LIVLAB" in lib:
+            lib = "Livlab (sommeil)"
+            cat = self.TAGS["santé"]
+            number_match += 1
+        if "Victorinox" in lib:
+            lib = "Victorinox"
+            cat = self.TAGS["materiel"]
+            number_match += 1
+        if "NACHOS" in lib:
+            lib = "Nachos"
+            cat = self.TAGS["fastfood"]
+            number_match += 1
+        if "PAIN PANTE" in lib:
+            lib = "Pain Pante"
+            cat = self.TAGS["sortie"]
+            number_match += 1
+        if "EUREST" in lib:
+            lib = "Eurest (resto arkea)"
+            cat = self.TAGS["bouffe"]
+            number_match += 1
+        if "ABEBOOKS" in lib:
+            lib = "Abebooks"
+            cat = self.TAGS["culture"]
+            number_match += 1
+        if "FEED SMART FOO" in lib:
+            lib = "Feed. (O.K.R.)"
+            cat = self.TAGS["bouffe"]
+            number_match += 1
+        if "4X TRADING" in lib:
+            lib = "4x Trading"
+            cat = self.TAGS["magic"]
+            number_match += 1
+        if "SGC BREST" in lib:
+            lib = "SGC (école azenor?)"
+            cat = self.TAGS["azenor"]
+            number_match += 1
         if "LUCAS BOURNEUF" in lib:
             lib = "Virement Lucas Bourneuf"
             cat = self.TAGS["check"]
@@ -288,8 +336,8 @@ class LBPAccount(AbstractAccount, ABC):
             cat = self.TAGS["resto"]
             number_match += 1
         if "XIN LE YUAN" in lib:
-            lib = "XIN LE YUAN"
-            cat = self.TAGS["autre"]
+            lib = "Cina Town"
+            cat = self.TAGS["resto"]
             number_match += 1
         if "900CARE" in lib:
             lib = "900care"

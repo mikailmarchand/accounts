@@ -1,0 +1,281 @@
+Dépenses totales par catégories :
+             Montant
+Tag                 
+abonnement   -178.95
+assurance     -67.00
+autre        -137.72
+azenor       -260.93
+banque         -5.11
+bouffe       -734.51
+cadeau        105.00
+coiffeur      -23.50
+culture      -189.33
+dab           -20.00
+dessin        -90.59
+economies    -200.00
+fast food     -52.00
+fastfood      -57.20
+impots       -102.00
+loyer      -1,180.16
+magic          47.00
+matériel     -458.45
+salaire     3,379.48
+santé         -76.72
+sortie       -112.00
+sport         -19.99
+transport    -120.07
+
+Total balance :
+-554.75
+################################e############################
+Détails par catégorie => abonnement -178.95
+
+         Date  Banque                                            Libellé  Montant
+35 2026-02-03     CMB                                         PayPal: D+    -6.99
+5  2026-02-23     LBP                                                EDF   -74.99
+14 2026-02-20     LBP                                           Bouygues    -8.99
+24 2026-02-12     LBP                                           Bouygues   -25.99
+39 2026-02-05     LBP                                     CGT (Syndicat)   -20.00
+9  2026-02-19  LBPMAE  PRELEVEMENT DE LA POSTE MOBILE REF : IN1096100...   -10.99
+32 2026-02-09  LBPMAE  PRELEVEMENT DE SYNDICAT DES META CGT REF : ASS...   -31.00
+############################################################
+
+################################e############################
+Détails par catégorie => assurance -67.0
+
+         Date  Banque                                            Libellé  Montant
+14 2026-02-16  LBPMAE  VIREMENT PERMANENT POUR MR MARCHAND PHILIPPE C...   -67.00
+############################################################
+
+################################e############################
+Détails par catégorie => autre -137.72
+
+         Date Banque                               Libellé  Montant
+12 2026-02-13    CMB       "CARTE 12/02 LB COMMERCE BREST"    -6.02
+21 2026-02-09    CMB  "CARTE 07/02 ASSOC   COMITE D BREST"   -15.00
+22 2026-02-09    CMB   "CARTE 07/02 MILLE ET UNE LU PARIS"    -6.50
+37 2026-02-02    CMB   "CARTE 31/01 JOUR DE FETE GUIPAVAS"   -90.20
+44 2026-02-03    LBP              Virement CMB Siege (CSE)   -20.00
+############################################################
+
+################################e############################
+Détails par catégorie => azenor -260.93
+
+         Date  Banque                                            Libellé  Montant
+26 2026-02-11     LBP                                SGC (école azenor?)  -186.93
+25 2026-02-11  LBPMAE  VIREMENT PERMANENT POUR MME MARCHAND AZENOR CO...   -50.00
+41 2026-02-02  LBPMAE  ACHAT CB Pandacraft     30.01.26              ...   -24.00
+############################################################
+
+################################e############################
+Détails par catégorie => banque -5.11
+
+         Date Banque                Libellé  Montant
+20 2026-02-07    CMB  Cotisation eurocompte    -5.11
+############################################################
+
+################################e############################
+Détails par catégorie => bouffe -734.51
+
+         Date  Banque                                            Libellé  Montant
+2  2026-02-26     CMB                                       PayPal: Feed   -84.00
+3  2026-02-25     CMB                                        Intermarché    -6.44
+7  2026-02-21     CMB                               Tartines d'autrefois   -20.25
+8  2026-02-20     CMB                                   Super U Keredern   -79.31
+9  2026-02-17     CMB                                 PayPal: Hellofresh   -82.19
+15 2026-02-11     CMB                                   Super U Keredern   -12.60
+18 2026-02-10     CMB                                 PayPal: Hellofresh   -79.20
+24 2026-02-07     CMB                               Machine à café Arkéa    -0.35
+25 2026-02-07     CMB                               Machine à café Arkéa    -0.35
+26 2026-02-07     CMB                               Machine à café Arkéa    -0.35
+27 2026-02-07     CMB                               Machine à café Arkéa    -0.35
+32 2026-02-03     CMB                                 PayPal: Hellofresh   -94.77
+36 2026-02-03     CMB                                   Super U Keredern   -13.96
+3  2026-02-24     LBP                                        Intermarché   -20.38
+27 2026-02-11     LBP                                          Magasin U   -10.03
+29 2026-02-10     LBP                                          Magasin U   -14.31
+31 2026-02-09     LBP                   Boulangerie : Fournil de Pauline   -13.60
+33 2026-02-09     LBP                               Machine à café Arkéa    -0.35
+34 2026-02-09     LBP                               Machine à café Arkéa    -0.35
+35 2026-02-09     LBP                               Machine à café Arkéa    -0.35
+36 2026-02-09     LBP                               Machine à café Arkéa    -0.35
+37 2026-02-09     LBP                               Machine à café Arkéa    -0.35
+40 2026-02-05     LBP                                            Ti Coop   -66.85
+42 2026-02-05     LBP                               Machine à café Arkéa    -0.35
+43 2026-02-04     LBP                                          Magasin U   -10.33
+5  2026-02-24  LBPMAE  ACHAT CB KERBIO         23.02.26              ...   -55.31
+8  2026-02-23  LBPMAE  ACHAT CB PICASSO  apin      21.02.26          ...    -1.74
+21 2026-02-13  LBPMAE  ACHAT CB FOURNIL DE PAU 12.02.26              ...    -2.40
+24 2026-02-12  LBPMAE  ACHAT CB PAIN PANTE     11.02.26              ...    -1.30
+28 2026-02-11  LBPMAE  ACHAT CB KERICCI        10.02.26              ...   -24.88
+34 2026-02-09  LBPMAE  ACHAT CB PAIN PANTE     06.02.26              ...    -4.65
+36 2026-02-09  LBPMAE  ACHAT CB CARREFOUR BRES 06.02.26              ...    -3.90
+38 2026-02-05  LBPMAE  ACHAT CB PAIN PANTE     04.02.26              ...   -11.10
+42 2026-02-02  LBPMAE  ACHAT CB KERICCI        30.01.26              ...   -17.51
+############################################################
+
+################################e############################
+Détails par catégorie => cadeau 105.0
+
+         Date  Banque                          Libellé  Montant
+30 2026-02-10  LBPMAE  REMISE DE CHEQUES DU 09/02/2026   105.00
+############################################################
+
+################################e############################
+Détails par catégorie => coiffeur -23.5
+
+         Date Banque             Libellé  Montant
+13 2026-02-12    CMB  La salon de Sabine   -23.50
+############################################################
+
+################################e############################
+Détails par catégorie => culture -189.32999999999998
+
+         Date  Banque                                            Libellé  Montant
+4  2026-02-24     CMB                                      PayPal: Steam   -15.87
+10 2026-02-16     CMB                                      PayPal: Steam    -6.48
+34 2026-02-03     CMB                                      PayPal: Steam   -10.51
+38 2026-02-02     CMB                                       Ludik Addict   -18.00
+1  2026-02-25     LBP                              Dialogues (Librairie)   -32.00
+16 2026-02-18     LBP                                           Abebooks   -32.72
+22 2026-02-16     LBP                                           Abebooks   -13.85
+15 2026-02-16  LBPMAE  ACHAT CB T AND C ATELIE 13.02.26              ...   -59.90
+############################################################
+
+################################e############################
+Détails par catégorie => dab -20.0
+
+         Date Banque  Libellé  Montant
+13 2026-02-23    LBP  Retrait   -20.00
+############################################################
+
+################################e############################
+Détails par catégorie => dessin -90.59
+
+        Date Banque                                            Libellé  Montant
+0 2026-02-27    LBP                                             Vinted   -78.09
+2 2026-02-25    LBP  "ACHAT CB DIALOGUE BEAUX 24.02.26 CARTE NUMERO...   -12.50
+############################################################
+
+################################e############################
+Détails par catégorie => economies -200.0
+
+         Date Banque        Libellé  Montant
+18 2026-02-16    LBP  Virement Mika  -100.00
+20 2026-02-16    LBP  Virement Mika  -100.00
+############################################################
+
+################################e############################
+Détails par catégorie => fast food -52.0
+
+         Date  Banque                                            Libellé  Montant
+17 2026-02-16  LBPMAE  ACHAT CB MAMAMIA        13.02.26              ...   -24.00
+40 2026-02-03  LBPMAE  ACHAT CB MAMAMIA        02.02.26              ...   -28.00
+############################################################
+
+################################e############################
+Détails par catégorie => fastfood -57.2
+
+         Date Banque                                            Libellé  Montant
+6  2026-02-23    CMB              "CARTE 21/02 MAISON ARLOT CHE NANTES"   -21.20
+6  2026-02-23    LBP  "ACHAT CB FRAID CHAUD    22.02.26 CARTE NUMERO...   -21.00
+41 2026-02-05    LBP                                        Allo Pizzas   -15.00
+############################################################
+
+################################e############################
+Détails par catégorie => impots -102.0
+
+         Date Banque Libellé  Montant
+17 2026-02-17    LBP  Impots  -102.00
+############################################################
+
+################################e############################
+Détails par catégorie => loyer -1180.16
+
+         Date  Banque                                            Libellé  Montant
+17 2026-02-10     CMB                    Mensualité appel de fond Syndic  -401.97
+28 2026-02-05     CMB                           Forever : Assurance prêt   -33.40
+29 2026-02-05     CMB                               Assurance habitation   -16.64
+30 2026-02-05     CMB                            Echeance prêt principal  -496.79
+31 2026-02-05     CMB                            Echeance prêt taux zéro  -123.62
+39 2026-02-01     CMB                    Mensualité appel de fond Syndic   -89.20
+37 2026-02-05  LBPMAE  PRELEVEMENT DE FOREVER REF : PCTFP000000584L00...   -18.54
+############################################################
+
+################################e############################
+Détails par catégorie => magic 47.0
+
+         Date Banque                                Libellé  Montant
+33 2026-02-03    CMB  PayPal: Remboursement magic guillaume    47.00
+############################################################
+
+################################e############################
+Détails par catégorie => matériel -458.45
+
+         Date  Banque                                            Libellé  Montant
+8  2026-02-23     LBP                                      Bureau Vallée    -8.07
+15 2026-02-19     LBP                                             Amazon    -2.38
+26 2026-02-11  LBPMAE  ACHAT CB ENVIE 29       10.02.26              ...  -378.00
+33 2026-02-09  LBPMAE  ACHAT CB SumUp   Iroise 07.02.26 EUR   rÃ©para...   -70.00
+############################################################
+
+################################e############################
+Détails par catégorie => salaire 3379.48
+
+         Date  Banque                                            Libellé  Montant
+1  2026-02-27     CMB                                      Salaire Arkea 1,934.89
+44 2026-02-02  LBPMAE  VIREMENT DE EARL QUENTEL FRERES 2MAM/2026-01-3... 1,444.59
+############################################################
+
+################################e############################
+Détails par catégorie => santé -76.72
+
+         Date  Banque                                            Libellé  Montant
+14 2026-02-12     CMB                                Mutuelle Génération     9.00
+16 2026-02-11     CMB                                Mutuelle Génération    48.97
+28 2026-02-10     LBP                             Générations (mutuelle)   -78.10
+7  2026-02-23  LBPMAE  ACHAT CB PHARMACIE FOUC 21.02.26              ...    -9.13
+13 2026-02-17  LBPMAE  ACHAT CB PHARMACIE KER  16.02.26              ...    -7.65
+22 2026-02-13  LBPMAE  ACHAT CB PHARMACIE NICO 12.02.26              ...    -1.05
+27 2026-02-11  LBPMAE  ACHAT CB PHARMACIE NICO 10.02.26              ...   -25.86
+35 2026-02-09  LBPMAE  ACHAT CB PHARMACIE NICO 06.02.26              ...    -3.90
+39 2026-02-04  LBPMAE  ACHAT CB DR SABLON DU C 03.02.26              ...    -9.00
+############################################################
+
+################################e############################
+Détails par catégorie => sortie -112.0
+
+         Date  Banque                                            Libellé  Montant
+7  2026-02-23     LBP                                          Starbucks   -13.40
+9  2026-02-23     LBP  "ACHAT CB MAISON ARLOT C 21.02.26 CARTE NUMERO...    -3.80
+21 2026-02-16     LBP  "ACHAT CB WAFFLE GARDEN  14.02.26 CARTE NUMERO...   -27.50
+4  2026-02-26  LBPMAE  ACHAT CB BARIL OR DIE Estelle   25.02.26      ...    -4.00
+10 2026-02-19  LBPMAE  ACHAT CB AU P TIT LIPOU 18.02.26              ...   -14.60
+18 2026-02-16  LBPMAE  ACHAT CB FOURNIL DE PAU 13.02.26              ...   -18.70
+19 2026-02-16  LBPMAE  ACHAT CB FOURNIL DE PAU 15.02.26              ...   -12.90
+23 2026-02-12  LBPMAE  ACHAT CB PAIN PANTE     11.02.26              ...   -12.10
+43 2026-02-02  LBPMAE  ACHAT CB BLE NOIR       01.02.26              ...    -5.00
+############################################################
+
+################################e############################
+Détails par catégorie => sport -19.99
+
+        Date Banque    Libellé  Montant
+5 2026-02-23    CMB  Basic Fit   -19.99
+############################################################
+
+################################e############################
+Détails par catégorie => transport -120.07
+
+         Date  Banque                                            Libellé  Montant
+11 2026-02-16     CMB         "CARTE 12/02 LEEK5RJRDZD3 www STARÂ£CUMUL"    -1.70
+19 2026-02-10     CMB                                  PayPal: Blablacar    -4.99
+10 2026-02-23     LBP                                              Bibus    -3.40
+11 2026-02-23     LBP                                              Bibus    -1.70
+12 2026-02-23     LBP  "ACHAT CB 230233676106 1 22.02.26 CARTE NUMERO...    -1.70
+23 2026-02-16     LBP  "ACHAT CB 4YUTFPOPELIM w 14.02.26 CARTE NUMERO...    -1.70
+32 2026-02-09     LBP                                               SNCF   -12.00
+11 2026-02-19  LBPMAE  ACHAT CB HORODATEUR     18.02.26              ...    -2.80
+12 2026-02-18  LBPMAE  ACHAT CB LECLERC GOUESN 17.02.26              ...   -56.70
+16 2026-02-16  LBPMAE  ACHAT CB MAGASIN U      13.02.26              ...   -33.38
+############################################################
